@@ -1,0 +1,1930 @@
+,rest_id,rest_name,locality,cuisines,cost_for_two,ratings,votes
+0,17114993,Terry's Turf Club,Hyde Park/Mount Lookout,"['Burger', 'Bar Food', 'Sandwich']",$$,4.7,1038
+1,17113965,Nada,Downtown,"['Breakfast', 'Mexican']",$$$,4.6,933
+2,17115298,Zip's Cafe,Hyde Park/Mount Lookout,"['Burger', 'Bar Food', 'Sandwich']",$,4.7,694
+3,17112031,Arthur's,Hyde Park/Mount Lookout,"['Burger', 'Bar Food', 'Sandwich']",$$,4.7,632
+4,17116251,Senate,Over-the-Rhine/Mount Auburn,['Bar Food'],$$,4.6,596
+5,17111905,Ambar India,Clifton/Avondale,"['Indian', 'Pakistani', 'Vegetarian']",$$,4.5,538
+6,17116879,Eli's BBQ,East End/Mount Washington,"['BBQ', 'Southern']",$,4.9,567
+7,17116915,Moerlein Lager House,Downtown,"['Burger', 'Bar Food']",$$$,4.2,503
+8,17116958,Bakersfield OTR,Over-the-Rhine/Mount Auburn,"['Mexican', 'California']",$,4.7,499
+9,17111885,Adriatico's Pizza,Clifton/Avondale,"['Italian', 'Pizza']",$,4.9,519
+10,17113275,Hofbrauhaus,Campbell County,['German'],$$,4.2,523
+11,17113924,Montgomery Inn,Montgomery,"['BBQ', 'Bar Food']",$$$,3.9,513
+12,17113867,Melt Eclectic Deli,Northside,"['Sandwich', 'Vegetarian']",$,4.7,500
+13,17116652,Taste of Belgium - Over The Rhine,Over-the-Rhine/Mount Auburn,"['Belgian', 'European', 'International']",$$,4.3,371
+14,17113221,Green Papaya,Hyde Park/Mount Lookout,"['Sushi', 'Thai', 'Vegetarian']",$$,4.5,480
+15,17117536,The Eagle Food and Beer Hall,Over-the-Rhine/Mount Auburn,['Southern'],$,4.6,325
+16,17113386,The Precinct,East End/Mount Washington,['Steak'],$$$$,4.4,448
+17,17116462,A Tavola,Over-the-Rhine/Mount Auburn,"['Desserts', 'Italian', 'Pizza']",$$,4.5,390
+18,17117284,Sotto,Downtown,"['French', 'Italian', 'Tapas']",$$$,4.3,186
+19,17112740,Dewey's Pizza,Clifton/Avondale,['Pizza'],$$,4.6,442
+20,17114146,Pappadeaux Seafood Kitchen,Springdale,"['Seafood', 'Cajun']",$$$,4.4,373
+21,17115086,Via Vite,Downtown,"['Breakfast', 'Italian', 'Pizza']",$$$,4.1,338
+22,17116382,Pho Lang Thang,Over-the-Rhine/Mount Auburn,"['Sandwich', 'Vietnamese']",$,4.8,358
+23,17113183,Graeter's Ice Cream,Clifton/Avondale,"['Desserts', 'Ice Cream']",$,4.6,406
+24,17116399,Tom+Chee,Downtown,['Sandwich'],$,4.4,349
+25,17116084,Sammy's Gourmet Burgers and Beer,Blue Ash,"['Burger', 'Bar Food']",$$,4.4,301
+26,17112195,Boca,Downtown,"['American', 'French', 'Italian']",$$$,4.3,334
+27,17115942,Dusmesh Indian Restaurant,Northside,"['Indian', 'Pakistani']",$$,4.8,339
+28,17113497,Keystone Bar & Grill,Covington,"['Burger', 'Sandwich']",$,4.2,305
+29,17114597,Shanghai Mama's,Downtown,"['Asian', 'Chinese']",$,4.2,301
+30,17114481,Rock Bottom Brewery,Downtown,"['Burger', 'Bar Food', 'Sandwich']",$$,4.0,305
+31,17113387,Jeff Ruby's Steakhouse,Downtown,"['Seafood', 'Steak']",$$$$,4.3,317
+32,17117099,Incline Public House,Price Hill/Fairmount,"['Pizza', 'Sandwich']",$$,4.4,270
+33,17112027,Arnold's Bar & Grill,Downtown,"['Burger', 'Bar Food', 'Sandwich']",$$,4.3,319
+34,17114989,Tellers of Hyde Park,Hyde Park/Mount Lookout,"['Breakfast', 'International']",$$$,4.1,322
+35,17112747,Dilly Café,Mariemont,['Cafe'],$$,4.3,292
+36,17115340,Gordo's Pub & Grill,Norwood,"['Burger', 'Bar Food', 'Sandwich']",$$,4.4,268
+37,17113612,Lemon Grass Thai Cuisine,Hyde Park/Mount Lookout,"['Thai', 'Vietnamese']",$,4.5,284
+38,17112864,The Echo Restaurant,Hyde Park/Mount Lookout,"['American', 'Breakfast', 'Diner']",$,4.3,271
+39,17116048,Newport Pizza Company,Campbell County,"['Italian', 'Pizza', 'Sandwich']",$,4.6,247
+40,17112872,El Pueblo,Blue Ash,['Mexican'],$$,4.3,213
+41,17113519,Krishna,Clifton/Avondale,['Indian'],$,4.9,250
+42,17114322,Pompilio's Italian Restaurant,Campbell County,"['Burger', 'Italian', 'Bar Food']",$$,4.0,254
+43,17115322,Aladdin's Eatery,West Chester,"['Mediterranean', 'Vegetarian', 'Lebanese']",$$,4.5,226
+44,17116103,Shaan Indian Cuisine,Hyde Park/Mount Lookout,['Indian'],$$,4.6,249
+45,17116312,Taqueria Mercado 3,Downtown,['Mexican'],$,4.3,234
+46,17113702,Maggiano's,Deer Park/Madeira,['Italian'],$$$,4.3,255
+47,17117303,Mazunte Taqueria Mexicana,Madisonville,['Mexican'],$,4.3,202
+48,17113508,Knotty Pine on the Bayou,Cold Spring/Alexandria,"['Seafood', 'Southern', 'Cajun']",$$$,4.6,231
+49,17113995,Nicholson's,Downtown,[],$$,4.1,209
+50,17115251,Wild Ginger,Hyde Park/Mount Lookout,"['Sushi', 'Thai', 'Japanese']",$$,4.1,239
+51,17116432,Jean-Robert's Table,Downtown,['French'],$$$$,4.2,211
+52,17114873,Sugar n' Spice,Norwood,"['American', 'Diner', 'Sandwich']",$$,4.4,194
+53,17113999,Nicola's,Over-the-Rhine/Mount Auburn,['Italian'],$$$$,4.2,210
+54,17112160,Blue Ash Chili,Blue Ash,"['Breakfast', 'Sandwich', 'Chili']",$,4.2,211
+55,17114355,Primavista,Price Hill/Fairmount,"['International', 'Italian', 'Vegetarian']",$$$,4.2,215
+56,17116031,Wildflower Cafe,Mason,"['American', 'Coffee and Tea']",$$$,4.3,223
+57,17116369,Flipdaddy's Burgers & Beers,Mariemont,"['Burger', 'Sandwich', 'Healthy Food']",$$,4.2,211
+58,17116132,Ichiban Japanese Cuisine,Hyde Park/Mount Lookout,"['Japanese', 'Sushi']",$$$,4.6,196
+59,17113219,Greek Isles,West Chester,"['European', 'Greek', 'Healthy Food']",$$$,4.4,196
+60,17111907,Kung Food Chu's AmerAsia,Covington,['Chinese'],$,4.5,169
+61,17114611,Silver Spring House,Symmes,"['Burger', 'Healthy Food']",$$,4.3,217
+62,17117285,Yard House,Downtown,"['Burger', 'Bar Food', 'Seafood']",$$$,3.8,192
+63,17114474,Riverside Korean,Covington,['Korean'],$$,4.4,209
+64,17113525,La Mexicana,Campbell County,['Mexican'],$,4.5,188
+65,17115001,Thai Express,Clifton/Avondale,['Thai'],$,4.9,194
+66,17115280,The Works,Loveland,"['Italian', 'Pizza']",$$,4.2,202
+67,17114354,Price Hill Chili,Price Hill/Fairmount,"['Chili', 'Diner']",$,4.5,214
+68,17116262,El Jinete Mexican Restaurant,Fairfax,"['Mexican', 'Tex-Mex']",$,4.8,201
+69,17116993,Brewriver GastroPub,Walnut Hills/Mount Adams,"['Bar Food', 'Burger']",$$$,4.0,175
+70,17112352,Cactus Pear,Clifton/Avondale,"['Southwestern', 'Tex-Mex']",$$$,3.9,201
+71,17113240,Habanero,Clifton/Avondale,"['Latin American', 'Mexican']",$,4.1,192
+72,17112079,Bangkok Bistro,Hyde Park/Mount Lookout,"['Asian', 'Sushi', 'Thai']",$$,4.4,191
+73,17116325,Sultan's Mediterranean Cuisine,West Chester,"['Mediterranean', 'Middle Eastern', 'Turkish']",$$,4.3,176
+74,17114374,Quatman Cafe,Norwood,"['Burger', 'Bar Food', 'Chili', 'Cafe']",$,4.3,181
+75,17112201,The BonBonerie,Hyde Park/Mount Lookout,"['Breakfast', 'European']",$,4.2,187
+76,17113196,Grand Finale Restaurant,Springdale,"['American', 'Steak']",$$$,4.0,185
+77,17111888,Aglamesis Brothers,Oakley/Pleasant Ridge,"['Desserts', 'Ice Cream']",$,4.5,199
+78,17114889,Sweet Basil,Crescent Springs/Fort Wright,"['Sushi', 'Thai', 'Vegetarian']",$$,4.3,170
+79,17113368,Jag's Steak & Seafood/Piano Bar,West Chester,"['Seafood', 'Steak', 'Sushi']",$$$$,4.0,177
+80,17114057,Original Pancake House,Montgomery,"['Breakfast', 'Diner', 'Sandwich']",$,4.2,193
+81,17115964,McCormick & Schmick's Seafood Restaurant,Downtown,"['Seafood', 'Steak']",$$$,3.9,165
+82,17112135,Betta's Italian Oven,Norwood,"['Italian', 'Pizza', 'Sandwich']",$$,4.3,165
+83,17112056,Baba India,Oakley/Pleasant Ridge,"['Indian', 'Pakistani']",$$,4.2,195
+84,17114051,Orchids at Palm Court,Downtown,['American'],$$$$,4.1,164
+85,17116201,Suzie Wong's on Madison,Walnut Hills/Mount Adams,"['Asian', 'Thai', 'Vietnamese']",$$,4.2,157
+86,17116346,Tony's of Cincinnati,Symmes,"['Seafood', 'Steak']",$$$$,4.0,110
+87,17116205,Baba's Shawarma Grill,Cheviot/Westwood,"['Greek', 'Mediterranean', 'Middle Eastern']",$,4.3,163
+88,17117407,Ravis Hyderabad House,West Chester,['Indian'],$$,4.1,161
+89,17113340,Krimmer's Italianette Pizza,Deer Park/Madeira,"['Italian', 'Pizza', 'Sandwich']",$$,4.5,169
+90,17113273,Hitching Post Hyde Park Restaurant & Catering,Hyde Park/Mount Lookout,"['Breakfast', 'Burger']",$,4.2,160
+91,17112239,BRIO Tuscan Grille,Campbell County,['Italian'],$$$,4.0,176
+92,17112385,Camp Washington Chili,Price Hill/Fairmount,"['Diner', 'Sandwich', 'Chili']",$,4.3,180
+93,17114653,Skyline Chili,Clifton/Avondale,['Chili'],$,4.1,194
+94,17116596,The Firehouse Grill,Blue Ash,"['Burger', 'Pizza', 'Bar Food']",$,3.4,162
+95,17111923,Andy's Mediterranean Grille,Walnut Hills/Mount Adams,"['Greek', 'Mediterranean', 'Middle Eastern']",$$,3.3,157
+96,17116207,Tano Bistro & Catering,Loveland,"['American', 'International']",$$$,4.5,164
+97,17113761,Marx Hot Bagels,Blue Ash,"['Sandwich', 'Bagels']",$,4.4,177
+98,17116637,Abigail Street,Over-the-Rhine/Mount Auburn,"['Mediterranean', 'Tapas']",$$$,4.2,166
+99,17117207,Kaze,Over-the-Rhine/Mount Auburn,"['Asian', 'Japanese', 'Sushi']",$$$,4.0,152
+100,17116009,Tea 'n' Bowl,Clifton/Avondale,"['Asian', 'Chinese', 'Tea']",$,4.0,56
+101,17112934,Ferrari's Little Italy and Bakery,Deer Park/Madeira,"['Italian', 'Pizza']",$$$,4.0,158
+102,17114179,Pelicans Reef,Anderson Township,['Seafood'],$$$,4.4,165
+103,17112243,Brown Dog Cafe,Blue Ash,"['Seafood', 'American', 'Bar Food']",$$$,4.0,150
+104,17117121,Phoenician Taverna,Mason,"['Mediterranean', 'Middle Eastern']",$$$,4.4,115
+105,17117424,Sleepy Bee Cafe,Oakley/Pleasant Ridge,"['Breakfast', 'Diner', 'Sandwich']",$$,4.0,137
+106,17112716,Dee Felice Cafe,Covington,"['American', 'Southern', 'Cajun']",$$,4.0,160
+107,17114058,Otto's,Covington,"['American', 'Breakfast']",$$$$,4.1,151
+108,17116535,Copper Blue,Milford,['American'],$$,4.3,141
+109,17111865,20 Brix,Milford,['Mediterranean'],$$$,4.0,141
+110,17114255,Pitrelli's Italian Restaraunt,Mason,"['Italian', 'Pizza', 'Bar Food']",$$$,4.3,163
+111,17116240,Mr. Sushi,Downtown,"['Korean', 'Seafood', 'Sushi']",$$$,4.1,149
+112,17114467,Rio Grande Mexican,Campbell County,"['Mexican', 'Southwestern', 'Tex-Mex']",$,4.6,178
+113,17114075,P.F. Chang's,Norwood,"['Asian', 'Chinese']",$$$,3.9,166
+114,17112868,El Coyote,Anderson Township,"['Mexican', 'Steak', 'Tex-Mex']",$$$,4.0,152
+115,17112409,Carlo & Johnny,Montgomery,"['Seafood', 'Steak']",$$$$,4.1,171
+116,17116622,Holy Grail Tavern & Grille at The Banks,Downtown,"['Burger', 'Pizza', 'Bar Food']",$$,3.5,93
+117,17116113,Green Dog Cafe,East End/Mount Washington,['Sandwich'],$$,3.8,147
+118,17117010,Strongs Brick Oven Pizza,Campbell County,['Pizza'],$,4.3,139
+119,17113522,Kyoto,Symmes,"['Japanese', 'Sushi']",$$,4.3,149
+120,17112260,Buca di Beppo Italian Restaurant,Norwood,"['Italian', 'Pizza']",$$$,3.7,149
+121,17112987,Fratelli's Pizzeria,West Chester,"['Italian', 'Pizza', 'Sandwich']",$$,4.1,146
+122,17112468,Chicago Gyros and Dogs,Clifton/Avondale,"['Burger', 'Sandwich', 'Greek']",$,4.4,149
+123,17114606,Sichuan Bistro,Mason,['Chinese'],$$,4.1,141
+124,17116068,Miyako,Crescent Springs/Fort Wright,"['Japanese', 'Steak', 'Sushi']",$$$,4.3,137
+125,17112597,Cock & Bull Public House,Covington,"['American', 'Burger']",$$,4.0,151
+126,17116397,Bombay Brazier,Montgomery,['Indian'],$$$,4.3,99
+127,17117110,The Anchor,Over-the-Rhine/Mount Auburn,"['Bar Food', 'Seafood']",$$$,4.0,124
+128,17114805,Stone Creek Dining Company,Montgomery,"['American', 'Seafood', 'Steak']",$$$,4.1,143
+129,17112454,The Cheesecake Factory,Deer Park/Madeira,"['Desserts', 'Pizza', 'Bar Food']",$$,3.9,159
+130,17113242,Half Day Cafe,Wyoming/Arlington Heights/Reading,"['Breakfast', 'Coffee and Tea', 'Diner']",$,4.3,150
+131,17115982,Padrino,Milford,"['Italian', 'Pizza', 'Healthy Food']",$$,4.2,125
+132,17112151,BJ's Restaurant & Brewhouse,Springdale,"['American', 'Pizza', 'Bar Food']",$$,4.0,133
+133,17114152,Parker's Blue Ash Tavern,Blue Ash,"['American', 'Seafood', 'Steak']",$$$,3.8,129
+134,17114571,Scotti's,Downtown,['Italian'],$$$,3.8,119
+135,17116691,Cock & Bull Public House,Hyde Park/Mount Lookout,"['American', 'Burger']",$$,3.4,118
+136,17117025,Wunderbar!,Covington,"['Breakfast', 'German']",$,4.2,113
+137,17116305,FUSIAN,Downtown,"['Asian', 'Japanese', 'Sushi']",$,4.5,138
+138,17115043,Trio,Deer Park/Madeira,"['American', 'Pizza', 'Healthy Food']",$$$,4.1,149
+139,17113709,Mai Thai,Florence,"['Sushi', 'Thai']",$$,4.4,146
+140,17114740,Sorrento's Pizzeria,Norwood,"['Italian', 'Pizza']",$$$,3.7,68
+141,17116099,Dojo Gelato,Over-the-Rhine/Mount Auburn,"['Coffee and Tea', 'Desserts', 'Italian']",$,4.2,150
+142,17113241,Habits Cafe,Oakley/Pleasant Ridge,"['Burger', 'Bar Food', 'Sandwich']",$,4.0,139
+143,17112679,Cincy Steak & Lemonade,Clifton/Avondale,"['Burger', 'Sandwich', 'Beverages']",$,4.4,85
+144,17117233,Zula,Over-the-Rhine/Mount Auburn,"['Mediterranean', 'Seafood', 'Tapas']",$$,4.0,107
+145,17116436,Banana Leaf Modern Thai,Mason,['Thai'],$$$,3.8,116
+146,17115287,York St. Cafe,Campbell County,"['International', 'Sandwich']",$$$,4.2,136
+147,17113236,Guru India,Crescent Springs/Fort Wright,"['Indian', 'Pakistani']",$$,4.3,133
+148,17113986,New Krishna,Sharonville,"['Indian', 'Pakistani']",$$,4.1,127
+149,17112218,Bouquet Restaurant,Covington,['French'],$$$,4.1,127
+150,17114624,Sitwell's Coffee House,Clifton/Avondale,"['Coffee and Tea', 'Sandwich']",$,3.6,137
+151,17114321,Pomodori's Pizzeria and Trattoria,Montgomery,['Pizza'],$$,4.0,98
+152,17116923,Django Western Taco,Northside,"['American', 'Southwestern']",$,3.9,109
+153,17113987,New Orleans To Go,Blue Ash,"['Seafood', 'Southern', 'Cajun']",$$,4.5,107
+154,16965115,Melt Bar and Grilled,Independence,"['Burger', 'Sandwich', 'Vegetarian']",$$,4.0,116
+155,17113452,Kabuto Japanese Steakhouse and Sushi Bar,Colerain Township,"['Japanese', 'Steak', 'Sushi']",$$$,4.3,134
+156,17116229,Aroma Restaurant and Sushi,Deer Park/Madeira,"['Japanese', 'Sushi', 'Thai']",$$$,3.7,101
+157,17114480,Rocafella's Pizza A Taste of New York,Sharonville,"['Pizza', 'Sandwich']",$$,4.4,113
+158,17116883,Flipdaddy's Burgers & Beers,Symmes,"['Burger', 'Bar Food', 'Healthy Food']",$$$,3.7,109
+159,17115131,Washington Platform Saloon,Downtown,"['Bar Food', 'Sandwich', 'Seafood']",$$$,3.7,117
+160,17112622,Comet,Northside,"['Mexican', 'Bar Food']",$$$,4.0,137
+161,17113359,J. Alexander's - Redlands Grill,Norwood,"['Bar Food', 'Sandwich', 'Steak']",$$$,4.0,135
+162,17115003,Thai Taste,Cheviot/Westwood,"['Asian', 'Sushi', 'Thai']",$$,4.4,114
+163,17116299,Deep India Restaurant,Clifton/Avondale,['Indian'],$,4.6,127
+164,17117362,Holtman's Donut Shop,Over-the-Rhine/Mount Auburn,"['Coffee and Tea', 'Donuts']",$,4.3,126
+165,17114575,Sebastian's,Cheviot/Westwood,"['Greek', 'Mediterranean', 'Healthy Food']",$,4.2,136
+166,17113916,Mokka and the Sunset Bar & Grill,Campbell County,"['Breakfast', 'Burger', 'Bar Food']",$,4.0,114
+167,17114972,Taqueria Mercado,Fairfield,['Mexican'],$,4.2,120
+168,17111900,Allyn's,East End/Mount Washington,"['Mexican', 'Southwestern', 'Cajun']",$$,3.6,120
+169,17117665,Swad Indian,College Hill/Mt Healthy,"['Indian', 'Vegetarian']",$,4.1,96
+170,17112237,Brij Mohan Indian Sweets & Restaurant,Sharonville,"['Indian', 'Vegetarian']",$$,4.4,109
+171,17113413,Jim Dandy's BBQ,Sharonville,"['BBQ', 'Southern']",$$,3.9,117
+172,17115002,Thai Namtip,Monfort Heights/White Oak,"['Sushi', 'Thai']",$$,4.4,118
+173,17114568,Schoolhouse Restaurant,Milford,"['American', 'Southern']",$$,4.3,109
+174,17117280,Fifty West Brewing Company,Plaineville,['Sandwich'],$$$,4.0,119
+175,17117042,Quan Hapa,Over-the-Rhine/Mount Auburn,"['Asian', 'Vietnamese']",$$,4.0,108
+176,17112169,Bluebird Restaurant,Norwood,"['American', 'Breakfast', 'Sandwich']",$,4.1,95
+177,17116761,Cloud 9 Sushi,Hyde Park/Mount Lookout,['Sushi'],$$,4.2,96
+178,17115067,Uncle Yip's Seafood and Dim Sum,Sharonville,"['Chinese', 'Dim Sum']",$$,4.2,105
+179,17114706,Slatts Pub,Blue Ash,"['American', 'Bar Food']",$$,3.9,112
+180,17117240,Seasons 52,Norwood,"['European', 'Healthy Food']",$$$,3.8,89
+181,17113227,Greyhound Tavern,Crescent Springs/Fort Wright,"['American', 'Bar Food', 'Southern']",$$,4.2,128
+182,17114482,Knockback Nats,Downtown,"['Burger', 'Bar Food', 'Sandwich']",$,4.2,81
+183,17116235,Abby Girl Sweets,Downtown,[],$,4.1,110
+184,17116630,Ali Baba Mediterranean Grill,Madisonville,"['Greek', 'Mediterranean', 'Turkish']",$$,4.1,95
+185,17111915,Anchor Grill,Covington,"['Coffee and Tea', 'Diner', 'Sandwich']",$,3.9,117
+186,17115362,Eddie Merlot's,Montgomery,"['Seafood', 'Steak']",$$$$,3.8,102
+187,17113931,Morton's The Steakhouse,Downtown,['Steak'],$$$$,3.9,109
+188,17114172,Paxton's Grill,Loveland,"['Burger', 'Bar Food', 'Sandwich']",$,4.1,107
+189,17114254,Pit To Plate BBQ,College Hill/Mt Healthy,"['BBQ', 'Southern']",$,4.0,112
+190,17114520,Rusty Bucket Restaurant and Tavern,Hyde Park/Mount Lookout,"['Burger', 'Bar Food', 'Sandwich']",$$,3.8,102
+191,17111963,Aponte's Pizzeria,Mason,"['Italian', 'Pizza', 'Sandwich']",$,4.1,94
+192,17116396,Asian Paradise Restaurant,Symmes,"['Asian', 'Chinese', 'Sushi']",$$$,4.1,98
+193,17116408,Mellow Mushroom,Cold Spring/Alexandria,"['Pizza', 'Sandwich']",$$,3.9,114
+194,17116970,Giovanni's Family Italian Restaurante,Cheviot/Westwood,"['Italian', 'Pizza']",$$,4.0,94
+195,17113968,National Exemplar Restaurant,Mariemont,['American'],$$,4.1,109
+196,17113171,The Golden Lamb,Lebanon,['American'],$$$$,3.8,100
+197,17115284,Yat Ka Mein Noodle House,Oakley/Pleasant Ridge,"['Asian', 'Chinese']",$$,4.1,104
+198,17114028,Oakley Pub and Grill,Oakley/Pleasant Ridge,"['Bar Food', 'Sandwich']",$,4.1,102
+199,17114522,Ruthai's Thai Kitchen,Hyde Park/Mount Lookout,"['Asian', 'Sushi', 'Thai']",$$,4.3,115
+200,17113299,Hot Doggin' It,Downtown,"['Burger', 'Fast Food']",$,4.2,104
+201,17113694,Mac's Pizza Pub,Clifton/Avondale,"['Pizza', 'Bar Food', 'Sandwich']",$$,4.2,110
+202,17115927,Viva Tequila,Mason,['Mexican'],$$,4.1,61
+203,17111880,Abuelo's Mexican Food Embassy,Mason,"['Mexican', 'Tex-Mex']",$$,3.7,113
+204,17114316,Pleasant Ridge Chili,Oakley/Pleasant Ridge,"['Breakfast', 'Sandwich', 'Chili']",$,4.4,114
+205,17115967,Aroma's Java & Gelato Cafe,Cheviot/Westwood,"['American', 'Cafe', 'Desserts']",$,4.3,74
+206,17115932,Izen's Drunken Bento,Clifton/Avondale,"['Asian', 'Korean', 'Sushi']",$,4.1,71
+207,17112261,Buckhead Mountain Grill,Campbell County,"['Burger', 'Bar Food', 'Sandwich']",$$,3.7,102
+208,17115332,Fuji Steak House,Hyde Park/Mount Lookout,"['Asian', 'Japanese', 'Sushi']",$$$,3.8,95
+209,17117183,Metropole,Downtown,[],$$$$,3.9,99
+210,17116595,Meritage,Springdale,"['Seafood', 'Steak']",$$$,4.1,85
+211,17112136,Biagio's Bistro,Clifton/Avondale,"['Italian', 'Sandwich', 'Healthy Food']",$$$,4.1,102
+212,17117026,Bite Restaurant,Milford,['International'],$$,3.8,75
+213,17112225,BRAVO Cucina Italiana,West Chester,['Italian'],$$$,4.1,113
+214,17112887,Embers,Deer Park/Madeira,"['American', 'Steak', 'Sushi']",$$$$,3.8,106
+215,17115364,Dingle House Irish Pub,West Chester,"['British', 'Bar Food']",$$,3.7,102
+216,17113200,Grandview Tavern & Grille,Crescent Springs/Fort Wright,"['Pizza', 'Seafood', 'Steak']",$$$,4.1,97
+217,17116220,Butterbee's American Grille,Anderson Township,"['Burger', 'Bar Food', 'Sandwich']",$$,4.1,102
+218,17115995,Kanak India,Montgomery,"['Indian', 'Vegetarian']",$$,4.3,109
+219,17117175,Alfio's Buon Cibo,Hyde Park/Mount Lookout,"['International', 'Italian', 'Steak']",$$$,4.0,83
+220,17114410,Ramundo's Pizzeria & Deli,Hyde Park/Mount Lookout,"['Pizza', 'Sandwich']",$,4.2,114
+221,17112203,Bonefish Grill,Hyde Park/Mount Lookout,['Seafood'],$$$,3.9,107
+222,17112604,Coffee Emporium,Over-the-Rhine/Mount Auburn,"['Coffee and Tea', 'Sandwich']",$,4.2,115
+223,17114970,Taqueria Maya,Symmes,['Mexican'],$$$,4.3,101
+224,17115128,Walt's Hitching Post,Crescent Springs/Fort Wright,"['BBQ', 'Southern']",$$,3.8,84
+225,17114364,The Pub at Rookwood Mews,Hyde Park/Mount Lookout,['British'],$$,3.9,105
+226,17116422,Joe's Diner,Over-the-Rhine/Mount Auburn,"['Breakfast', 'Diner', 'Sandwich']",$,4.0,95
+227,17113949,Mt. Adams Bar and Grill,Walnut Hills/Mount Adams,"['Burger', 'Bar Food', 'Sandwich']",$,4.0,104
+228,17116628,Trinity Gastro Pub,West Chester,"['American', 'Burger', 'Bar Food']",$$,3.7,79
+229,17116143,Island Frydays,Clifton/Avondale,"['Caribbean', 'Sandwich', 'Seafood']",$$,4.3,87
+230,17116006,Cock & Bull Public House,Springdale,"['Burger', 'British', 'Bar Food']",$$,3.9,92
+231,17111882,Acapulco Mexican Restaurant,Fairfield,"['Mexican', 'Tex-Mex']",$$,4.4,105
+232,17114732,Song Long,Golf Manor,"['Chinese', 'Vietnamese']",$$,4.0,82
+233,17113909,Mitchell's Fish Market,West Chester,"['Seafood', 'Steak']",$$$,3.9,96
+234,17112116,Behle Street by Sheli,Crescent Springs/Fort Wright,"['Diner', 'Bar Food', 'Sandwich']",$$$,3.8,84
+235,17116863,Keystone Bar & Grill,Hyde Park/Mount Lookout,"['Burger', 'Bar Food', 'Sandwich']",$,3.7,92
+236,17112408,Carl's Deli,Hyde Park/Mount Lookout,"['Sandwich', 'Healthy Food']",$,4.4,97
+237,17116121,Peewee's Place,Crescent Springs/Fort Wright,"['Burger', 'Bar Food', 'Sandwich']",$,4.2,80
+238,17113052,Fuji Steak House,Florence,"['Japanese', 'Sushi']",$$$,4.1,84
+239,17114079,The Palace Restaurant,Downtown,"['American', 'Breakfast']",$$$,3.8,76
+240,17113859,Mecklenburg Gardens,Clifton/Avondale,"['Burger', 'German', 'Bar Food']",$$$,3.9,103
+241,17116519,Sawasdee Thai Cuisine,Fairfield,['Thai'],$,4.0,78
+242,17115059,Twin Dragon Buffet and Grill,West Chester,['Chinese'],$$,4.3,100
+243,17112121,Bellevue Bistro,Campbell County,"['Breakfast', 'Coffee and Tea', 'Sandwich']",$,4.1,84
+244,17115303,Amma's Kitchen,Golf Manor,"['Indian', 'Vegetarian']",$$,4.1,91
+245,17116202,El Toro,Hyde Park/Mount Lookout,"['Mexican', 'Tex-Mex']",$$$,4.0,85
+246,17113902,Mirage Mediterranean,Symmes,"['Greek', 'Mediterranean', 'Middle Eastern']",$$,3.9,93
+247,17112452,Cheddar's Scratch Kitchen,Florence,['American'],$$,4.1,100
+248,17116003,City View Tavern,Walnut Hills/Mount Adams,"['Burger', 'Bar Food', 'Sandwich']",$$$,3.9,90
+249,17117152,Ruth's Chris Steak House,Downtown,"['American', 'Seafood', 'Steak']",$$$$,3.7,68
+250,17113348,J & J Restaurant,Cheviot/Westwood,"['Breakfast', 'Sandwich', 'Chili']",$,4.5,74
+251,17114730,Soho Japanese Bistro,West Chester,"['Japanese', 'Seafood', 'Sushi']",$$$,3.9,85
+252,17115987,Loving Hut,Oakley/Pleasant Ridge,"['Sandwich', 'Healthy Food']",$,4.1,76
+253,17113910,Miyoshi Japanese,Florence,"['Japanese', 'Seafood', 'Sushi']",$$,4.2,96
+254,17116215,Brothers Bar and Grill,Campbell County,"['Burger', 'Bar Food', 'Sandwich']",$$,2.2,74
+255,17113504,King Wok,Clifton/Avondale,"['Asian', 'Chinese', 'Dim Sum']",$,4.2,95
+256,17113868,The Melting Pot of Cincinnati,Symmes,['French'],$$$,3.8,92
+257,17115008,Through the Garden,Blue Ash,"['American', 'Sandwich', 'Seafood']",$$,3.7,78
+258,17115299,Zola Pub & Grill,Covington,"['Burger', 'Bar Food', 'Sandwich']",$,4.0,84
+259,17112734,deSha's American Tavern,Symmes,"['Burger', 'Bar Food', 'Steak']",$$$,3.7,84
+260,17114053,Oriental Wok,Crescent Springs/Fort Wright,['Chinese'],$$,4.2,98
+261,17116389,House of Bangkok Thai Cuisine,Fairfield,"['Thai', 'Vegetarian']",$,4.1,73
+262,17114431,Red Robin Gourmet Burgers,West Chester,"['American', 'Burger', 'Sandwich']",$$,4.0,89
+263,17112757,Dixie Chili,Campbell County,"['Diner', 'Chili']",$,4.2,82
+264,17112038,Asiana Hyde Park Thai & Sushi,Hyde Park/Mount Lookout,"['Asian', 'Sushi', 'Thai']",$$,4.4,80
+265,17116412,Alabama Que,Clifton/Avondale,"['BBQ', 'Southern', 'Vegetarian']",$,3.9,62
+266,17117676,Stone Bowl,Oakley/Pleasant Ridge,"['Korean', 'Sushi', 'Ramen']",$$,3.8,68
+267,17116509,Curries - The Flavor of India,Sharonville,"['Indian', 'Vegetarian']",$$,3.8,64
+268,17114373,Quarter Bistro,Mariemont,"['French', 'Steak']",$$$,3.9,94
+269,17116579,The Indian Bistro,Withamsville,['Indian'],$,4.1,79
+270,17112138,Big Art's BBQ Grille,Colerain Township,"['BBQ', 'Sandwich']",$$,4.4,86
+271,17112902,Essencha Tea House & Fine Teas,Oakley/Pleasant Ridge,"['Sandwich', 'Vegetarian', 'Tea']",$,4.0,73
+272,17113590,Latitudes,Anderson Township,"['International', 'Mediterranean', 'Burger']",$$,3.9,81
+273,17116594,Tavern on the Bend,Monfort Heights/White Oak,"['Burger', 'Bar Food', 'Sandwich']",$,4.0,59
+274,17112948,First Watch,Downtown,"['Breakfast', 'Diner', 'Sandwich']",$,4.0,93
+275,17111919,Ando Japanese Restaurant,Blue Ash,"['Asian', 'Japanese', 'Sushi']",$$,4.2,84
+276,17114632,Sky Galley,East End/Mount Washington,['American'],$$,3.9,81
+277,17114505,The Root Beer Stand,Sharonville,"['Burger', 'Fast Food']",$,4.1,82
+278,17117331,Buona Terra: Gelato - Macarons - Crepes,Hyde Park/Mount Lookout,"['Desserts', 'Ice Cream']",$,4.0,62
+279,17111892,Akash India,Downtown,"['Indian', 'Pakistani']",$$,3.9,90
+280,17113675,Lu Lu's Noodle & Rice Shop,Springdale,"['Asian', 'Chinese', 'Thai']",$,4.1,92
+281,17116826,El Jinete,Montgomery,['Mexican'],$,3.9,48
+282,17113971,Nectar,Hyde Park/Mount Lookout,"['American', 'International', 'Southwestern']",$$$,4.0,75
+283,17116577,Blinkers Tavern,Covington,"['Burger', 'Seafood', 'Steak']",$$,3.9,69
+284,17113766,Maury's Tiny Cove Steak House,Cheviot/Westwood,"['Burger', 'Seafood', 'Steak']",$$$,3.9,79
+285,17117674,Hang Over Easy,Clifton/Avondale,"['Fast Food', 'Sandwich']",$,3.9,58
+286,17117344,SwampWater Grill & Smokehouse,East End/Mount Washington,"['BBQ', 'Seafood', 'Cajun']",$$,3.8,52
+287,17112334,Busken Bakery,Hyde Park/Mount Lookout,['Desserts'],$,4.0,65
+288,17114428,Red Pepper,Clifton/Avondale,"['Asian', 'Chinese']",$,3.8,88
+289,17112240,Bronte Bistro,Hyde Park/Mount Lookout,"['American', 'Breakfast', 'Healthy Food']",$$,3.9,78
+290,17116723,Sushi Monk,West Chester,"['Japanese', 'Seafood', 'Sushi']",$$$,3.8,65
+291,17115252,Wild Mike's,Cheviot/Westwood,"['Burger', 'Bar Food']",$,4.2,90
+292,17117460,Piada Italian Street Food,Hyde Park/Mount Lookout,"['Italian', 'Sandwich', 'Healthy Food']",$,3.8,73
+293,17117144,Mellow Mushroom,West Chester,"['Italian', 'Pizza', 'Sandwich']",$$,3.5,74
+294,17116243,Bucks Tavern,Landen,"['Burger', 'Bar Food', 'Sandwich']",$,3.9,38
+295,17116978,Royal Taj,Anderson Township,['Indian'],$,3.8,82
+296,17114498,Ron's Roost,Cheviot/Westwood,['German'],$$,3.8,82
+297,17112390,Cancun Restaurante & Cantina,Cheviot/Westwood,['Mexican'],$,4.1,94
+298,17113331,Ingredients,Downtown,"['Pizza', 'Sandwich']",$,3.9,84
+299,17117197,Marion's Piazza,Mason,"['Italian', 'Pizza', 'Sandwich']",$,3.3,65
+300,17112386,Campanello's Italian Cuisine,Downtown,"['Italian', 'Pizza']",$$,3.7,74
+301,17117604,Pontiac Bourbon & BBQ,Over-the-Rhine/Mount Auburn,['BBQ'],$,3.7,62
+302,17112161,Blue Gibbon Chinese,St Bernard/Elmwood Place,['Chinese'],$$,4.0,77
+303,17116413,Bangkok Terrace,Blue Ash,"['Asian', 'Thai']",$$,4.2,76
+304,17111895,Alabama Fish Bar,Over-the-Rhine/Mount Auburn,"['American', 'Seafood', 'Southern']",$,4.7,71
+305,17115050,Tucker's Restaurant,Over-the-Rhine/Mount Auburn,"['American', 'Diner', 'Vegetarian']",$,4.1,81
+306,17116406,Giuseppe's Pizzeria,Covington,"['Pizza', 'Sandwich']",$,4.5,60
+307,17117525,Prime Cincinnati,Downtown,['Steak'],$$$$,3.4,25
+308,17115047,Trotta's Pizza,Cheviot/Westwood,"['Pizza', 'Sandwich']",$$,4.3,83
+309,17113422,Jo An Japanese,Erlanger,"['Japanese', 'Sushi']",$$,3.9,80
+310,17117195,Wurst Bar in the Square,Hyde Park/Mount Lookout,['Bar Food'],$$,3.8,60
+311,17113514,Korea House,Symmes,"['Asian', 'Korean', 'Sushi']",$$,3.9,82
+312,17112126,Benihana - Cincinnati,Springdale,"['Japanese', 'Steak', 'Sushi']",$$$,3.8,74
+313,17116966,Goodfellas Pizzeria,Covington,['Pizza'],$,3.9,76
+314,17117534,Salazar,Over-the-Rhine/Mount Auburn,['European'],$$$,3.9,66
+315,17115762,Bagel & Deli Shop,Oxford,[],$,4.5,96
+316,17116435,Quatman Cafe,Mason,['Burger'],$,4.1,66
+317,17116267,La Pinata Restaurant,Colerain Township,['Mexican'],$,4.3,69
+318,17116611,Dutch's,Hyde Park/Mount Lookout,['Bar Food'],$$,4.0,73
+319,17115996,Quaker Steak & Lube,Colerain Township,"['Burger', 'Bar Food', 'Sandwich']",$$,3.9,75
+320,17113176,Goodies,College Hill/Mt Healthy,"['BBQ', 'Southern']",$,4.1,62
+321,17112912,Famous Dave's,Florence,"['BBQ', 'Southern']",$$,3.9,74
+322,17112163,Blue Jay,Northside,"['Breakfast', 'Burger', 'Diner']",$,4.2,71
+323,17112626,The Cone,West Chester,"['Desserts', 'Ice Cream']",$,4.2,82
+324,17112416,Carrabba's Italian Grill,Mason,['Italian'],$$,3.7,76
+325,17115928,Yagööt Frozen Yogurt,Norwood,"['Desserts', 'Beverages']",$,4.1,86
+326,17113531,Lake Nina Restaurant and Tavern,Colerain Township,"['American', 'Bar Food', 'Seafood']",$$,4.0,30
+327,17113253,Hathaway's,Downtown,"['Breakfast', 'Diner', 'Sandwich']",$,3.9,68
+328,17115024,Tokyo Japanese Restaurant,Sharonville,"['Japanese', 'Sushi']",$$,4.0,62
+329,17116984,Brooklyn Pizza & Pasta,Montgomery,"['Italian', 'Pizza', 'Sandwich']",$$,4.0,67
+330,17114363,The Pub Crestview Hills,Crestview Hills,"['Burger', 'Bar Food']",$$,3.8,58
+331,17114962,Taj Mahal Indian Cuisine,College Hill/Mt Healthy,"['Indian', 'Vegetarian']",$$,4.2,72
+332,17116533,Smashburger,West Chester,"['Burger', 'Fast Food']",$,3.8,62
+333,17113715,Main Street Cafe,Newtown,"['American', 'Burger']",$,4.1,69
+334,17112583,City Barbeque,West Chester,"['BBQ', 'Southern']",$,3.9,84
+335,17117484,Ruth's Parkside Cafe,Northside,"['American', 'Vegetarian']",$$,3.9,50
+336,17117447,Cooper's Hawk Winery & Restaurants,Deer Park/Madeira,"['American', 'International']",$$$,3.7,55
+337,17112210,Bonomini Bakery,Northside,['Desserts'],$,4.3,74
+338,17117267,Margaritaville,Downtown,"['American', 'Burger', 'Bar Food']",$$,2.2,47
+339,17112677,Currito,Clifton/Avondale,"['Fast Food', 'Beverages', 'Tex-Mex']",$,4.0,78
+340,17117250,Pizzelii Brick Oven Pizza,Plaineville,"['Pizza', 'Healthy Food']",$,3.8,65
+341,17113058,Gabby's Cafe,Wyoming/Arlington Heights/Reading,"['American', 'Italian', 'Pizza']",$$,4.1,76
+342,17117332,Chuy's,Deer Park/Madeira,"['Mexican', 'Tex-Mex']",$$,3.6,66
+343,17117265,Bobby's Burger Palace,Downtown,"['Burger', 'Desserts', 'Sandwich']",$,3.6,68
+344,17113469,Kenning's Circle K,Cheviot/Westwood,"['American', 'Steak']",$$,3.8,48
+345,17115085,Vincenzo's Ristorante Italiano,Sharonville,"['Italian', 'Seafood']",$$$,4.0,68
+346,17112081,Bar Louie,Campbell County,"['Burger', 'Bar Food', 'Sandwich']",$$,3.7,63
+347,17116322,Stone Creek Dining Company,West Chester,"['American', 'Steak']",$$$,3.8,57
+348,17112501,China Foods,Clifton/Avondale,['Chinese'],$,4.3,73
+349,17115483,Kreimer's Bier Haus,Cleves,"['German', 'Bar Food', 'Steak']",$$$,3.8,63
+350,17116480,Apple Tree Cafe,Deer Park/Madeira,"['American', 'Breakfast', 'Burger']",$,3.8,49
+351,17114308,Pizza Tower,Loveland,"['Italian', 'Pizza', 'California']",$,3.7,64
+352,17113066,Gas Light Cafe,Oakley/Pleasant Ridge,"['American', 'Burger', 'Sandwich']",$,4.0,62
+353,17116233,Rudino's Pizza & Grinders,Montgomery,"['Italian', 'Pizza', 'Sandwich']",$$,3.9,46
+354,17116195,Raya Lebanese Restaurant,Downtown,"['Mediterranean', 'Middle Eastern', 'Vegetarian']",$,4.2,62
+355,17113918,Molly Malone's Irish Pub & Restaurant,Covington,"['Breakfast', 'European', 'Bar Food']",$$,4.0,74
+356,17117863,Revolution Rotisserie & Bar,Over-the-Rhine/Mount Auburn,"['Sandwich', 'Bar Food']",$,3.5,29
+357,17116366,Le's Pho and Sandwiches,Downtown,"['Asian', 'Sandwich', 'Vietnamese']",$,4.0,58
+358,17112745,Chandler's Burger Bistro,Delhi,"['Burger', 'Sandwich']",$,3.5,22
+359,17114368,Putz's Creamy Whip,Cheviot/Westwood,"['Desserts', 'Sandwich']",$,4.0,72
+360,17113717,Maki Express,Clifton/Avondale,"['Japanese', 'Sushi']",$,4.1,69
+361,17113892,Mimi's Cafe,Mason,"['Breakfast', 'French', 'International']",$$,3.6,64
+362,17112219,Bourbon House Pizza,Florence,"['Italian', 'Pizza', 'Sandwich']",$,4.2,59
+363,17117461,Sichuan Chili,Sharonville,"['Chinese', 'Vegetarian']",$$,3.7,50
+364,17114497,Rincon Mexicano,Union Township,"['Mexican', 'Tex-Mex']",$$,4.0,67
+365,17117581,Joe Luigi's Pizza,Batavia,"['Pizza', 'Sandwich', 'Healthy Food']",$,3.4,14
+366,17113679,Lucky Dog Grille,Mason,"['Burger', 'Bar Food', 'Sandwich']",$,3.8,57
+367,17822885,Taft’s Ale House,Over-the-Rhine/Mount Auburn,['Bar Food'],$$,3.7,36
+368,17117021,Lin's Pad Thai,Cheviot/Westwood,"['Asian', 'Chinese', 'Thai']",$$,4.0,51
+369,17114018,O'Bryon's Irish Pub,Hyde Park/Mount Lookout,"['Burger', 'British', 'Bar Food']",$,4.0,68
+370,17112077,Ban Thai,Union Township,"['International', 'Thai']",$$,4.1,73
+371,17117655,Mac's Pizza Pub,Landen,"['Burger', 'Pizza', 'Bar Food']",$,3.6,53
+372,17117720,Cheapside Cafe,Downtown,"['Breakfast', 'Coffee and Tea', 'Sandwich']",$,3.8,59
+373,17116467,Budina,West Chester,"['Asian', 'Thai']",$$,4.1,63
+374,17114178,Peking Garden,Deer Park/Madeira,['Chinese'],$,3.5,44
+375,17113425,Joe's Crab Shack,Campbell County,['Seafood'],$$,3.2,64
+376,17112487,Chili Time,St Bernard/Elmwood Place,"['Sandwich', 'Chili']",$,4.1,55
+377,17112988,Fred & Gari's,Downtown,"['Pizza', 'Sandwich', 'Healthy Food']",$,4.2,51
+378,17116464,SuRa Korean Cuisine,Mason,['Korean'],$$,4.1,64
+379,17116991,Five Boroughs Pizza,Cheviot/Westwood,"['Italian', 'Pizza', 'Sandwich']",$$,4.2,57
+380,17113334,Iron Chef Grill,Symmes,"['Japanese', 'Sushi']",$$$,4.0,63
+381,17114475,360 at the Radisson Hotel Cincinnati Riverfront,Covington,['American'],$$$,3.6,47
+382,17114553,Santorini,Cheviot/Westwood,"['Breakfast', 'Diner', 'Greek']",$$,4.0,48
+383,17113155,May-Thai,Milford,"['Chinese', 'Thai']",$,4.2,58
+384,17112905,European Cafe,Montgomery,"['Breakfast', 'Mediterranean', 'Sandwich']",$,3.9,58
+385,17116018,Sakura Steakhouse and Sushi,Cheviot/Westwood,"['Asian', 'Japanese', 'Sushi']",$$$,4.2,59
+386,17112997,Friendly Stop Cafe,Springdale,"['Burger', 'Bar Food', 'Sandwich']",$,4.2,63
+387,17113588,Laszlo's Iron Skillet,Withamsville,"['European', 'German']",$$,3.9,56
+388,17112432,Cazadores,Mason,['Mexican'],$,4.0,65
+389,17115933,Ikea Restaurant & Cafe,West Chester,"['Desserts', 'Diner', 'European']",$,3.7,52
+390,17114605,Siam Orchid,Campbell County,"['Sushi', 'Thai']",$,4.1,61
+391,17112534,Chipotle Mexican Grill,Clifton/Avondale,"['Fast Food', 'Mexican']",$,3.9,76
+392,17114959,Taco Casa,Hyde Park/Mount Lookout,"['Fast Food', 'Tex-Mex']",$,3.7,63
+393,17117648,Delhi Palace,Deer Park/Madeira,"['Indian', 'Vegetarian']",$$,3.8,47
+394,17112248,Bruegger's Bagel Bakery,Clifton/Avondale,['Sandwich'],$,3.9,65
+395,17117724,Gomez Salsa,Over-the-Rhine/Mount Auburn,['Mexican'],$,3.8,61
+396,17113345,Izzy's,Downtown,['Sandwich'],$,3.9,73
+397,17112876,El Rancho Grande,West Chester,['Mexican'],$,3.9,63
+398,17116410,Cancun Mexican Bar & Grill,Norwood,['Mexican'],$,4.1,53
+399,17116448,Red Pepper,Florence,"['Chinese', 'Sushi']",$,4.2,36
+400,17114034,Old Spaghetti Factory,Fairfield,"['Desserts', 'Italian']",$,3.7,58
+401,17112058,Bacall's Cafe,College Hill/Mt Healthy,"['Diner', 'Bar Food', 'Sandwich']",$$,4.0,64
+402,17114395,Raja India,Mason,['Indian'],$$,4.0,62
+403,17113265,Hibachi Master Japanese Steak House & Sushi Bar,Anderson Township,"['Japanese', 'Steak', 'Sushi']",$$,3.9,49
+404,17112229,Breakfast Club Cafe,Lebanon,['Breakfast'],$,3.9,61
+405,17113338,Greek To Me,Erlanger,"['Greek', 'Middle Eastern']",$,4.1,64
+406,17117453,French Crust Cafe,Downtown,"['Cafe', 'Coffee and Tea', 'French']",$$,3.8,53
+407,17113629,Log Cabin Inn,Independence,"['Breakfast', 'Sandwich', 'Steak']",$,3.7,43
+408,17116053,Walt's Barbeque,Hamilton,"['BBQ', 'Southern']",$$,3.9,57
+409,17114027,O'Malley's in the Alley,Downtown,"['Burger', 'Bar Food', 'Sandwich']",$,3.8,53
+410,17116268,Five Guys Burgers and Fries,Norwood,['Fast Food'],$,3.8,53
+411,17115205,Werkhaus Pizza,Cheviot/Westwood,"['Italian', 'Pizza', 'Sandwich']",$,4.1,61
+412,17112870,El Picante,Loveland,['Mexican'],$,4.1,61
+413,17112970,Floyd's,Clifton/Avondale,"['Greek', 'Middle Eastern', 'Vegetarian']",$,3.8,56
+414,17112843,Dragon City No. 4,Cheviot/Westwood,['Chinese'],$,3.9,48
+415,17112162,Blue Goose Sports Cafe The,Sharonville,"['Burger', 'Bar Food', 'Sandwich']",$$,3.8,55
+416,17112560,Chung Ching,College Hill/Mt Healthy,"['Asian', 'Chinese']",$,4.1,48
+417,17113763,Mason Grill,Mason,"['Breakfast', 'Burger', 'Diner']",$,4.0,48
+418,17114629,Skip's Bagel Deli,Montgomery,['Sandwich'],$,4.2,59
+419,17116981,Scrambler Marie's,Sharonville,"['American', 'French', 'Burger', 'Sandwich', 'Coffee and Tea']",$,3.6,34
+420,17112973,Flying Pizza,Symmes,['Pizza'],$$,3.8,52
+421,17113189,Gramma's Pizza,Anderson Township,['Pizza'],$,3.7,24
+422,17114601,Shooters Sports Grill,Loveland,"['Pizza', 'Bar Food', 'Sandwich']",$$,3.8,36
+423,17114754,Spinning Fork,Fairfield,['Italian'],$$,3.7,47
+424,17116065,Cabana on the River,North Bend,"['Burger', 'Bar Food', 'Sandwich']",$$,3.8,47
+425,17115817,Patterson's Cafe,Oxford,['Breakfast'],$,4.2,57
+426,17116131,The Blind Lemon,Walnut Hills/Mount Adams,['Bar Food'],$,4.0,68
+427,17117491,Red Feather Kitchen,Oakley/Pleasant Ridge,"['American', 'Tapas']",$$$,3.6,49
+428,17112216,Boswell's,Northside,"['American', 'Burger', 'Bar Food']",$,3.8,56
+429,17113927,Montoya's Mexican Restaurant,Crescent Springs/Fort Wright,['Mexican'],$$,4.1,60
+430,17113374,Jansen Sweet Sinsations,Mason,"['Coffee and Tea', 'Desserts']",$,4.1,44
+431,17112349,By Golly's Bar & Grill,Milford,"['American', 'Bar Food']",$$,3.7,55
+432,17112590,Clough Crossings,Anderson Township,"['Bar Food', 'Sandwich', 'Steak']",$$$,4.0,51
+433,17116347,Al Amir Cafe,Downtown,"['Mediterranean', 'Middle Eastern']",$,4.0,53
+434,17116348,Grammas Pizza,Florence,"['Italian', 'Pizza', 'Sandwich']",$,3.9,45
+435,17112954,First Wok,Hyde Park/Mount Lookout,['Chinese'],$,3.9,51
+436,17112159,Blue Agave,Springdale,['Mexican'],$,4.0,49
+437,17114216,Pepper Pod Restaurant,Campbell County,"['Breakfast', 'Diner', 'Sandwich']",$,3.7,53
+438,17116300,Fusion Wok Sushi Bar,Colerain Township,"['Asian', 'Japanese', 'Sushi']",$$,4.1,40
+439,17117390,Durum Grill,Blue Ash,"['Greek', 'Mediterranean', 'Turkish']",$,3.9,46
+440,17113197,Grand Oriental,Symmes,"['Asian', 'Chinese', 'Dim Sum']",$$,4.0,49
+441,17112551,Chopstick Chinese,Florence,['Chinese'],$,4.3,48
+442,17114252,Pirate's Cove Tropical Bar & Grill,East End/Mount Washington,"['Bar Food', 'Seafood']",$$,2.4,42
+443,17112507,China Gourmet,Hyde Park/Mount Lookout,"['Chinese', 'Vegetarian']",$$,3.8,55
+444,17113267,Highland Coffee House,Clifton/Avondale,"['Coffee and Tea', 'Sandwich', 'Vegetarian']",$,4.0,59
+445,17117485,A Tavola,Deer Park/Madeira,"['Desserts', 'Italian', 'Pizza']",$$,3.7,40
+446,17115802,Fiesta Charra,Oxford,['Mexican'],$,4.3,60
+447,17116209,Everything Bagels,Union Township,"['Desserts', 'Bagels']",$,4.2,37
+448,17112667,Crossroads Sports Bar and Grill,Monfort Heights/White Oak,"['Burger', 'Bar Food', 'Sandwich']",$,4.0,39
+449,17114613,Silverglades on 8th,Downtown,"['Breakfast', 'Sandwich', 'Healthy Food']",$,3.9,56
+450,17112039,Athenian Restaurant,Sharonville,['Greek'],$,3.7,46
+451,17116607,Eli's Sports Bar & Grill,West Chester,"['Burger', 'Bar Food', 'Sandwich']",$,3.4,42
+452,17114010,Noodles & Company,Hyde Park/Mount Lookout,"['Asian', 'Fast Food']",$,3.8,55
+453,17117427,Butt Shack BBQ Grill,Fairfield,"['American', 'BBQ', 'Pizza']",$$,3.6,39
+454,17112080,Tong's Thai,Milford,['Thai'],$,4.1,48
+455,17114154,Parkside Café,Walnut Hills/Mount Adams,"['Breakfast', 'Diner', 'Sandwich']",$,3.8,40
+456,17115914,Los Panchos Restaurant & Cantina,Colerain Township,['Mexican'],$,4.2,47
+457,17115049,Tucker's Whippy Dip,Mason,['Desserts'],$,4.5,61
+458,17111901,Alreddy Coffee & Cafe,Sharonville,"['Coffee and Tea', 'Sandwich']",$,4.0,45
+459,17117016,The Public House,Cheviot/Westwood,"['Burger', 'German', 'Pizza']",$$$,4.0,51
+460,17117012,Tacos Locos,Oakley/Pleasant Ridge,['Mexican'],$,4.0,44
+461,17114416,Reality Tuesday Cafe,Crescent Springs/Fort Wright,['Coffee and Tea'],$,4.1,48
+462,17116987,Silver Ladle,Downtown,"['Burger', 'Chili']",$,3.9,45
+463,17117386,Arrechissimo,Deer Park/Madeira,"['Caribbean', 'International', 'Latin American']",$$,3.8,42
+464,17112060,Back Porch Saloon,West Chester,"['Burger', 'Bar Food', 'Sandwich']",$,3.8,52
+465,17114473,Riverfront Pizza,Covington,"['Pizza', 'Bar Food', 'Sandwich']",$,3.7,50
+466,17117160,Hwy 55 Burgers Shakes & Fries,Union Township,"['Burger', 'Diner', 'Sandwich']",$,3.4,29
+467,17113996,Nick & Tom's Restaurant & Bar,Cheviot/Westwood,"['American', 'Seafood']",$$,3.9,41
+468,17114420,Red Fox Grill,Downtown,"['Breakfast', 'Sandwich']",$,3.8,38
+469,17117870,Udupi Café,Sharonville,"['Indian', 'Vegetarian']",$,3.5,30
+470,17112071,Bangkok Express,Symmes,"['Asian', 'Chinese', 'Thai']",$,4.0,48
+471,17116154,Nick's American Cafe,Cleves,"['American', 'Breakfast', 'Diner']",$,3.9,32
+472,17115904,J. Gumbo's,Downtown,"['Fast Food', 'Cajun']",$,3.8,51
+473,17112367,Café de Paris,Downtown,"['American', 'French', 'Sandwich']",$$,3.8,48
+474,17112985,Fox and Hound Pub & Grille,Mason,['American'],$,3.4,49
+475,17113411,Jet's Pizza,Mason,"['Pizza', 'Sandwich']",$,3.8,49
+476,17116097,Raymond's Pizza,West Chester,"['Italian', 'Pizza']",$,4.2,45
+477,17117191,The Elusive Cow Cafe,Campbell County,"['American', 'Sandwich', 'Vegetarian']",$$,3.8,37
+478,17113862,Mei Japanese,Montgomery,"['Japanese', 'Sushi']",$$,3.8,41
+479,17112891,Empire Buffet,Crescent Springs/Fort Wright,['Chinese'],$$,3.8,42
+480,17117971,Krueger's Tavern,Over-the-Rhine/Mount Auburn,"['American', 'Burger', 'Sandwich']",$,3.7,35
+481,17116000,Iris Book Cafe,Over-the-Rhine/Mount Auburn,"['Coffee and Tea', 'Sandwich', 'Tea']",$,3.9,52
+482,17117995,Mardi Gras on Madison,Walnut Hills/Mount Adams,"['Seafood', 'Cajun']",$$,3.8,31
+483,17114357,Proud Rooster Restaurant,Clifton/Avondale,"['Diner', 'Sandwich']",$,4.0,45
+484,17114041,Olive Garden Italian Restaurant,Florence,['Italian'],$$,3.8,56
+485,17115924,Asiana Korean Restaurant,West Chester,"['Asian', 'Korean']",$$,4.0,49
+486,17116060,McCauley's Pub,Sharonville,"['Pizza', 'Bar Food']",$,4.4,36
+487,17114012,North College Hill Bakery,College Hill/Mt Healthy,['Desserts'],$,4.1,48
+488,17115087,Victory Bakery & Grill,West Chester,"['Bakery', 'French']",$,3.9,35
+489,17113220,Green Derby,Campbell County,"['Burger', 'Bar Food', 'Sandwich']",$,3.1,36
+490,17114438,Red Squirrel,Colerain Township,"['Breakfast', 'Diner', 'Sandwich']",$,4.1,39
+491,17113547,LaRosa's Pizzeria,Cheviot/Westwood,['Pizza'],$$,3.7,56
+492,17113759,Martino's on Vine,Clifton/Avondale,"['Italian', 'Pizza', 'Sandwich']",$$,3.6,46
+493,17115784,Kona Bistro & Coffee Bar,Oxford,"['Coffee and Tea', 'Sandwich']",$$,3.9,46
+494,17116959,1215 Wine Bar & Coffee Lab,Over-the-Rhine/Mount Auburn,['Coffee and Tea'],$,4.0,48
+495,17112618,College Hill Coffee Co. and Casual Gourmet,College Hill/Mt Healthy,"['Breakfast', 'Coffee and Tea', 'Sandwich']",$,3.8,51
+496,17113527,La Petite France,Sharonville,['French'],$$$,3.5,46
+497,17112024,Arlin's Restaurant and Beer Garden,Clifton/Avondale,['American'],$,3.7,51
+498,17114997,Texas Roadhouse,Milford,"['American', 'BBQ', 'Steak']",$$$,3.9,50
+499,17116206,Lydia's On Ludlow,Clifton/Avondale,"['Cafe', 'American']",$$,3.7,43
+500,18429609,Pies & Pints Cincinnati,Downtown,"['Pizza', 'American', 'Pub Food']",$$$,3.0,7
+501,17115102,"Vinoklet Winery, Restaurant, & Vineyard",Colerain Township,"['American', 'Steak']",$$$,3.6,30
+502,17112449,Chart House,Campbell County,"['American', 'Seafood', 'Steak']",$$$,3.7,49
+503,17115559,Kim's Korean,Harrison,"['Asian', 'Korean', 'Vegetarian']",$$,4.0,39
+504,17114452,Rib City,Springdale,"['BBQ', 'Sandwich', 'Southern']",$$,3.8,37
+505,17115312,McCoy's Place Bar and Grill,Colerain Township,"['Burger', 'Bar Food', 'Sandwich']",$,4.1,30
+506,17117245,Old Bag of Nails,Mason,"['Burger', 'Sandwich', 'Seafood']",$$,3.6,32
+507,17117492,Bistro Grace,Northside,"['European', 'American']",$$$,3.6,39
+508,17117316,Keystone Bar & Grill,Clifton/Avondale,"['Burger', 'Bar Food', 'Sandwich']",$,3.4,36
+509,17114711,Smokey Bones Bar & Fire Grill,West Chester,"['American', 'BBQ', 'Burger']",$$,3.4,47
+510,17114875,Sukhothai Thai Cuisine,Montgomery,['Thai'],$$,3.7,51
+511,17115259,Willie's Sports Cafe,Cheviot/Westwood,"['Burger', 'Bar Food']",$,3.5,42
+512,17114504,Roosters,Springdale,"['Burger', 'Bar Food', 'Sandwich']",$,3.7,40
+513,17112706,Dave & Busters,Springdale,"['Burger', 'Bar Food', 'Sandwich']",$$,3.5,47
+514,17114392,Rafferty's,Florence,"['Bar Food', 'Sandwich', 'Steak']",$$,3.6,42
+515,17115324,Barnesburg Tavern and Grille,Colerain Township,"['Burger', 'Bar Food', 'Steak']",$$,3.9,36
+516,17112170,Bluebird Bakery,Springdale,"['Coffee and Tea', 'Sandwich']",$,3.8,29
+517,17113779,McAlister's Deli,Mason,"['Fast Food', 'Sandwich']",$,3.7,48
+518,17117309,Jefferson Social,Downtown,"['Mexican', 'Bar Food']",$$,3.4,38
+519,17116625,The Varsity Sports Bar And Grill,Anderson Township,"['Burger', 'Bar Food', 'Sandwich']",$,3.7,38
+520,17114542,Salvadore's Pizzeria,Erlanger,['Pizza'],$,4.4,47
+521,17116804,Bamboo House,Cheviot/Westwood,"['Asian', 'Japanese', 'Sushi']",$$$,3.7,26
+522,17117081,Goodfellows Bar and Grill,Anderson Township,"['Burger', 'Pizza', 'Sandwich']",$$,4.0,40
+523,17113509,Knuk N' Futz,Crescent Springs/Fort Wright,"['American', 'Burger', 'Sandwich']",$$,4.3,44
+524,17113430,Johnny Chan 2,Symmes,"['Chinese', 'Sushi']",$$,3.7,47
+525,17116237,Areti's Gyros,Over-the-Rhine/Mount Auburn,"['Greek', 'Mediterranean', 'Chili']",$,3.8,45
+526,17112521,China Moon,Blue Ash,['Chinese'],$,4.1,33
+527,17116002,Front Street Cafe,New Richmond,"['American', 'European', 'Sandwich']",$$,3.7,39
+528,17116591,Putters Sports Grill,Maineville,"['Burger', 'Bar Food', 'Sandwich']",$,3.7,44
+529,17116157,El Barzon Mexican Restaurant,Trenton,['Mexican'],$$,4.4,29
+530,17115326,Tag's Café and Coffee Bar,Colerain Township,"['Breakfast', 'Coffee and Tea', 'Sandwich']",$,3.9,28
+531,17116208,Fuji Steakhouse,Union Township,"['Japanese', 'Steak', 'Sushi']",$$$,3.9,41
+532,17115808,Steinkeller,Oxford,"['German', 'Bar Food']",$$,3.9,51
+533,17114899,Szechuan House,Sharonville,['Chinese'],$,4.2,42
+534,17115944,Logan's Roadhouse,Colerain Township,"['American', 'Bar Food', 'Steak']",$$,3.7,42
+535,17112208,Bonnie Lynn Bakery,Blue Ash,"['Breakfast', 'Sandwich']",$,4.0,39
+536,17114536,Salem Gardens,East End/Mount Washington,"['Burger', 'Bar Food', 'Sandwich']",$,3.9,50
+537,17115498,Sunnyside Grill,Colerain Township,"['American', 'Breakfast', 'Chili']",$,4.1,35
+538,17112524,China Town Buffet,Milford,"['Chinese', 'Asian']",$$$,4.0,45
+539,17114484,Rohs Street Cafe,Clifton/Avondale,['Coffee and Tea'],$,3.9,43
+540,17113417,Jimmy John's,Clifton/Avondale,['Sandwich'],$,3.9,52
+541,17111867,915 Pub and Grill,Campbell County,"['Burger', 'Bar Food', 'Sandwich']",$,3.9,41
+542,17113893,Mio's Pizzeria,East End/Mount Washington,['Pizza'],$$,3.7,46
+543,17112981,Fortune Express,College Hill/Mt Healthy,['Chinese'],$$,4.2,36
+544,17114068,P & S Restaurant,Colerain Township,"['Breakfast', 'Diner', 'Chili']",$,3.9,31
+545,17112673,Culver's,Mason,"['Burger', 'Desserts', 'Fast Food']",$,3.9,52
+546,17117278,Mango Tree Thai & Sushi,Plaineville,"['Asian', 'Sushi', 'Thai']",$$,3.8,38
+547,17114366,Putters Sports Grill,West Chester,"['American', 'Burger', 'Sandwich']",$$,3.7,44
+548,17114044,Ollie's Trolley,Over-the-Rhine/Mount Auburn,"['BBQ', 'Burger', 'Southern']",$,3.8,40
+549,17114615,Silverton Cafe,Deer Park/Madeira,"['Burger', 'Diner', 'Sandwich']",$,3.7,36
+550,17117044,El Trio Mexican Grill,Plaineville,"['Mexican', 'Tex-Mex']",$,3.8,31
+551,17117999,Krimmer's Italianette Pizzeria,College Hill/Mt Healthy,"['Italian', 'Pizza']",$$,3.6,29
+552,17112241,Brotherton's Family Restaurant,College Hill/Mt Healthy,"['American', 'Diner', 'Sandwich']",$$,3.8,39
+553,17115317,Avril-Bleh & Sons,Downtown,"['Desserts', 'Sandwich']",$,3.9,49
+554,17116996,Rancho Grande,Cold Spring/Alexandria,"['Mexican', 'Tex-Mex']",$,3.6,13
+555,17115682,Stefano's Italian Cafe,Middletown,"['Italian', 'Pizza', 'Seafood']",$$,4.0,42
+556,17117113,Mac's Pizza Pub,Fairfax,"['Pizza', 'Bar Food', 'Sandwich']",$$,3.7,35
+557,17111863,1st Wok,Anderson Township,['Chinese'],$,4.2,44
+558,17115084,Venice on Vine,Over-the-Rhine/Mount Auburn,"['Desserts', 'Pizza', 'Sandwich']",$,3.6,40
+559,17115268,Win Wok,Anderson Township,['Chinese'],$,4.1,40
+560,17113260,Henke Winery,Cheviot/Westwood,"['Italian', 'Pizza']",$$,3.9,45
+561,17115034,Tostado's Bar & Grill,East End/Mount Washington,"['International', 'Bar Food']",$,3.4,41
+562,18404505,Two Cities Pizza Co.,Mason,"['American', 'Pizza']",$$$,3.3,12
+563,17113688,Ludlow-Bromley Yacht Club,Covington,"['American', 'Seafood']",$$,4.0,45
+564,17114607,Sidewinder Coffee & Tea,Northside,"['Coffee and Tea', 'Sandwich']",$,3.5,46
+565,17113764,Matsuya Japanese,Florence,"['Japanese', 'Sushi']",$$,3.9,42
+566,17114593,Shakey's Pub & Grub,Florence,"['Burger', 'Bar Food', 'Sandwich']",$,3.9,40
+567,17115905,Tousey House Tavern,Burlington,"['Southern', 'Steak']",$$$,3.9,43
+568,17112620,Colonial Cottage,Erlanger,"['American', 'Breakfast']",$$$,3.6,41
+569,17116855,Eli's BBQ,Over-the-Rhine/Mount Auburn,"['BBQ', 'Sandwich']",$,3.8,36
+570,17113654,LongHorn Steakhouse,Hyde Park/Mount Lookout,"['Burger', 'Bar Food', 'Steak']",$$$,3.5,39
+571,17117428,The Capital Grille,Norwood,['American'],$$$$,3.6,29
+572,17112047,Awakenings Coffee & Tea,Hyde Park/Mount Lookout,"['Coffee and Tea', 'Desserts']",$,3.9,46
+573,17115406,Los Cabos Mexican Restaurant,Amelia,['Mexican'],$$,4.0,41
+574,17115788,Mac & Joe's,Oxford,"['Burger', 'Bar Food', 'Sandwich']",$,3.8,46
+575,17116384,Fireside Pizza,Walnut Hills/Mount Adams,['Pizza'],$,3.8,28
+576,17117202,Mad Mike's Burgers and Fries,Campbell County,['Burger'],$,3.8,36
+577,18346501,Maplewood Kitchen and Bar,Downtown,"['American', 'Coffee and Tea']",$$,3.6,19
+578,17112479,Chicken on the Run,Deer Park/Madeira,['American'],$,4.0,32
+579,17113301,House of Sun,Sharonville,['Chinese'],$,3.8,34
+580,17116487,Topper's Pizza,Clifton/Avondale,"['Pizza', 'Bar Food']",$,3.8,41
+581,17114968,Tandoor India Restaurant,Montgomery,"['Indian', 'Vegetarian']",$$,3.8,39
+582,17117845,Redondo Taqueria,Campbell County,['Mexican'],$,3.3,20
+583,17117387,Jason's Deli,Norwood,"['Sandwich', 'Healthy Food']",$,3.6,33
+584,17117934,Bamboo Kitchen,Deer Park/Madeira,"['Chinese', 'Thai', 'Vietnamese']",$$,3.6,31
+585,17113077,Giminetti Baking Company,Walnut Hills/Mount Adams,['Sandwich'],$,4.1,42
+586,17117159,DiBellas Old Fashioned Submarines,Blue Ash,['Sandwich'],$$,3.5,40
+587,17116276,Bangkok Express,Downtown,['Thai'],$,3.9,32
+588,17116210,The Wise Owl,West Chester,['Tapas'],$$,3.9,36
+589,17114455,Richards Pizza,Hamilton,"['Italian', 'Pizza', 'Sandwich']",$,3.9,45
+590,17116501,MOTR Pub,Over-the-Rhine/Mount Auburn,['Pub Food'],$$,3.8,47
+591,17117469,Carabello Coffee,Campbell County,['Coffee and Tea'],$,3.7,22
+592,17117268,The Spread Buffet,Downtown,['International'],$$,3.5,25
+593,17116541,El Picante,Maineville,['Mexican'],$,3.9,39
+594,17117033,Kirby's,Loveland,"['American', 'Burger', 'Cajun']",$$,3.6,37
+595,17116491,Mi Tierra,Crescent Springs/Fort Wright,['Mexican'],$$,3.8,29
+596,17117205,Tikka Grill,West Chester,"['Greek', 'Mediterranean', 'Sandwich']",$,3.7,32
+597,17115929,Lucy Blue,Downtown,['Pizza'],$,3.7,46
+598,17117842,Arthur's Cafe,Anderson Township,"['American', 'Burger', 'Bar Food']",$$,3.8,33
+599,17116046,Whipty-Do!,Landen,"['Desserts', 'Ice Cream']",$,3.9,38
+600,17117046,Cupcake Crazy,Deer Park/Madeira,['Desserts'],$,3.3,25
+601,17112530,Chinese Imperial Inn,Sharonville,"['Asian', 'Chinese', 'Seafood']",$,4.0,28
+602,17113167,Golden Dragon White Oak,Monfort Heights/White Oak,"['Asian', 'Chinese', 'Thai']",$$,4.1,41
+603,17112607,Coffee Please,Deer Park/Madeira,"['Coffee and Tea', 'Sandwich']",$,4.1,39
+604,17117092,La Cazuela Mexican Grill & Bar,Hamilton,"['Mexican', 'Tex-Mex']",$$,3.6,28
+605,17756555,Sweets & Meats Bbq,East End/Mount Washington,"['BBQ', 'Southern', 'Bubble Tea']",$$,3.4,11
+606,17113993,N.Y.P.D. Pizza,Cheviot/Westwood,['Pizza'],$,3.7,37
+607,17112086,Barleycorn's Lakeside Park,Crescent Springs/Fort Wright,"['Burger', 'Bar Food', 'Sandwich']",$$,3.8,40
+608,17115430,Mama's Grill,Williamsburg,"['American', 'Breakfast', 'Burger']",$,4.0,25
+609,17117104,Hello Honey,Downtown,['Desserts'],$,3.6,32
+610,17116443,Caribe Carryout,Clifton/Avondale,"['Caribbean', 'Cuban']",$,3.8,30
+611,17114585,Servatii Pastry Shop & Deli,Anderson Township,['Sandwich'],$,3.9,38
+612,17116859,MVP Sports Bar and Grille,Deer Park/Madeira,"['Burger', 'Bar Food']",$$,3.6,26
+613,17115013,Tina's,Downtown,"['Burger', 'Bar Food', 'Sandwich']",$,3.7,32
+614,17115288,Young's Kitchen,East End/Mount Washington,"['Asian', 'Chinese', 'Sushi']",$$,3.9,33
+615,17113659,Charred Oak Bistro,Walnut Hills/Mount Adams,"['American', 'Burger', 'Bar Food']",$$,3.2,32
+616,17115552,El Mariachi Mexican Restaurant,Harrison,"['Mexican', 'Tex-Mex']",$,3.7,22
+617,17116623,Orange Leaf Frozen Yogurt,Deer Park/Madeira,['Desserts'],$,3.5,28
+618,17114898,Szechuan Garden Bistro,Crescent Springs/Fort Wright,"['Asian', 'Chinese', 'Thai']",$$,3.8,25
+619,17116241,Rick's Tavern & Grille,Fairfield,"['American', 'Burger', 'Bar Food']",$$,3.6,27
+620,17116995,Café DeSales,Walnut Hills/Mount Adams,"['Breakfast', 'Coffee and Tea', 'Sandwich']",$,3.8,28
+621,17117063,C'est Cheese,Downtown,"['Fast Food', 'Sandwich']",$,3.4,36
+622,17114627,Skally's,College Hill/Mt Healthy,"['American', 'Pizza']",$,3.9,25
+623,17114461,Silverton Donut Shop,Deer Park/Madeira,"['Breakfast', 'Coffee and Tea', 'Donuts']",$,4.1,38
+624,17112064,Bagel Brothers,Clifton/Avondale,"['Bagels', 'Sandwich']",$,4.0,38
+625,17115712,Butterbee's Neighborhood Grille,Mount Orab,['American'],$,3.8,28
+626,17113663,Lookout Joe's,Hyde Park/Mount Lookout,"['Breakfast', 'Coffee and Tea', 'Sandwich']",$,3.9,41
+627,17117288,Rusty Bucket Restaurant and Tavern,Mason,"['Burger', 'Bar Food', 'Sandwich']",$$,3.3,30
+628,17116294,Washington Square Cafe,Burlington,"['American', 'Breakfast', 'Sandwich']",$$,3.8,29
+629,17114982,Tavern on the Hill,Walnut Hills/Mount Adams,"['Burger', 'Pizza', 'Bar Food']",$$,3.7,35
+630,17112272,Buffalo Wild Wings,Hyde Park/Mount Lookout,['Bar Food'],$$,3.4,33
+631,17115074,UNO Pizzeria & Grill,West Chester,"['Burger', 'Pizza', 'Bar Food']",$$,3.7,40
+632,17115562,Market Street Grille,Harrison,['American'],$$,3.7,30
+633,17112493,China Chef,Colerain Township,['Chinese'],$,3.8,29
+634,17116692,Turophilia Quesadillas,Downtown,"['Fast Food', 'Southwestern']",$,3.9,37
+635,17115785,La Bodega Delicatessen,Oxford,"['Sandwich', 'Healthy Food']",$,3.9,42
+636,17117139,Chuy's,Florence,"['Mexican', 'Tex-Mex']",$,3.8,40
+637,17115277,Wok of China,Cheviot/Westwood,['Chinese'],$,4.0,28
+638,17117456,Cocoa Bites,Loveland,"['Coffee and Tea', 'Desserts', 'Tea']",$,3.4,12
+639,17117056,Habesha Restaurant & Cafe,Cheviot/Westwood,['Ethiopian'],$,3.8,24
+640,17116086,Eli's Sports Bar & Grill,Fairfield,"['Burger', 'Bar Food', 'Sandwich']",$,3.3,30
+641,17116307,El Caporal Mexican Bar & Grill,Mason,"['Mexican', 'Tex-Mex']",$,3.6,37
+642,17116986,Currito,Downtown,"['Mexican', 'Tex-Mex']",$,3.7,38
+643,17115026,Tom's Papa Dino's Pizza,Florence,['Pizza'],$,4.1,34
+644,17112137,Big Apple Bagels,Anderson Township,"['Pizza', 'Sandwich']",$,4.0,42
+645,17115274,Wok Express,Springdale,['Chinese'],$,3.9,22
+646,17117014,Taj India Cuisine,Anderson Township,"['Indian', 'Vegetarian']",$$,3.9,30
+647,17116380,Rasheedah's Cafe II,College Hill/Mt Healthy,"['Caribbean', 'Diner', 'Southern']",$,4.2,24
+648,17117217,Unwind Wine Bar,Hyde Park/Mount Lookout,"['Mediterranean', 'Vegetarian']",$,3.7,34
+649,17117107,Poochie's Place,Amelia,"['Breakfast', 'Diner', 'Sandwich']",$,3.5,28
+650,17117200,iPho Vietnamese Cuisine,Symmes,['Asian'],$,3.7,26
+651,17117137,Kitchen 452,Walnut Hills/Mount Adams,[],$,3.8,25
+652,17112996,Frieda's Desserts,Deer Park/Madeira,"['Breakfast', 'Desserts']",$,4.0,29
+653,17117474,FUSIAN,Hyde Park/Mount Lookout,"['Asian', 'Japanese', 'Sushi']",$,3.6,30
+654,17112331,Burrito Joe's,Downtown,['Mexican'],$,3.7,39
+655,17115304,HD Beans & Brews Cafe,Deer Park/Madeira,"['Coffee and Tea', 'Sandwich', 'Bar Food']",$,3.8,27
+656,17115048,Tucker's,Over-the-Rhine/Mount Auburn,"['Breakfast', 'Burger', 'Diner']",$,3.7,32
+657,17114413,Raymond's Hong Kong Cafe,Walton,"['Asian', 'Breakfast', 'Chinese']",$$,3.7,31
+658,17115803,Skipper's Pub,Oxford,"['Burger', 'Greek', 'Sandwich']",$,3.9,41
+659,17113915,Moe's Southwest Grill,Mason,"['Fast Food', 'Tex-Mex']",$,3.6,37
+660,17114422,Red Lobster,Forest Park,['Seafood'],$$,3.6,30
+661,17116016,Schneider's Sweet Shop,Campbell County,['Desserts'],$,4.0,39
+662,17117985,Gruff Pizzeria & Delicatessen,Covington,"['Pizza', 'Sandwich']",$,3.5,20
+663,17116311,Laziz Grill & Bakery‎,West Chester,"['Coffee and Tea', 'Middle Eastern']",$,3.8,24
+664,17117974,Korealistic,West Chester,"['Japanese', 'Korean', 'Sushi']",$$,3.3,20
+665,17112518,China Kitchen,Clifton/Avondale,['Chinese'],$,3.9,31
+666,17112836,Dragon City,College Hill/Mt Healthy,['Chinese'],$,3.9,35
+667,17114897,Symphony Hotel and Restaurant,Over-the-Rhine/Mount Auburn,['Vegetarian'],$$$,3.5,20
+668,17115313,The Summit,Northside,['European'],$$$,3.6,28
+669,17116024,Al-Madina Market & Grill,Clifton/Avondale,"['Indian', 'Middle Eastern', 'Pakistani']",$,4.1,32
+670,17116589,Miami Market,Milford,"['American', 'Italian', 'Sandwich']",$,3.9,23
+671,17117768,Taste of India,Lebanon,"['Indian', 'Vegetarian']",$,3.6,29
+672,17116373,Noces Pizzeria,Erlanger,"['Italian', 'Pizza', 'Sandwich']",$,3.8,34
+673,17114877,Sun Garden,West Chester,['Chinese'],$,4.1,31
+674,17113940,Mr. Gene's Dog House,Northside,"['Desserts', 'Fast Food']",$,3.9,32
+675,17117050,RJ's Sports Pub,West Chester,['Bar Food'],$$,3.2,27
+676,17117909,Fireside Pizza,Walnut Hills/Mount Adams,"['Pizza', 'Healthy Food']",$,3.7,21
+677,17116180,BLOC Coffee Company,Price Hill/Fairmount,"['Coffee and Tea', 'Deli']",$,3.9,28
+678,17116775,Velocity Bike & Bean,Florence,['Coffee and Tea'],$,3.8,17
+679,17115081,Veg Head,Loveland,"['Pizza', 'Sandwich', 'Vegetarian']",$,3.9,28
+680,17115091,Village Ice Cream Parlor,Lebanon,"['Desserts', 'Sandwich']",$,3.7,31
+681,17116536,Barleycorn's Florence,Florence,"['Burger', 'Bar Food', 'Sandwich']",$$,2.5,28
+682,17113293,Hooters,Campbell County,"['Burger', 'Bar Food', 'Sandwich']",$,2.6,30
+683,17116799,Wishbone Tavern,Delhi,"['Burger', 'Bar Food']",$,3.6,27
+684,17114588,Shadeau Breads,Over-the-Rhine/Mount Auburn,['Sandwich'],$,3.8,38
+685,17112424,Cassano's Pizza & Subs,Fairfield,"['Fast Food', 'Pizza']",$,3.8,34
+686,17117058,Sushi Cincinnati,Covington,"['Asian', 'Japanese', 'Sushi']",$$$,3.5,21
+687,17112475,Chick-fil-A,West Chester,['Fast Food'],$,3.8,42
+688,17113934,Mt. Lookout Tavern,Hyde Park/Mount Lookout,"['American', 'BBQ', 'Burger']",$,3.5,33
+689,17117890,Cozy's Cottage,West Chester,"['American', 'Cafe']",$$$,3.4,22
+690,17116511,Hibachi Grill & Buffet,Withamsville,"['Chinese', 'Japanese', 'Sushi']",$$,3.4,29
+691,17115793,Paesano's Pasta House,Oxford,['Italian'],$$$,4.0,38
+692,17116012,Fuji Steak House,Hamilton,"['Japanese', 'Steak', 'Sushi']",$$$,3.8,28
+693,17117673,Avocados Cocina Mexicana,Cheviot/Westwood,"['Mexican', 'Tex-Mex']",$$,3.4,22
+694,17117520,Happy's Pizza,Cheviot/Westwood,"['BBQ', 'Pizza', 'Sandwich']",$,2.3,19
+695,17114089,Panera Bread,Blue Ash,['Sandwich'],$,3.7,36
+696,17116874,Bon Chinese,Montgomery,"['Asian', 'Chinese', 'Dim Sum']",$$,3.6,29
+697,17113775,Mayas Mexican,Florence,['Mexican'],$,3.8,29
+698,17117499,Chopstick House,Cheviot/Westwood,['Chinese'],$,3.7,21
+699,17117423,DJ's Sports Tavern,Springdale,[],$,3.2,25
+700,17116988,Buz,East End/Mount Washington,"['Burger', 'Pizza', 'Bar Food']",$$$,3.8,34
+701,17117956,The Mercer OTR,Over-the-Rhine/Mount Auburn,"['American', 'Italian']",$$$$,3.4,24
+702,17116145,The DugOut,Burlington,"['American', 'Bar Food']",$,3.4,27
+703,17112980,Ft. Wright Family Restaurant,Crescent Springs/Fort Wright,"['Breakfast', 'Diner', 'Sandwich']",$,3.9,31
+704,17117689,Blaze Pizza,Mason,"['Pizza', 'Healthy Food']",$,3.6,31
+705,17113218,Grecian Delight,Middletown,"['Greek', 'Mediterranean']",$,3.8,32
+706,17112370,Caffe Barista & Deli,Downtown,"['Breakfast', 'Coffee and Tea', 'Sandwich']",$,3.9,31
+707,17115990,Roosters,Milford,"['Pizza', 'Bar Food', 'Sandwich']",$,3.4,34
+708,17117358,Red Roost Tavern,Downtown,[],$$,3.4,28
+709,17112437,Century Inn,Springdale,"['American', 'Burger', 'Sandwich']",$$,3.8,33
+710,17115314,Whit's Frozen Custard,Lebanon,['Desserts'],$,4.1,36
+711,17113631,Logo's Sports Bar & Grill,Blue Ash,"['Burger', 'Bar Food', 'Sandwich']",$,3.8,33
+712,17113304,Houston Inn,Mason,"['Bar Food', 'Seafood', 'Steak']",$$$,3.7,29
+713,17116472,Cafe Bistro,Deer Park/Madeira,"['American', 'Sandwich']",$$$,3.9,32
+714,17116736,Apple Spice Junction,Blue Ash,"['American', 'Sandwich', 'Healthy Food']",$,3.5,25
+715,17112141,Big Dogs Pizza,West Chester,['Pizza'],$,4.0,34
+716,17117883,Pho Kimmy,Sharonville,['Vietnamese'],$$,3.6,23
+717,17116696,Bones' Burgers,Mason,['Burger'],$,3.4,22
+718,17116358,Avenue Brew,Campbell County,"['Brazilian', 'Coffee and Tea']",$,3.6,25
+719,17116551,Zoup! Fresh Soup Company,Clifton/Avondale,"['Sandwich', 'Vegetarian']",$,3.8,27
+720,17116052,The Village Tavern,Montgomery,"['Burger', 'Pizza', 'Bar Food']",$,3.6,25
+721,17116810,Aji Ichiban Japanese Steakhouse,Cheviot/Westwood,"['Japanese', 'Steak']",$$$,3.8,27
+722,17117892,Marrakech Moroccan Cafe and Grill,Clifton/Avondale,"['Middle Eastern', 'Moroccan']",$,3.7,16
+723,17113360,J.K.'s Chili,Deer Park/Madeira,"['Breakfast', 'Diner', 'Chili']",$,3.9,27
+724,17115521,Hunan Palace,Georgetown,['Chinese'],$,3.1,2
+725,17111917,Anderson Township Pub,Anderson Township,"['Burger', 'Bar Food', 'Sandwich']",$,3.7,29
+726,17114739,Sophia's,Downtown,"['American', 'Greek', 'Sandwich']",$,4.0,26
+727,17116091,Newtown Village Tavern,Newtown,"['American', 'Pizza', 'Bar Food']",$$,3.9,30
+728,17113309,Hyde's Restaurant,Hamilton,"['Breakfast', 'Diner', 'Sandwich']",$,3.7,30
+729,17115297,Zip Dip,Cheviot/Westwood,['Desserts'],$,3.9,35
+730,17113178,Gourmet Chili,Campbell County,"['Diner', 'Chili']",$,3.6,24
+731,17117528,Woots BBQ,Monfort Heights/White Oak,"['BBQ', 'Southern']",$,3.5,23
+732,17114626,Sizzling Wok,Anderson Township,"['Asian', 'Chinese', 'Vegetarian']",$,4.0,28
+733,17113677,Luckman Coffee Company,East End/Mount Washington,"['Coffee and Tea', 'Sandwich', 'Tea']",$,3.5,18
+734,17114807,Stone's,Cheviot/Westwood,['American'],$,3.7,25
+735,17115973,Teranga Restaurant,Wyoming/Arlington Heights/Reading,['African'],$,3.8,32
+736,17116887,J. Gumbo's,Clifton/Avondale,"['Fast Food', 'Cajun']",$,3.6,29
+737,17115035,Total Juice Plus,Downtown,"['Sandwich', 'Beverages', 'Vegetarian']",$,3.7,33
+738,17116720,Marce's Sabor,Middletown,"['American', 'Caribbean', 'Latin American']",$$,3.7,20
+739,17116921,Buffalo Wings & Rings,College Hill/Mt Healthy,"['Burger', 'Bar Food']",$,3.6,27
+740,17117154,Tin Roof Bar,Downtown,"['Bar Food', 'Sandwich', 'Tex-Mex']",$,3.6,29
+741,17113312,IHOP,Oakley/Pleasant Ridge,"['American', 'Breakfast']",$$,2.1,26
+742,17116632,Heavenly Frosted Cupcakes,Burlington,['Desserts'],$,4.0,23
+743,17116994,Tender Towne,Withamsville,['Fast Food'],$,3.4,24
+744,17117692,Pieology Pizzeria,Clifton/Avondale,"['Pizza', 'Healthy Food']",$,3.5,22
+745,17116077,Mt. Washington Creamy Whip & Bakery,East End/Mount Washington,['Desserts'],$,4.0,34
+746,17114021,O'Charley’s Restaurant & Bar,Springdale,"['Burger', 'Bar Food', 'Sandwich']",$$,3.6,22
+747,17117563,Pho 96 Vietnamese Noodles,West Chester,"['Breakfast', 'Vietnamese']",$,3.6,23
+748,17113596,Lebo's bar & grill,East End/Mount Washington,['American'],$,3.3,21
+749,17112460,Chester's Pizzeria,Hamilton,"['Italian', 'Pizza', 'Sandwich']",$$,4.1,30
+750,17116542,New China Buffet,Campbell County,['Chinese'],$,3.5,25
+751,17116118,Taqueria Cruz,Covington,['Mexican'],$,3.6,25
+752,17115499,Ice Box Dairy Bar,Cleves,['Desserts'],$,3.7,20
+753,17117203,Collective Espresso,Over-the-Rhine/Mount Auburn,['Coffee and Tea'],$,3.7,24
+754,17116043,Whole Foods Market,Norwood,"['Coffee and Tea', 'International']",$$,3.7,36
+755,17116753,Mi Camino Real,Mount Orab,"['Mexican', 'Tex-Mex']",$,3.7,13
+756,17115281,Wyoming Pastry Shop,Wyoming/Arlington Heights/Reading,[],$,4.2,32
+757,17113432,Johnny Chan Chinese,Symmes,['Chinese'],$,3.9,29
+758,17117425,Red Rose Jems Pizzeria,College Hill/Mt Healthy,"['Italian', 'Pizza', 'Sandwich']",$$,3.7,25
+759,17112666,Eli's Sports Bar & Grill,Mason,"['Burger', 'Bar Food', 'Sandwich']",$,3.5,28
+760,17112914,Fantastic Wok,College Hill/Mt Healthy,['Chinese'],$,3.9,22
+761,17115958,Hebron Brew Haus,Hebron,"['Burger', 'Pizza', 'Healthy Food']",$,3.7,24
+762,17113518,Kremer's Market,Crescent Springs/Fort Wright,['Sandwich'],$,3.7,27
+763,17114612,Silver Wok,Blue Ash,"['Asian', 'Chinese']",$,3.7,25
+764,17117171,Piper's Cafe,Covington,"['Cafe', 'Desserts', 'Sandwich']",$$$,3.7,20
+765,17113261,Herb & Thelma's Tavern,Covington,"['Burger', 'Chili']",$,3.9,27
+766,17114160,Pasquale's Newport,Campbell County,"['Italian', 'Pizza', 'Sandwich']",$,3.7,28
+767,17116861,Chaska Grill Pakistani & Indian Cuisine,West Chester,"['Indian', 'Pakistani']",$,3.5,25
+768,17116742,James' Third Base,Mason,"['Bar Food', 'Sandwich', 'Chili']",$,3.5,23
+769,17838478,Don Rigo,Amelia,"['Mexican', 'Tex-Mex']",$$,3.1,4
+770,17112389,Cancun Restaurante,Colerain Township,['Mexican'],$,3.7,30
+771,17116946,Dos Amigos,Springdale,"['Mexican', 'Tex-Mex']",$$,3.8,22
+772,17114990,Terrace Cafe,Walnut Hills/Mount Adams,['Sandwich'],$$,3.4,15
+773,17116320,Gyro Subs,West Chester,"['Mediterranean', 'Middle Eastern']",$,3.7,25
+774,17113326,Indian Mound Cafe,Norwood,"['Burger', 'Bar Food']",$,3.7,25
+775,17115077,Us Chili,Price Hill/Fairmount,['Chili'],$,3.5,19
+776,17116069,Main Cup,Milford,['Coffee and Tea'],$,3.7,23
+777,17113238,Gypsy Cafe,Clifton/Avondale,"['Coffee and Tea', 'Tea']",$$,4.0,26
+778,17112685,The Daily Grind & Slice,Hamilton,"['Coffee and Tea', 'Pizza', 'Sandwich']",$,4.0,20
+779,17114800,Steak 'n Shake - TEMPORARILY CLOSED,Oakley/Pleasant Ridge,['Fast Food'],$,2.7,23
+780,17112111,Beef O'Brady's,Florence,"['Bar Food', 'Sandwich']",$,3.1,29
+781,17112562,Chung Kiwha Korean Barbecue & Sushi,Florence,"['Korean', 'Sushi']",$$$$,3.7,27
+782,17114064,Outback Steakhouse,Anderson Township,['Steak'],$$$,3.6,29
+783,17116426,Marty's Hops & Vines,College Hill/Mt Healthy,[],$,3.8,31
+784,17113191,El Rancho Grande,Cheviot/Westwood,['Mexican'],$$,3.7,26
+785,17115934,Redtree Art Gallery and Coffee Shop,Oakley/Pleasant Ridge,['Coffee and Tea'],$,3.9,26
+786,17116488,Fresh Table,Over-the-Rhine/Mount Auburn,"['Vegetarian', 'Healthy Food']",$$,3.6,24
+787,17115757,45 East Bar & Grill,Oxford,"['Burger', 'Bar Food']",$$$,3.6,27
+788,17116740,A Sweet Life,Colerain Township,['Desserts'],$,3.7,20
+789,17112797,Donatos Pizza,Hyde Park/Mount Lookout,"['Pizza', 'Salad', 'American']",$$,3.5,27
+790,17113672,Loveland Dairy Whip,Loveland,['Desserts'],$,3.8,30
+791,17112516,China Island,Deer Park/Madeira,['Chinese'],$,3.7,23
+792,17117193,Dos Amigos,Milford,['Mexican'],$,3.6,16
+793,17114052,Orient,Downtown,"['Asian', 'Chinese', 'Vietnamese']",$,3.8,26
+794,17116590,Taco Loco,Forest Park,['Mexican'],$,3.7,20
+795,17113398,Jersey Mike's Subs,Hyde Park/Mount Lookout,['Sandwich'],$,3.8,30
+796,17112643,Country Inn,Withamsville,['American'],$,3.8,20
+797,17114576,Seeger's Meats & Deli,Lebanon,"['American', 'Sandwich', 'Seafood']",$,3.9,25
+798,17114818,Sub Station II,Florence,['Sandwich'],$,3.6,23
+799,17116403,Hot Head Burritos,Florence,"['Fast Food', 'Southwestern', 'Tex-Mex']",$,3.6,27
+800,17112428,Casual Chinese,Campbell County,['Chinese'],$,3.7,29
+801,17112444,Chan's Asian Wok,Cold Spring/Alexandria,"['Asian', 'Chinese']",$,3.9,27
+802,17112869,El Mariachi II,Hamilton,"['Mexican', 'Vegetarian']",$,3.9,28
+803,17117439,Flipdaddy's Burgers & Beers,Florence,"['Burger', 'Bar Food', 'Sandwich']",$$,3.4,22
+804,17117190,Red Sesame Korean BBQ Truck,Florence,"['BBQ', 'Korean']",$,3.6,21
+805,17843401,Cuban Pete Sandwiches,Downtown,['Sandwich'],$,3.6,15
+806,17113983,New England Grinders,West Chester,"['Breakfast', 'Diner', 'Sandwich']",$,3.7,25
+807,17114765,Stan the Donut Man,West Chester,['Donuts'],$,3.9,28
+808,17112818,Donut Spot,Fairfield,"['Desserts', 'Donuts']",$,4.0,26
+809,17116640,Firehouse Subs,Symmes,['Sandwich'],$,3.6,25
+810,17117433,Sweet Heart Cafe,Colerain Township,"['Breakfast', 'Coffee and Tea', 'Sandwich']",$,3.6,18
+811,17117466,Cavu Coffee,West Chester,"['Breakfast', 'Coffee and Tea', 'Tea']",$,3.6,20
+812,17117301,Midwest Best BBQ & Creamery,Loveland,"['BBQ', 'Desserts', 'Healthy Food']",$,3.7,19
+813,17113198,Grand Peking,West Chester,['Chinese'],$,4.0,26
+814,17112661,Cricket Lounge,Downtown,['Sandwich'],$$,3.5,22
+815,17112531,Chinese Lantern,Hamilton,"['Asian', 'Chinese']",$,3.9,26
+816,17112430,Cathay Kitchen,Florence,"['Asian', 'Chinese', 'Dim Sum']",$$,3.8,24
+817,17112653,Cracker Barrel Old Country Store,Sharonville,['American'],$,3.6,16
+818,17117004,Velvet Smoke BBQ,Harrison,"['BBQ', 'Southwestern']",$$,3.7,22
+819,17114349,Potbelly Sandwich Shop,Deer Park/Madeira,"['Fast Food', 'Sandwich']",$,3.6,32
+820,17116765,Acapulco Mexican Restaurant,Lebanon,"['Mexican', 'Tex-Mex']",$$,3.8,27
+821,17117266,Jack Binion's Steak,Downtown,"['Bar Food', 'Steak']",$$$$,3.3,14
+822,17113030,Frisch's Big Boy,Fairfax,"['Breakfast', 'Burger', 'Diner']",$,3.6,21
+823,17114371,Qdoba Mexican Grill,Blue Ash,"['Fast Food', 'Mexican']",$,3.7,34
+824,17115567,Nick's Restaurant,Harrison,"['Burger', 'Sandwich', 'Chili']",$,3.7,24
+825,17116425,Tokyo Dragon,Cold Spring/Alexandria,['Chinese'],$,3.4,22
+826,17114190,Penn Station East Coast Subs,Clifton/Avondale,"['Fast Food', 'Sandwich']",$,3.8,31
+827,17114757,Sports Page,Downtown,"['Breakfast', 'Desserts', 'Bar Food']",$,3.8,20
+828,17117410,Newberry Bros. Coffee,Campbell County,"['Coffee and Tea', 'Desserts']",$,3.7,18
+829,17114741,Sorrento's Restaurant & Lounge,Wyoming/Arlington Heights/Reading,['Italian'],$$,3.2,25
+830,17116543,Cake Rack Bakery,Covington,"['Bakery', 'Coffee and Tea']",$,3.6,13
+831,17116196,Sushi Nara,Oxford,"['Asian', 'Sushi']",$$,3.8,27
+832,17112817,Donut Shop,Lebanon,['Donuts'],$,3.9,25
+833,17111969,Applebee's,Cold Spring/Alexandria,['American'],$$,3.3,23
+834,17112443,Chan's Asian Wok,Mason,"['Asian', 'Chinese']",$,3.7,24
+835,17117251,Mediterranean King,Clifton/Avondale,"['Mediterranean', 'Middle Eastern', 'Vegetarian']",$$,3.7,22
+836,17117977,Wingstop,Colerain Township,[],$,3.1,12
+837,17116947,Wings on Brookwood,Hamilton,"['Burger', 'Bar Food']",$,3.6,18
+838,17113157,Golden City,Cheviot/Westwood,['Chinese'],$,3.9,22
+839,17116729,K-dots Family Restaurant,Cheviot/Westwood,"['Breakfast', 'Diner', 'Sandwich']",$,3.7,23
+840,17112971,Flub's Dari-Ette,Hamilton,['Desserts'],$,4.1,31
+841,17116011,China House,West Chester,['Chinese'],$,4.2,21
+842,17112115,Beer Sellar,Campbell County,"['American', 'Bar Food', 'Sandwich']",$,2.5,22
+843,17115090,Village Cellars,Lebanon,['Pizza'],$,3.8,24
+844,17112995,Fricker's Sports Bar,College Hill/Mt Healthy,"['Burger', 'Bar Food', 'Sandwich']",$,3.5,21
+845,17116005,The Redmoor,Hyde Park/Mount Lookout,['American'],$$,3.7,19
+846,17117224,Veracruz Mexican Restaurant,Middletown,"['Mexican', 'Tex-Mex']",$,3.7,18
+847,17111877,Abby's Pub & Grill,Cheviot/Westwood,"['Burger', 'Bar Food', 'Sandwich']",$$,3.7,21
+848,17114085,Panda Garden,Fairfield,['Chinese'],$,3.9,24
+849,17117656,The Littlefield,Northside,['Bar Food'],$$,3.7,18
+850,17115275,Wok Inn,St Bernard/Elmwood Place,['Chinese'],$,4.2,19
+851,17115920,Bake's Place,Downtown,"['Breakfast', 'Sandwich']",$,3.8,15
+852,17116910,Next Chapter Restaurant/Cafe,Walnut Hills/Mount Adams,"['Breakfast', 'Bar Food', 'Sandwich']",$,3.4,21
+853,17114761,St Lawrence Bakery,Price Hill/Fairmount,['Bakery'],$,4.2,24
+854,17116608,Gyro Plaza Cafe,Delhi,"['American', 'Afghan']",$,3.5,22
+855,17116916,True West Coffee,Hamilton,"['Breakfast', 'Coffee and Tea', 'Sandwich']",$,3.8,19
+856,17117513,Sushi Samurais,West Chester,"['Japanese', 'Sushi']",$$,3.4,13
+857,17116971,New Garden,Campbell County,"['Chinese', 'Japanese', 'Sushi']",$,3.7,18
+858,17112263,Buffalo Bob's Family Restaurant,Florence,"['Burger', 'Bar Food', 'Sandwich']",$,3.4,24
+859,17117983,Goodfellas Pizzeria,Over-the-Rhine/Mount Auburn,['Pizza'],$$,3.5,15
+860,18398352,Press on Monmouth,Campbell County,"['Coffee and Tea', 'Sandwich']",$$,3.2,7
+861,17113933,Mount Adams Pavilion,Walnut Hills/Mount Adams,"['American', 'Burger', 'Bar Food']",$,2.9,17
+862,17115678,Shaddock's Pizza,Middletown,"['Pizza', 'Sandwich']",$,4.0,21
+863,17118001,Brick House,Sharonville,['Pizza'],$$,3.2,17
+864,17117057,Imperial Wok,Deer Park/Madeira,['Chinese'],$,3.7,16
+865,17114631,Skip's Bagel Deli,West Chester,"['Breakfast', 'Sandwich']",$,3.7,25
+866,17113323,In-Between Tavern,Downtown,['American'],$,3.4,23
+867,17116329,10 West,Covington,['American'],$$,3.6,13
+868,17116633,Lobsta Bakes of Maine,Newtown,['Seafood'],$$,3.9,23
+869,17114882,Sunny Deli,Downtown,"['Korean', 'Sandwich']",$,3.6,16
+870,18503942,Court Street Lobster Bar,Downtown,['Seafood'],$$,3.1,5
+871,17114376,Queen City Pizza,Cheviot/Westwood,"['Pizza', 'Sandwich', 'Healthy Food']",$,3.8,25
+872,17116150,Beef O Brady's,Campbell County,"['Burger', 'Bar Food']",$,2.5,20
+873,17116387,Cincinnati Fins Feathers & BarBQ,Downtown,"['BBQ', 'Sandwich']",$,3.3,19
+874,17112903,The Establishment,Hyde Park/Mount Lookout,"['American', 'Bar Food']",$,3.4,18
+875,17115994,Bar at Palm Court,Downtown,['Bar Food'],$,3.6,25
+876,17116822,Marcella's Doughnuts & Bakery,Amelia,[],$,3.7,21
+877,17113980,New China,Mason,['Chinese'],$,3.8,21
+878,17112632,Corinthian Restaurant and Lounge,Clifton/Avondale,"['Greek', 'Italian', 'Mediterranean']",$$,3.4,22
+879,18236074,Bru Burger Bar - Cincinnati,Downtown,"['American', 'Burger', 'Sandwich', 'Salad']",$$,3.1,12
+880,17115965,Hot Wok,Crescent Springs/Fort Wright,"['Chinese', 'Sushi']",$$,3.5,20
+881,17116203,Wild Bistro,Oxford,"['Chinese', 'Korean', 'Teriyaki']",$$$,3.8,23
+882,17113379,Steak Nina,College Hill/Mt Healthy,"['American', 'Burger', 'Steak']",$,3.7,13
+883,17114566,Scherpies Produce & Deli,St Bernard/Elmwood Place,"['Burger', 'Sandwich']",$,4.0,16
+884,17116226,China One,Fairfax,['Chinese'],$,3.6,16
+885,17115011,Timmys Wok,Loveland,['Chinese'],$,3.8,24
+886,17117249,Tres Belle Cakes and Coffee Shop,Wyoming/Arlington Heights/Reading,"['Coffee and Tea', 'Desserts']",$,3.5,12
+887,17112222,Brew House,Walnut Hills/Mount Adams,"['Burger', 'Bar Food', 'Sandwich']",$,3.4,15
+888,17113437,Jolly's Drive-in,Hamilton,"['Burger', 'Fast Food']",$,4.1,28
+889,17113505,King's Country Inn,Cleves,"['American', 'Bar Food', 'Seafood']",$,3.8,18
+890,17117941,Los Potrillos,Clifton/Avondale,['Mexican'],$$,3.7,16
+891,17112992,Fresh Market,Oakley/Pleasant Ridge,"['Sandwich', 'Sushi']",$,3.6,24
+892,17117143,Original Pancake House,Anderson Township,"['American', 'Diner']",$,3.5,19
+893,17839684,Roney's,Milford,"['Fast Food', 'Sandwich']",$,2.9,5
+894,17116578,Keegan's Seafood,Anderson Township,"['Seafood', 'American']",$$,3.6,22
+895,17112265,Buffalo Joes,Fairfield,"['Burger', 'Bar Food']",$,3.6,22
+896,17113466,Cone Zone,Cheviot/Westwood,"['Desserts', 'Fast Food']",$,3.8,18
+897,17113687,Lucy's Deli,Wyoming/Arlington Heights/Reading,['American'],$,3.8,19
+898,17112358,Cafe DeVine,Downtown,"['Cafe', 'Burger', 'Sandwich']",$,3.5,23
+899,17114251,Pilot Inn,Oakley/Pleasant Ridge,"['Burger', 'Bar Food', 'Sandwich']",$,3.8,21
+900,17117521,Chappy's Bourbon Bar & Bites,Milford,"['BBQ', 'Bar Food']",$$,2.9,16
+901,17117225,Mockingbirds Cafe,Middletown,"['Breakfast', 'Sandwich']",$,3.4,13
+902,17115795,Phan-Shin Chinese Restaurant,Oxford,"['Chinese', 'Thai']",$,3.5,26
+903,17115907,Heritage Tastings at The Cottage,Plaineville,['Tea'],$$$,3.5,14
+904,17117517,The Conscious Kitchen,Clifton/Avondale,['Vegetarian'],$,3.7,16
+905,17115766,Bruno's Pizza,Oxford,['Pizza'],$,3.4,23
+906,17117449,Spinning Fork,Middletown,"['Italian', 'Seafood']",$$,3.6,17
+907,17112236,Bridge House,Wyoming/Arlington Heights/Reading,['Diner'],$,3.4,16
+908,17116600,Cincy Flying Pig Catering / Restaurant,Landen,['BBQ'],$$,3.6,21
+909,17116726,Asian Buffet,Fairfield,"['Asian', 'International', 'Sushi']",$,3.3,15
+910,17116686,Golden Cincinnati Deli - Yummy Yummy,Landen,"['Desserts', 'International', 'Eastern European']",$,3.5,12
+911,17113356,J Taps Bar and Grill,Cheviot/Westwood,"['American', 'Greek']",$,3.7,20
+912,17113216,Lee's Chinese Restaurant,Fairfield,['Chinese'],$$,3.9,18
+913,17116979,Mama Lo Hizo,Over-the-Rhine/Mount Auburn,['Mexican'],$,3.3,15
+914,17117352,Kanpai Japanese Steakhouse,Blue Ash,"['Japanese', 'Sushi']",$$,3.4,16
+915,17112882,El Valle Verde Taqueria,Hamilton,['Mexican'],$,3.6,17
+916,17116945,Eat Mobile Dining,St Bernard/Elmwood Place,"['Italian', 'Mediterranean', 'Sandwich']",$,3.5,18
+917,17116609,Cancun Mexican Grille,Cheviot/Westwood,"['Mexican', 'Tex-Mex']",$,3.5,24
+918,17117417,J Gumbo's,Blue Ash,['Cajun'],$,3.2,20
+919,17112596,Cobblestone Cafe,Campbell County,['Sandwich'],$,3.8,21
+920,17114177,Peking,Covington,['Chinese'],$,4.1,22
+921,17115327,Mixx Ultra Lounge,Over-the-Rhine/Mount Auburn,"['Bar Food', 'Sushi']",$$$,3.8,21
+922,17116549,Taqueria Paisano's,Hamilton,['Mexican'],$,3.7,17
+923,17117089,Thirsty's Oasis,Mason,['American'],$$,3.4,19
+924,17112215,Boston Market,Hyde Park/Mount Lookout,"['Diner', 'Fast Food']",$$,3.5,24
+925,17117669,Maverick Chocolate Co.,Over-the-Rhine/Mount Auburn,['Desserts'],$,3.4,13
+926,17112510,China House,Milford,['Chinese'],$,3.8,23
+927,17115652,Meadows,Middletown,['American'],$$$,3.8,15
+928,17113981,New China,West Chester,['Chinese'],$,4.0,17
+929,17116296,EAT 201,Downtown,"['BBQ', 'Burger', 'Pizza']",$,3.7,18
+930,17117763,Rusconi Pizza,Downtown,"['Italian', 'Pizza', 'Sandwich']",$$,3.3,13
+931,17117260,Catch-a-Fire Pizza,Oakley/Pleasant Ridge,['Pizza'],$$$,3.5,15
+932,17117559,Dickey's Barbecue Pit,Amelia,['Fast Food'],$,3.2,15
+933,17117259,El Cholula mexican restaurant,Symmes,['Mexican'],$$,3.5,15
+934,17112495,China City Buffet,Cheviot/Westwood,['Chinese'],$,3.6,21
+935,17113699,Madison Diner,Madisonville,"['Diner', 'Sandwich']",$,3.5,7
+936,17115800,Reily Pizza,Oxford,['Pizza'],$,3.8,17
+937,17113979,New China,Maineville,['Chinese'],$,3.9,20
+938,17114810,Stringtown Bar & Grill,Florence,['American'],$,3.7,16
+939,17117950,Combs Bar-B-Q Central,Middletown,"['American', 'BBQ']",$$$,3.3,8
+940,17115097,Village Pizza & Diner,Maineville,"['Diner', 'Pizza']",$,3.6,18
+941,17115831,Dragon China,Trenton,['Chinese'],$,3.8,22
+942,17114173,Pearls Diner,Fairfield,"['American', 'Breakfast', 'Diner']",$,3.6,18
+943,17113364,Jade Buffet,Springdale,['Chinese'],$,3.4,16
+944,17116110,Sweet Tooth Candies,Campbell County,['Desserts'],$,3.5,19
+945,17117130,Kimmy's Kupcakes,Maineville,['Desserts'],$,3.3,10
+946,17117091,May Café,Milford,"['American', 'Italian', 'Sandwich']",$,3.7,17
+947,17113064,Garzelli's Pub & Pizza,Erlanger,"['Pizza', 'Sandwich', 'Healthy Food']",$,3.7,17
+948,17117444,Drake's,Florence,"['American', 'Bar Food', 'Sushi']",$$$,3.6,20
+949,17112588,Clermont Springs Carryout,Anderson Township,['American'],$,3.8,18
+950,17117895,Madtree Brewing Company,Oakley/Pleasant Ridge,['Bar Food'],$,3.5,16
+951,17116603,El Jinete,Crescent Springs/Fort Wright,['Mexican'],$,3.7,18
+952,17112182,Bob Evans,Blue Ash,"['American', 'Breakfast']",$,3.3,17
+953,17112881,El Valle Verde,Carthage,"['Mexican', 'Seafood']",$,3.9,19
+954,17114892,Sweet's n Eat's,Delhi,['Desserts'],$,3.8,21
+955,17117212,Gigi's Cupcakes,Deer Park/Madeira,['Desserts'],$,3.4,16
+956,17116525,La Canasta,Colerain Township,['Mexican'],$,3.6,16
+957,17113352,J Annette's Cheesecakes,West Chester,[],$$,3.6,18
+958,17117213,Gigi's Cupcakes,Florence,['Desserts'],$,3.2,14
+959,17115775,El Burrito Loco,Oxford,['Mexican'],$,3.6,22
+960,17115629,Jug,Middletown,"['American', 'Burger', 'Desserts']",$,3.9,20
+961,17116737,Blue Oven Bakery,Williamsburg,[],$,3.5,19
+962,17839682,Firebirds Wood Fired Grill,Mason,"['Seafood', 'Steak', 'Bar Food']",$$$,3.4,11
+963,17116359,Hold The Nuts,Deer Park/Madeira,['Desserts'],$,3.8,18
+964,17116263,Little Shanghai‎,Loveland,['Chinese'],$,3.6,17
+965,17117109,Jack in the Box,Oakley/Pleasant Ridge,['Fast Food'],$,3.5,17
+966,17117882,Golden Tajine,Northside,"['Mediterranean', 'Middle Eastern', 'Moroccan']",$,3.6,14
+967,17116336,Cincinnati Dinner Train,Madisonville,['American'],$$$$,3.5,17
+968,17117486,Hwy 55,Clifton/Avondale,"['Burger', 'Diner', 'Sandwich']",$$,3.3,10
+969,17117282,Mio's,Clifton/Avondale,"['Pizza', 'Sandwich', 'Healthy Food']",$$,3.3,14
+970,17115511,Feed Mill Restaurant & Pizza,Felicity,['Pizza'],$,3.7,12
+971,17114310,Pizza di Roma Eastgate,Union Township,['Pizza'],$$,3.2,7
+972,17113604,Lee's Famous Recipe Chicken,Norwood,"['Fast Food', 'Southern']",$,3.3,6
+973,17113351,J & W Sandwich Shoppe,Norwood,['Sandwich'],$,3.9,19
+974,17116635,El Rancho Grande,West Chester,['Mexican'],$$,3.5,20
+975,17115492,Lin's Garden Inn,Cleves,['Chinese'],$,3.8,7
+976,17117236,Double Dragon II,Norwood,['Chinese'],$$,3.5,11
+977,17114331,Popeyes Louisiana Kitchen,Hyde Park/Mount Lookout,['Fast Food'],$,3.5,22
+978,17115410,Peking House,Amelia,['Chinese'],$,3.8,18
+979,17116447,Family's Main Street Cafe,Walton,['American'],$,3.4,13
+980,17117244,Fricker's,West Chester,['American'],$,3.1,17
+981,17113707,Magic Wok,Plaineville,['Chinese'],$$,3.6,17
+982,17112555,Chubby's Pizza,South Lebanon,['Pizza'],$,3.8,22
+983,17115301,Fries Cafe,Clifton/Avondale,"['American', 'Cafe']",$,3.6,21
+984,18214205,Bibibop,West Chester,"['Korean', 'Asian']",$$,3.2,6
+985,17838483,15 North Pizza,Campbell County,['Pizza'],$$,3.4,15
+986,17117948,Big Greek Cafe,Harrison,"['Greek', 'Mediterranean']",$,3.5,15
+987,17115912,Donna's Gourmet Cookies,Montgomery,['Desserts'],$,3.6,19
+988,17116079,Bridgetown Finer Meats & Wine Shop,Cheviot/Westwood,['Sandwich'],$,3.9,20
+989,17115658,Milton's Donuts,Middletown,['Donuts'],$,3.9,21
+990,17117896,Rhinegeist Brewery,Over-the-Rhine/Mount Auburn,[],$,3.5,16
+991,17113179,Gourmet Wok,Cold Spring/Alexandria,['Chinese'],$,3.6,16
+992,17117105,Mt. Carmel Brewing Company,Union Township,['Bar Food'],$$$,3.5,17
+993,17117875,Camp Washington Steak & Lemonade,Price Hill/Fairmount,['Sandwich'],$,3.4,9
+994,18233494,Green Papaya,Mariemont,"['Thai', 'Sushi', 'Asian']",$$,2.9,7
+995,17114783,Starbucks,Florence,['Coffee and Tea'],$,3.6,20
+996,17116147,Twisted Sisters Café,Campbell County,['Sandwich'],$,3.8,14
+997,17113695,Machine Room Grille,Downtown,"['American', 'Burger']",$,2.4,17
+998,17113880,Midway Cafe,Campbell County,['American'],$,3.3,13
+999,17114326,Ponderosa,Florence,['Steak'],$$,2.4,13
+1000,17112511,China House,Symmes,['Chinese'],$,3.6,15
+1001,17113378,Gameworks Grill,Campbell County,"['Burger', 'Pizza', 'Sandwich']",$$,3.1,20
+1002,17116049,A Spoon Fulla Sugar Bakery,Symmes,[],$,3.8,18
+1003,17116985,Grandma's Pizza,Loveland,"['Pizza', 'Sandwich', 'Healthy Food']",$$,3.7,13
+1004,17117437,Balance Cafe & Smoothies,Loveland,"['Breakfast', 'Beverages', 'Healthy Food']",$,3.4,12
+1005,17111954,Anna's Family Restaurant,Norwood,"['American', 'Diner', 'Sandwich']",$,3.5,16
+1006,17117876,Dean's Hops and Vines,Cheviot/Westwood,"['Sandwich', 'Tapas']",$,3.3,5
+1007,17112526,China Wok,Colerain Township,['Chinese'],$,3.8,14
+1008,17113635,Lone Star Steakhouse & Saloon,Mason,['Steak'],$$,3.4,16
+1009,17116415,Nick & Tony's Double Decker Cafe,Covington,['Sandwich'],$,3.5,13
+1010,17113888,Milillo's Pizza,Hamilton,"['American', 'Desserts', 'Pizza']",$,3.9,23
+1011,18276022,El Camino,Hyde Park/Mount Lookout,['American'],$$,3.3,10
+1012,17113284,Hong Kong Grand Buffet,Campbell County,['Chinese'],$,3.5,15
+1013,17756549,Hidden Dragon Restaurant,Cold Spring/Alexandria,"['American', 'Asian']",$,3.4,11
+1014,17117230,Cancun Mexican Restaurant and Cantina,Crescent Springs/Fort Wright,['Mexican'],$$,3.4,17
+1015,17116847,Aladdin Cafe,Cold Spring/Alexandria,"['Mediterranean', 'Middle Eastern']",$,3.4,17
+1016,17112975,Foley's Irish Pub,Wyoming/Arlington Heights/Reading,"['British', 'Bar Food']",$,3.6,13
+1017,17115926,Kitty's Coffee,Downtown,['Coffee and Tea'],$,3.6,16
+1018,17114736,Sonic Drive-In,Landen,['Fast Food'],$,3.6,16
+1019,17117241,Asian Gourmet,Lebanon,"['Chinese', 'Japanese', 'Thai']",$$,3.4,17
+1020,17112034,Asian Buffet,Florence,"['Asian', 'Chinese']",$,3.3,19
+1021,17113409,Jerzee's Pub & Grub,Campbell County,"['Burger', 'Bar Food', 'Sandwich']",$,3.6,16
+1022,17113228,Grille at Palm Court,Downtown,['Bar Food'],$$,3.5,15
+1023,17117819,Double J Cafe,Loveland,"['American', 'BBQ']",$,3.5,13
+1024,17115370,China King,Independence,['Chinese'],$,3.6,14
+1025,17116866,Streetpops,Over-the-Rhine/Mount Auburn,['Desserts'],$,3.6,20
+1026,17117061,Panda Express,West Chester,['Fast Food'],$,3.4,17
+1027,17112485,Chili's,Springdale,['American'],$$,3.2,19
+1028,17112979,Fort Thomas Pizza & Tavern,Campbell County,"['Burger', 'Pizza', 'Healthy Food']",$$$,3.5,20
+1029,17112649,Covington Chili,Covington,"['Fast Food', 'Chili']",$,3.4,14
+1030,17117542,All8Up,Hamilton,"['Italian', 'Pizza', 'Sandwich']",$,3.3,13
+1031,17114148,Par's Place,Fairfield,['American'],$,3.5,17
+1032,17117589,Breadsmith,Hyde Park/Mount Lookout,[],$,3.6,13
+1033,18660224,Boomtown Biscuits & Whiskey,Over-the-Rhine/Mount Auburn,"['American', 'Sandwich']",$$,3.3,8
+1034,17115951,R.P. McMurphy's,Hyde Park/Mount Lookout,['Bar Food'],$,3.2,21
+1035,17116714,Cancun Mexican Bar & Grill,Forest Park,['Mexican'],$,3.6,15
+1036,17111950,Angilo's Pizza,Wyoming/Arlington Heights/Reading,['Pizza'],$,3.4,14
+1037,17112156,Game On,Monfort Heights/White Oak,"['Bar Food', 'Sandwich', 'Healthy Food']",$,3.8,12
+1038,17113322,Imperial Family,Cheviot/Westwood,"['Breakfast', 'Diner', 'Sandwich']",$,3.6,12
+1039,17116228,Z Place,Montgomery,"['Bar Food', 'Deli']",$$$,3.5,13
+1040,17116265,Mio's Pizza,Loveland,"['Pizza', 'Sandwich', 'Healthy Food']",$,3.5,18
+1041,17116997,Walker Bros. Ice Cream,Montgomery,"['Desserts', 'Ice Cream']",$,3.5,10
+1042,17112938,Fillmore's Dairy Hut,Florence,"['American', 'Desserts', 'Diner']",$,3.6,19
+1043,17116420,Dairy Corner,Newtown,['Desserts'],$,3.5,15
+1044,17117187,Igby's Bar,Downtown,[],$$,3.3,9
+1045,17117302,Stained 1054 Bistro,Middletown,['American'],$$$,3.5,11
+1046,17117535,Keegan's Seafood,Hyde Park/Mount Lookout,['Seafood'],$$,3.3,9
+1047,17112291,Buffalo Wings & Rings,Fairfield,"['Burger', 'Bar Food']",$,3.3,15
+1048,17117069,Green Kayak Market,New Richmond,['Sandwich'],$,3.5,7
+1049,17116908,Hebron Grille,Hebron,"['American', 'Burger', 'Bar Food']",$$,3.5,12
+1050,17114513,Ruby Tuesday,Blue Ash,['American'],$$,3.3,16
+1051,17112083,Bargos Grill and Tap,Springdale,"['Burger', 'Bar Food', 'Sandwich']",$,3.4,15
+1052,17112972,Flubs Dari-Ette,Fairfield,['Desserts'],$,4.0,20
+1053,17113201,Great China,Withamsville,['Chinese'],$,3.8,16
+1054,17116743,Izzy's,Madisonville,"['Sandwich', 'Healthy Food']",$,3.4,12
+1055,17113626,Little Dutch Bakery,College Hill/Mt Healthy,[],$,3.7,17
+1056,17113291,Hooligans Pub,Oakley/Pleasant Ridge,"['American', 'Burger', 'Bar Food']",$$$,3.6,17
+1057,17116517,The Art of Entertaining,Hyde Park/Mount Lookout,['American'],$$$,3.4,14
+1058,17117605,Mr. Sushi,Clifton/Avondale,"['Japanese', 'Korean', 'Sushi']",$$,3.4,13
+1059,17117347,Chateaux Beirut Restaurant,West Chester,"['Mediterranean', 'Middle Eastern']",$,3.6,14
+1060,17116082,Madonna's Bar & Grill,Downtown,"['Burger', 'Bar Food', 'Sandwich']",$,3.6,20
+1061,17112491,China Buffet,Union Township,['Chinese'],$,3.3,15
+1062,17115113,Waffle House,Covington,"['American', 'Breakfast']",$,3.4,13
+1063,17116326,Doris & Sonny's Homelike Restaurant,Cleves,"['Breakfast', 'Burger', 'Diner']",$,3.9,14
+1064,17117128,The Draft Bar and Grille,West Chester,"['Bar Food', 'Sandwich']",$,3.5,13
+1065,17112746,Dickmann's Kentucky Sports Cafe,Crescent Springs/Fort Wright,"['Pizza', 'Bar Food']",$,3.8,17
+1066,17112660,Cretan Grill,Carthage,"['American', 'Burger', 'Chili']",$,3.5,8
+1067,17114457,Richie's Fast Food,Clifton/Avondale,['Southern'],$,3.6,17
+1068,17114808,Strasse Haus,Covington,"['Brazilian', 'German']",$,3.6,14
+1069,17117065,SugarSnap!,Downtown,"['Coffee and Tea', 'Desserts']",$,3.4,13
+1070,17114055,Oriental X-Press,Covington,"['Asian', 'Chinese', 'Thai']",$,3.9,16
+1071,17115611,China Garden,Middletown,['Chinese'],$,4.0,14
+1072,17113884,Mike's Chili & Gyros,Hamilton,"['Greek', 'Sandwich', 'Chili']",$,3.8,18
+1073,17113060,Gano Tavern,West Chester,"['American', 'Burger']",$$$,3.6,10
+1074,17112634,Corner Coffee Cafe,Symmes,"['Coffee and Tea', 'Sandwich', 'Tea']",$,3.9,15
+1075,17115460,Chubby's Pizza & Dairy Point,Blanchester,"['American', 'Burger', 'Desserts']",$,3.6,13
+1076,17843412,Milya Cafe,Blue Ash,['Middle Eastern'],$$,3.2,10
+1077,17116419,Marco's Pizza,Deer Park/Madeira,['Pizza'],$,3.4,15
+1078,17115801,SDS Pizza,Oxford,['Pizza'],$,3.7,19
+1079,17116015,Hookah Cafe,Clifton/Avondale,"['Coffee and Tea', 'Tea']",$,3.7,14
+1080,17116540,Bow Tie Cafe,Walnut Hills/Mount Adams,"['Breakfast', 'Sandwich']",$,3.6,15
+1081,17117263,La Hiro Sushi and Sweets,Florence,"['Desserts', 'Japanese', 'Sushi']",$$,3.4,11
+1082,17117905,Macaron Bar,Over-the-Rhine/Mount Auburn,"['Coffee and Tea', 'Desserts']",$,3.4,12
+1083,17112614,Cold Stone Creamery,Campbell County,['Ice Cream'],$,3.2,17
+1084,17116061,Marco's Pizza,Cheviot/Westwood,['Pizza'],$,3.4,11
+1085,17116264,Marco's Pizza,Loveland,['Pizza'],$,3.4,16
+1086,17117043,Orange Leaf,Downtown,['Desserts'],$,3.5,19
+1087,17117414,Which Wich,Symmes,"['Desserts', 'Sandwich', 'Vegetarian']",$,3.4,14
+1088,17112908,Fairfield Pizzeria,Fairfield,"['Italian', 'Pizza']",$,3.6,15
+1089,17113676,Mahogany's Coffeehouse and Bar,Covington,"['American', 'Burger', 'Bar Food']",$$,2.4,13
+1090,17113423,Jocko's Chicken and Seafood,Fairfield,"['Fast Food', 'Seafood']",$,3.6,16
+1091,17822829,Bub's Pizza Bar,Hyde Park/Mount Lookout,"['Pizza', 'Sandwich']",$$$,3.0,9
+1092,17112842,Dragon City II,Wyoming/Arlington Heights/Reading,['Chinese'],$,3.6,17
+1093,17114465,Rima's Diner,Covington,"['American', 'Coffee and Tea', 'Diner']",$,3.4,13
+1094,17115981,The Lil' Goodie Shoppe,Colerain Township,"['Burger', 'Desserts']",$,3.8,16
+1095,17112669,Crow's Nest Irish Pub,Delhi,"['British', 'Bar Food']",$,3.5,17
+1096,17115966,Bean Haus,Over-the-Rhine/Mount Auburn,"['Coffee and Tea', 'Beverages']",$,3.3,14
+1097,17116655,Hot Head Burritos,West Chester,"['Fast Food', 'Southwestern', 'Tex-Mex']",$,3.3,18
+1098,17117864,12 Degrees Italian Ice,Maineville,['Desserts'],$,3.4,12
+1099,17113462,Freda's Corner Cafe,College Hill/Mt Healthy,"['American', 'Breakfast', 'Sandwich']",$,3.5,12
+1100,17116445,Loveland Sweets,Loveland,"['Coffee and Tea', 'Desserts']",$,3.6,15
+1101,17116555,Sushi Bears,Over-the-Rhine/Mount Auburn,"['Desserts', 'Indian', 'Sushi']",$,2.4,16
+1102,17117274,DiStasi Banquet Center at 400,Wyoming/Arlington Heights/Reading,['American'],$$$,3.6,11
+1103,17784424,Fairfield Coffee,Fairfield,['Coffee and Tea'],$,2.9,9
+1104,17117481,Dancing Roll,West Chester,"['Japanese', 'Korean', 'Sushi']",$$,3.6,16
+1105,17945204,Dewey's Pizza,Cheviot/Westwood,['Pizza'],$$$,3.0,7
+1106,17112878,El Rio Bravo,Cold Spring/Alexandria,['Mexican'],$,3.7,14
+1107,17117009,A Music Cafe,Loveland,"['American', 'Sandwich']",$$,3.2,8
+1108,17117871,D. Burnham's,Downtown,"['American', 'Seafood']",$$$$,3.7,13
+1109,17112109,Bee's Donuts,Fairfield,['Donuts'],$,3.8,12
+1110,17116167,Monk's Kitchen,Harrison,"['Pizza', 'Sandwich', 'Healthy Food']",$,3.7,10
+1111,17116751,Country Kitchen - Lebanon,Lebanon,['American'],$,3.4,13
+1112,17114915,TGI Fridays,Colerain Township,['American'],$$,3.4,13
+1113,17117040,Holler Hops & Grill,Burlington,"['Burger', 'Bar Food']",$$,3.7,15
+1114,17117455,Top of the Park,Downtown,"['American', 'Tapas']",$$,3.3,8
+1115,17838476,Zona VIP,Springdale,"['Colombian', 'Fast Food']",$,3.1,7
+1116,17115289,Yum Yum Chinese Restaurant,Downtown,['Chinese'],$$,3.5,13
+1117,17838479,Marcella's Doughnuts & Bakery,Anderson Township,[],$,3.0,5
+1118,17114803,Stephens' Old Village,Cheviot/Westwood,"['American', 'Breakfast', 'Sandwich']",$,3.7,16
+1119,17115864,Golden Wok,Burlington,['Chinese'],$,3.4,11
+1120,17116890,Uncle T's Eatery,Batavia,"['Breakfast', 'Burger', 'Diner']",$,3.4,12
+1121,17111872,A Forkable Feast,Oakley/Pleasant Ridge,"['American', 'Diner', 'Pizza']",$,3.5,15
+1122,17115608,Central Pastry Shop,Middletown,[],$,3.7,17
+1123,17117848,Sweets By Ladawn,Deer Park/Madeira,['Desserts'],$,3.3,6
+1124,17112522,China Star,Erlanger,"['Chinese', 'Thai']",$,3.8,16
+1125,17113807,McDonald's,Hyde Park/Mount Lookout,['Fast Food'],$,2.3,16
+1126,17117476,San Luis Grill & Taqueria,Cheviot/Westwood,['Mexican'],$,3.5,10
+1127,17112766,Domino's Pizza,Clifton/Avondale,"['Fast Food', 'Pizza']",$,3.3,13
+1128,17116681,J&W Bar-B-Que,Oakley/Pleasant Ridge,"['American', 'BBQ', 'Southern']",$,3.5,8
+1129,17115880,China Wok Restaurant,Hebron,['Chinese'],$,3.7,11
+1130,17115753,Little River Cafe,Oregonia,['American'],$,3.6,12
+1131,17117497,Mama Mimi's Take 'N Bake Pizza,Oakley/Pleasant Ridge,['Pizza'],$$,3.4,8
+1132,17113161,Golden Corral,Union Township,[],$$,3.0,17
+1133,18377426,Singha Contemporary Thai & Sushi,Hyde Park/Mount Lookout,"['Asian', 'Sushi', 'Thai']",$$,3.2,6
+1134,17114720,Snappy Tomato Pizza,Downtown,"['Pizza', 'Sandwich']",$,3.5,14
+1135,17117228,Local Pub,Hebron,"['American', 'Bar Food']",$,2.7,9
+1136,17113193,Grand Buffet,Cheviot/Westwood,['Chinese'],$,3.4,14
+1137,17112220,Branch Hill Coffee,Symmes,"['American', 'Coffee and Tea']",$,3.7,15
+1138,17116570,Mi Familia,Springdale,[],$$,3.6,13
+1139,17113410,Jet Coffee,Florence,"['Cafe', 'Coffee and Tea']",$,3.7,12
+1140,17113719,Maloney's Pub,Delhi,"['Burger', 'Bar Food', 'Sandwich']",$,3.6,14
+1141,17114112,Papa John's Pizza,Downtown,"['Fast Food', 'Pizza']",$,3.4,14
+1142,17114621,Siss Family Affair,Campbell County,"['Burger', 'Diner', 'Steak']",$,3.6,15
+1143,17116133,Plum Street Cafe,Downtown,"['Burger', 'Bar Food', 'Chili']",$,3.6,14
+1144,17784378,Butterbee's American Grille,Milford,['American'],$$,2.7,7
+1145,17112101,BB Riverboats,Campbell County,['American'],$$$,3.2,5
+1146,17112955,First Wok Chinese,Erlanger,['Chinese'],$,3.7,17
+1147,17116718,The Phelps Bar,Downtown,['Tapas'],$$,3.5,10
+1148,17116044,Whole Foods Market,Mason,"['American', 'International']",$,3.4,15
+1149,17117102,Hawaiian Shave Ice Trailside,Loveland,['Desserts'],$,3.6,11
+1150,17112256,Bruster's Ice Cream,Florence,"['Desserts', 'Ice Cream']",$,3.7,17
+1151,17117134,Uncle Mo's Cafe,Downtown,"['Greek', 'Mediterranean', 'Healthy Food']",$,3.6,13
+1152,17113055,Funny Bone,Campbell County,"['Burger', 'Bar Food', 'Sandwich']",$$,2.4,13
+1153,18461086,Frenchie Fresh,Norwood,"['American', 'French']",$$$,3.0,4
+1154,17116166,Blue Chip Cookies,Deer Park/Madeira,['Desserts'],$,3.5,15
+1155,17117161,Breadbasket & Pastry Co,Colerain Township,"['Coffee and Tea', 'Sandwich']",$,3.6,12
+1156,17117653,Hyde Park Gourmet Food & Wine,Hyde Park/Mount Lookout,"['American', 'Sandwich']",$,3.0,3
+1157,17117902,Bangkok St,Deer Park/Madeira,['Thai'],$$,3.3,13
+1158,17112196,Bogarts,Clifton/Avondale,['American'],$,2.7,16
+1159,17117920,East Coast Eatz,Downtown,"['Italian', 'Sandwich', 'Chili']",$,2.5,9
+1160,17116092,Coffee Beans and Brew,West Chester,"['Coffee and Tea', 'Desserts']",$$,3.8,13
+1161,17113320,Ike's Barbecue Carry Out,Walnut Hills/Mount Adams,['BBQ'],$,3.2,3
+1162,18391663,AAP India,Cheviot/Westwood,['Indian'],$$$,3.2,8
+1163,17112928,Fazoli's,Florence,['Italian'],$,3.4,14
+1164,17113680,Lucky Dragon II Chinese,Lebanon,['Chinese'],$,3.5,14
+1165,18465021,Urban Grill on Main,Newtown,"['New American', 'Sandwich']",$$,3.1,5
+1166,17117315,DiBellas Old Fashioned Submarines,Clifton/Avondale,"['Fast Food', 'Sandwich']",$$,3.4,9
+1167,17114546,The Sandbar,East End/Mount Washington,"['American', 'Burger', 'Bar Food']",$$$,3.1,7
+1168,17116471,Bouchard's Anything's Pastable,Over-the-Rhine/Mount Auburn,"['Desserts', 'Italian']",$,3.6,15
+1169,17112527,China Wok,College Hill/Mt Healthy,"['Chinese', 'Thai']",$,3.6,16
+1170,17114565,Scarlato's Pizzeria,Cheviot/Westwood,['Pizza'],$,3.8,9
+1171,17114231,Perkins Restaurant & Bakery,College Hill/Mt Healthy,"['Breakfast', 'Diner']",$,3.2,10
+1172,17114614,Silverglade's,Over-the-Rhine/Mount Auburn,"['Sandwich', 'Vegetarian']",$,3.5,14
+1173,17117112,Hot Head Burritos,Milford,"['Fast Food', 'Tex-Mex']",$,2.6,11
+1174,17117512,Red Robin,Deer Park/Madeira,"['American', 'Burger', 'Sandwich']",$$,3.4,13
+1175,17117575,Curries: The Flavor of India,Clifton/Avondale,['Indian'],$,3.6,10
+1176,17116719,Krishna Carry Out,Oxford,['Indian'],$$,3.7,14
+1177,17113954,Murray's Wings Pub and Grill,Price Hill/Fairmount,"['Burger', 'Bar Food']",$,3.4,10
+1178,17112036,Asian One Cafe,Hamilton,['Asian'],$,3.8,8
+1179,17112859,Dynasty Express,Florence,['Chinese'],$,4.1,13
+1180,17117526,F&N Goode Chick'n Tenders,Cheviot/Westwood,['Fast Food'],$$,3.5,8
+1181,17116458,Star Lanes,Campbell County,"['Burger', 'Diner', 'Sandwich']",$$,3.3,10
+1182,17116933,Patty's Old Fashioned Popcorn,Hyde Park/Mount Lookout,['Desserts'],$,3.7,13
+1183,17112381,Caminetto Euro-American Bistro,Clifton/Avondale,['French'],$$$,3.4,10
+1184,17112440,Champions Grille,Cheviot/Westwood,"['American', 'Breakfast', 'Burger']",$,2.9,13
+1185,17116728,Rio Grande,Independence,['Mexican'],$,3.7,13
+1186,17112580,River City Grille at the Cincinnati Marriott North,West Chester,"['Breakfast', 'Bar Food', 'Steak']",$$$,3.4,12
+1187,17112888,Emerson's Bakery,Erlanger,[],$,3.7,12
+1188,17115713,Country Inn Restaurants,Mount Orab,['Breakfast'],$$,3.3,12
+1189,17116041,Eddie's Southern Style Bar-BQ & Catering,Florence,['BBQ'],$,3.8,11
+1190,17117699,Happy Chicks Bakery,Northside,"['Vegetarian', 'Fusion']",$,3.4,8
+1191,17112512,China House,Hamilton,['Chinese'],$,3.9,12
+1192,17115642,Lone Star Steakhouse,Middletown,['Steak'],$$,3.4,11
+1193,17116656,Hot Head Burritos,Maineville,"['Fast Food', 'Southwestern', 'Tex-Mex']",$,3.5,14
+1194,17822893,Urban Artifact Brewery,Northside,[],$,3.2,6
+1195,17115065,Uncle Woody's Tavern & Eatery,Clifton/Avondale,"['Burger', 'Bar Food', 'Sandwich']",$,3.5,13
+1196,17822892,Deeper Roots Coffee,Oakley/Pleasant Ridge,['Coffee and Tea'],$,3.2,3
+1197,17116516,Tusculum Grille,East End/Mount Washington,"['Pizza', 'Sandwich']",$,3.5,12
+1198,17822841,Fond: Lunch and Deli,Montgomery,['Deli'],$$,3.2,8
+1199,17117506,Urbana Cafe,Downtown,['Coffee and Tea'],$,3.1,5
+1200,17117939,Beijing Asian Restaurant,Maineville,"['Asian', 'Chinese', 'Thai']",$,3.3,8
+1201,17113769,Max & Erma's,Hamilton,"['Burger', 'Bar Food', 'Sandwich']",$$,3.4,10
+1202,17843397,Mint Bistro,Milford,"['Asian', 'Sushi']",$$,2.9,4
+1203,17117865,FUSIAN,Deer Park/Madeira,"['Sushi', 'Vegetarian']",$$$,3.4,10
+1204,17112744,Diane's,Cheviot/Westwood,['American'],$$,3.5,12
+1205,17113661,Lookout Joe,Downtown,"['Coffee and Tea', 'Sandwich']",$,3.4,16
+1206,18303396,Frida 602,Covington,['Mexican'],$$$,3.2,6
+1207,17115025,Tom's Papa Dino's,Walton,"['Pizza', 'Sandwich']",$,4.0,12
+1208,17116539,Bambooz Bar & Grill,Covington,"['American', 'Burger']",$$,2.7,9
+1209,17117931,Cuban Pete Sandwiches,Downtown,"['Caribbean', 'Cuban', 'Sandwich']",$,3.3,8
+1210,18492279,Taqueria San Marcos,Norwood,['Mexican'],$$,3.0,5
+1211,17114705,Billie's Skyline Tavern,Cold Spring/Alexandria,"['Burger', 'Bar Food', 'Sandwich']",$,3.6,10
+1212,17114963,Take Five Bar and Grill,Cheviot/Westwood,['American'],$$$,2.7,8
+1213,17115419,Buffalo Wings & Rings,Batavia,"['American', 'Bar Food']",$$,2.4,10
+1214,17116045,Golden Turtle Chocolate Factory,Lebanon,['Desserts'],$,3.4,6
+1215,17116115,Four Seasons,East End/Mount Washington,"['Bar Food', 'Seafood', 'Steak']",$$$,2.6,10
+1216,17116876,Oak Tavern,Oakley/Pleasant Ridge,"['Burger', 'Bar Food', 'Sandwich']",$,3.4,10
+1217,17117248,NY Pita Palace,Walnut Hills/Mount Adams,"['American', 'International', 'Mediterranean']",$,3.5,7
+1218,17117953,Ampai Thai Express,Colerain Township,[],$,3.4,7
+1219,17116819,Frank's Diner,Colerain Township,['Fast Food'],$,3.5,10
+1220,17116027,Mansion Hill Tavern,Campbell County,['Bar Food'],$,3.5,9
+1221,17116784,J. Gumbos,College Hill/Mt Healthy,"['Fast Food', 'Sandwich', 'Cajun']",$,3.5,13
+1222,17116885,Topper's Pizza,Cold Spring/Alexandria,"['Pizza', 'Sandwich']",$,3.4,11
+1223,16959779,Chipotle Mexican Grill,Independence,"['Fast Food', 'Mexican']",$,3.4,14
+1224,17113498,Kidd Coffee,Mason,"['Coffee and Tea', 'Sandwich']",$,3.5,12
+1225,18424468,Lalo,Downtown,"['Asian', 'Mexican']",$$,3.1,5
+1226,17112917,The Farm,Delhi,['American'],$$,3.5,13
+1227,17838481,Palermo's Italian Restaurant,West Chester,"['Italian', 'Pizza']",$$$,3.1,8
+1228,18159951,Truva Cafe Mediterranean,Blue Ash,"['Mediterranean', 'Turkish']",$$,3.0,5
+1229,17115783,Kofenya,Oxford,"['Coffee and Tea', 'Sandwich', 'Beverages']",$,3.7,13
+1230,17869845,Casa Figueroa,Oakley/Pleasant Ridge,['Latin American'],$$,3.2,6
+1231,17115263,Win Place or Show Sports Bar & Grill,West Chester,['American'],$,3.6,13
+1232,17116160,Campbell's Barn,Amelia,"['American', 'Bar Food', 'Southern']",$,3.6,10
+1233,17116022,Frank's Old Town Cafe,Covington,['American'],$,3.7,8
+1234,17117218,Bucketheads,Cheviot/Westwood,['American'],$,3.3,7
+1235,17116798,Servatii Pastry Shop & Deli,Fairfield,"['Desserts', 'Sandwich']",$,3.5,14
+1236,17113289,Hook Fish & Chicken,Bond Hill,['Seafood'],$,3.7,10
+1237,17114446,Regina Bakery,Cheviot/Westwood,[],$,3.6,11
+1238,17116466,Kelly's Public House,Covington,"['Breakfast', 'Burger', 'Bar Food']",$,3.3,9
+1239,17116642,Kitty's Coffee,Downtown,['Coffee and Tea'],$,3.3,11
+1240,17113528,La Petite Pierre,Deer Park/Madeira,"['French', 'Healthy Food']",$$$,3.3,11
+1241,17116870,Marco's Pizza,Monfort Heights/White Oak,['Pizza'],$,3.2,11
+1242,17114977,Cluxton Alley Coffee Roasters,Northside,['Coffee and Tea'],$,3.4,12
+1243,17115626,Java Johnny's Midtowne Cafe,Middletown,"['Coffee and Tea', 'Desserts', 'Sandwich']",$,3.5,12
+1244,17115765,Brick Street,Oxford,['American'],$,2.7,12
+1245,17116679,Hayloft Tavern,Cold Spring/Alexandria,['Bar Food'],$$,3.6,12
+1246,17117049,Lucky Duck Pub,Burlington,"['Burger', 'Bar Food', 'Sandwich']",$,3.5,10
+1247,17117901,Empanadas Aquí,Downtown,['Latin American'],$,3.3,8
+1248,17112566,Cicis Pizza,Florence,['Pizza'],$,3.4,13
+1249,17117844,Reef Top Bar,Anderson Township,"['Seafood', 'Bar Food']",$$,3.2,8
+1250,17113671,Louisiana Fish Bar,Price Hill/Fairmount,['Seafood'],$,3.6,11
+1251,17117286,Lucy Blue,Over-the-Rhine/Mount Auburn,['Pizza'],$,3.3,7
+1252,17115935,Smoothie King,Anderson Township,['Beverages'],$,3.4,12
+1253,17116334,Auntie Anne's,Deer Park/Madeira,['Desserts'],$,3.3,13
+1254,17117695,Pink in a Blanket Doughnuts,Florence,['Coffee and Tea'],$,3.1,6
+1255,17112750,Diner on Elm,Downtown,"['Diner', 'Mediterranean', 'Moroccan']",$,3.4,12
+1256,17114036,Olde Village Tavern,West Chester,['American'],$,3.4,9
+1257,17839688,Grove Park Grille,East End/Mount Washington,"['American', 'Tapas']",$$$,2.8,10
+1258,17116398,Main Event,Downtown,"['Pizza', 'Bar Food', 'Sandwich']",$,3.3,8
+1259,17112640,Country Cousin's Bakery,Cold Spring/Alexandria,[],$,4.0,11
+1260,17756556,Maranata Store,Cheviot/Westwood,"['Mexican', 'Latin American', 'Ecuadorian']",$,3.1,6
+1261,17117088,Wiseguy Lounge,Covington,"['Italian', 'Pizza']",$,3.6,11
+1262,17869841,Wild Eggs,Oakley/Pleasant Ridge,['American'],$$,3.0,4
+1263,17114630,Skip's Express,Deer Park/Madeira,"['American', 'Breakfast']",$,3.2,2
+1264,17116818,Servatii Pastry Shop,West Chester,['Breakfast'],$,3.6,12
+1265,17117888,Blue Ash Chili,Springdale,"['Breakfast', 'Sandwich', 'Chili']",$,3.3,7
+1266,17839685,Christines Casual Dining & Drinks,Cheviot/Westwood,"['American', 'Filipino', 'Tex-Mex']",$$,3.1,6
+1267,17111921,Andy's Restaurant,Hamilton,"['Breakfast', 'Burger', 'Diner']",$,3.6,6
+1268,17117356,El Ranchero,Milford,['Mexican'],$$,3.3,7
+1269,17116587,The Sweeterie,Mariemont,['Desserts'],$,3.5,11
+1270,17114947,Taco Bell,Anderson Township,['Fast Food'],$,3.0,12
+1271,17116223,Lindner Family Café at the Taft Museum of Art,Downtown,"['American', 'Sandwich', 'Healthy Food']",$$,3.3,10
+1272,17117220,Tbyrd's Sports Bar ~n~ Grille,Trenton,['BBQ'],$$,3.3,9
+1273,17112915,Fantastic Wok II,Mason,['Chinese'],$,3.7,11
+1274,17115556,Happy Garden Chinese Restaurant,Harrison,['Chinese'],$,3.3,8
+1275,17113286,Hong Kong Wok,Hamilton,['Chinese'],$,3.6,5
+1276,17116004,Skippers Restaurant/Marina,New Richmond,"['Burger', 'Bar Food', 'Sandwich']",$$,3.5,8
+1277,17117432,My Thai Cafe,Springdale,['Thai'],$,3.1,8
+1278,17113750,Maribelle Cakery,Cheviot/Westwood,['Desserts'],$$,3.4,8
+1279,17115490,Guido's Restaurant,Cleves,"['Burger', 'Fast Food', 'Pizza']",$,3.5,10
+1280,17114249,Pike Bar and Grill,Wyoming/Arlington Heights/Reading,['Bar Food'],$,3.5,11
+1281,17117900,Los Cazadores,Withamsville,['Mexican'],$,3.2,4
+1282,17116218,Marco's Pizza,Union Township,['Pizza'],$,3.6,12
+1283,17116246,Marco's Pizza,Mason,['Pizza'],$,3.4,11
+1284,17115619,Fricker's Restaurant,Middletown,"['American', 'Pizza', 'Sandwich']",$,2.3,10
+1285,17116217,Churchill's Fine Teas,Over-the-Rhine/Mount Auburn,"['British', 'European', 'Tea']",$,3.4,9
+1286,17116741,El Rancho Grande,West Chester,"['Mexican', 'Tex-Mex']",$,3.3,11
+1287,17117473,The Booksellers,Downtown,['Coffee and Tea'],$,3.2,7
+1288,17118008,Main Street Social,West Chester,[],$$,3.1,5
+1289,17113085,Go Bananas Comedy Club,Montgomery,['American'],$,3.5,11
+1290,17756559,Collective Espresso,Northside,['Coffee and Tea'],$,3.1,8
+1291,17117287,Happy's Pizza,College Hill/Mt Healthy,"['BBQ', 'Pizza']",$,3.3,5
+1292,17822830,Cafe Mediterranean,Hyde Park/Mount Lookout,"['Mediterranean', 'Turkish']",$$,3.2,5
+1293,17116593,El Toro Bravo,Walton,['Mexican'],$$,3.4,8
+1294,17115479,Spillway Lodge,Clarksville,['Steak'],$$$,3.8,10
+1295,17116795,Ms. Cheri's Donuts and More,Milford,"['Desserts', 'Donuts']",$,3.6,10
+1296,17784366,Amol India Carryout,Campbell County,['Indian'],$$$,2.6,8
+1297,17117683,Cakes & Pastries by George,Cheviot/Westwood,"['Desserts', 'Greek']",$,3.3,5
+1298,17112492,China Buffet,Norwood,['Chinese'],$,3.5,11
+1299,17115230,White Castle,Delhi,"['Breakfast', 'Burger', 'Fast Food']",$,3.3,7
+1300,17117147,La Pinata,Fairfield,['Mexican'],$,3.5,11
+1301,17114550,Sandwich Block Deli,Crescent Springs/Fort Wright,['Sandwich'],$,3.5,10
+1302,17112630,Cookie Jar Bakery,Campbell County,[],$,3.6,12
+1303,17113217,Great Wall Chinese,West Chester,['Chinese'],$,3.5,9
+1304,17113875,Taqueria Mi Ranchito,Springdale,"['Mexican', 'Seafood']",$,3.4,8
+1305,17114975,Taste Wok,Mason,['Chinese'],$,3.7,9
+1306,17113610,Legends Bar and Grill,Covington,"['Burger', 'Bar Food', 'Sandwich']",$,3.3,10
+1307,17113460,Karen's Pizzeria,Hamilton,['Pizza'],$,3.7,9
+1308,17113698,Madeira Inn,Deer Park/Madeira,"['German', 'Bar Food']",$,3.4,9
+1309,17113078,Gina's Italian Kitchen and Tavern,Hamilton,"['American', 'Italian', 'Bar Food']",$$,3.4,8
+1310,17112383,Camp Critter Bar and Grille,Mason,['American'],$$,3.2,6
+1311,17117196,Rivertown Brewery & Barrel House,Wyoming/Arlington Heights/Reading,['Drinks Only'],$$$,3.3,8
+1312,17117541,DiBella's Old Fashioned Submarines,Mason,['Sandwich'],$$,3.4,8
+1313,17117979,The Growler House,Walnut Hills/Mount Adams,[],$,3.4,6
+1314,17114403,Rally's,Madisonville,"['Burger', 'Fast Food']",$,2.9,5
+1315,17115174,Wendy's,Oakley/Pleasant Ridge,['Fast Food'],$,3.3,5
+1316,17116411,Somethin' Serious BBQ,Clifton/Avondale,['BBQ'],$,3.5,6
+1317,17116935,Menchies Frozen Yogurt,Mason,['Desserts'],$,3.6,11
+1318,17117360,Urban Grill,Price Hill/Fairmount,"['American', 'Sandwich']",$,3.3,10
+1319,17117946,Beacon Food Mart,East End/Mount Washington,"['Sandwich', 'Deli']",$,3.2,6
+1320,17112692,Dairy Queen (Treat),Blue Ash,"['Fast Food', 'Ice Cream']",$,3.5,13
+1321,17115007,Three Amigos,Florence,"['Mexican', 'Tex-Mex']",$,2.3,9
+1322,17116042,Fresh Market‎,Deer Park/Madeira,"['International', 'Sushi']",$,3.5,13
+1323,17116028,Mainstrasse Village Pub,Covington,['Bar Food'],$$,3.4,8
+1324,17112916,Fantasy in Frosting,Campbell County,[],$,3.5,11
+1325,17112854,Dunkin',Clifton/Avondale,"['Fast Food', 'Donuts']",$,3.5,10
+1326,17112505,China Garden Buffet,Forest Park,['Chinese'],$,3.7,7
+1327,17117409,Mio Vino,Deer Park/Madeira,[],$,3.3,7
+1328,17756551,Le Bar a Boeuf,Walnut Hills/Mount Adams,['French'],$$$,3.1,6
+1329,17784504,86 Club,Clifton/Avondale,['Coffee and Tea'],$,3.1,5
+1330,17112961,Turfway Bar & Grill,Florence,['American'],$,3.4,7
+1331,17112893,Empress Chili,Cold Spring/Alexandria,"['Sandwich', 'Chili']",$,3.6,7
+1332,17116717,AA Wok,Campbell County,['Chinese'],$,3.3,11
+1333,17112150,Bistro on Elm,Downtown,['Bar Food'],$$,3.2,7
+1334,17117054,Bizy Bee Bakery,North Bend,['Bakery'],$,3.3,4
+1335,18493155,Tahona Kitchen and Bar,Blue Ash,['Mexican'],$$,3.0,7
+1336,17869842,Coppin's Restaurant & Bar,Covington,['American'],$$$,3.2,5
+1337,17117463,Sharonville Depot Deli,Sharonville,['Deli'],$,3.3,8
+1338,17822840,El Rancho Grande Mexican Restaurant,Mason,['Mexican'],$$,3.1,5
+1339,17116056,Piazza Discepoli,Monfort Heights/White Oak,[],$,3.5,9
+1340,17115107,W & S Ribs & More,Golf Manor,"['BBQ', 'Southern']",$$,3.2,8
+1341,17116391,Gangsters Dueling Piano Bar and Restaurant,Campbell County,"['Burger', 'Bar Food']",$$,3.4,7
+1342,17116975,The Bistro @ The DoubleTree Suites by Hilton,Sharonville,"['American', 'Steak', 'Tapas']",$$$,3.1,8
+1343,17839677,Flipdaddy's Burgers & Beers,Campbell County,"['American', 'Bar Food', 'Burger']",$$$,2.6,5
+1344,18478510,Chilango Fresh Mexican,Loveland,"['Mexican', 'Taco']",$$,3.0,4
+1345,17113126,Gold Star Chili,Madisonville,"['American', 'Chili']",$,3.2,7
+1346,17116505,Servatii Pastry Shop,Crestview Hills,[],$,3.5,9
+1347,17115614,Dad's Family Restaurant,Middletown,['American'],$,3.3,9
+1348,17116785,Yagoot Frozen Yogurt,Mason,['Desserts'],$,3.3,11
+1349,17117679,The Presidents Room,Downtown,"['American', 'European']",$$$,3.5,8
+1350,17869837,Roll On In,Lebanon,['Sushi'],$$,3.0,4
+1351,17112846,Drew's on the River,Delhi,"['American', 'Burger', 'Sandwich']",$,3.4,11
+1352,17114596,Shanghai Garden,Florence,['Chinese'],$,3.5,9
+1353,17115276,Wok Super,West Chester,"['Asian', 'Chinese', 'Seafood']",$,2.8,9
+1354,17115292,Zazou Grill and Pub,Covington,"['American', 'Pizza']",$,3.3,10
+1355,17116381,A Bottle Or Two,Symmes,[],$$$,3.5,4
+1356,17116754,Silver Grove Dari Bar,East End/Mount Washington,"['Burger', 'Desserts']",$,3.5,11
+1357,17116772,Saxbys Coffee Newport On The Levee,Campbell County,"['Coffee and Tea', 'Tea']",$,3.0,3
+1358,17116827,Hot Head Burritos,Fairfield,"['Fast Food', 'Tex-Mex']",$,3.1,7
+1359,17117072,Digg's Bar & Grill,Mason,"['Burger', 'Bar Food', 'Sandwich']",$,3.2,9
+1360,17117667,Flavors Eatery,Lebanon,"['American', 'Pizza', 'Sandwich']",$,3.1,6
+1361,17117880,Sea Sushi & Grill,Florence,"['Asian', 'Japanese', 'Sushi']",$$,3.2,6
+1362,17114014,Norwood Delite Creamy Whip,Norwood,"['Desserts', 'Sandwich']",$,3.8,10
+1363,17117430,Cocos Mexican Restaurant Bar & Grill,Hamilton,['Mexican'],$,3.3,6
+1364,17117791,Envision Cinemas,Blue Ash,['Bar Food'],$$,3.0,4
+1365,17113690,Lynna's Grill,Covington,"['American', 'Chili']",$,3.5,6
+1366,17117416,Pholicious,Florence,['Vietnamese'],$,3.3,7
+1367,17117101,Twisty Grill,Campbell County,"['Burger', 'Desserts', 'Pizza']",$,3.1,5
+1368,17113664,Loose Moose Cottage,Mason,['American'],$$$$,2.7,7
+1369,17117276,Overtime Bar & Grill,Fairfield,"['Burger', 'Bar Food', 'Sandwich']",$$,3.2,5
+1370,18452657,BurgerFi,Downtown,"['American', 'Burger', 'Ice Cream']",$$,3.0,4
+1371,17117482,Marty's Waffles,Cold Spring/Alexandria,"['Breakfast', 'Desserts']",$,3.2,4
+1372,17113617,Linda's Village Kettle,Carthage,['American'],$,3.5,7
+1373,17113762,Mary's Place,Florence,['American'],$,3.3,6
+1374,17116909,Sunshine Fine Foods,Downtown,"['Sandwich', 'Healthy Food']",$,3.3,7
+1375,17114215,Penn Station East Coast Subs,Hyde Park/Mount Lookout,"['Fast Food', 'Sandwich']",$,3.3,9
+1376,17115475,Powerhouse Pizza,Camden,['Pizza'],$$,3.6,7
+1377,17115890,Papa D's Pizza,Hebron,['Pizza'],$$,3.5,10
+1378,17114472,River City Grille,Mason,"['Breakfast', 'Bar Food', 'Sandwich']",$$,3.4,9
+1379,17115557,Harrison Home Bakery,Harrison,[],$,3.4,8
+1380,17116352,Fuel Coffee,Campbell County,"['Breakfast', 'Coffee and Tea']",$,3.5,9
+1381,17116789,Diane's Cake Candy Cookie,Cheviot/Westwood,['Desserts'],$,3.1,5
+1382,17116952,Hot Head Burritos,Crescent Springs/Fort Wright,"['Fast Food', 'Tex-Mex']",$,3.3,9
+1383,17115134,Wedge Inn,Colerain Township,['American'],$,3.5,6
+1384,17117129,Lindenwald Station,Hamilton,"['American', 'Breakfast', 'Diner']",$,3.5,7
+1385,17117055,Empress Chili,Cheviot/Westwood,"['Sandwich', 'Chili']",$,3.4,6
+1386,17116342,Marco's Pizza,West Chester,['Pizza'],$,3.3,8
+1387,17115072,United Dairy Farmers,Norwood,['Desserts'],$,3.3,9
+1388,17116010,Newport Syndicate,Campbell County,['Italian'],$$$,2.5,9
+1389,17116393,Godiva Chocolatier,Deer Park/Madeira,['Desserts'],$$$,3.2,9
+1390,17116773,Mama Made It Kettle Corn,Over-the-Rhine/Mount Auburn,['Desserts'],$,3.2,7
+1391,17117034,Lavida's Extra Touch Deli,Walnut Hills/Mount Adams,"['American', 'Southern']",$,3.2,7
+1392,17118013,Raj India,Clifton/Avondale,"['Indian', 'Vegetarian']",$,3.6,7
+1393,17115255,Wildwood Pub,Fairfield,['American'],$,3.4,6
+1394,17114763,Stacey's Place,Cheviot/Westwood,['Italian'],$$,3.3,9
+1395,17116779,Roca Cafe,Covington,"['Breakfast', 'Sandwich']",$,3.6,6
+1396,17114257,Pizza Chef Gourmet Pizza,Hamilton,['Pizza'],$$,3.4,8
+1397,17117243,JoJo's Cupcakes and More,West Chester,"['Bakery', 'Coffee and Tea']",$,3.3,6
+1398,17114017,Number 1 Kitchen,Milford,['Chinese'],$$,3.9,9
+1399,18705108,Pickles & Bones Barbecue,Milford,"['American', 'BBQ', 'Soul Food']",$$,3.0,4
+1400,17117239,Boonedocks,Walton,"['American', 'Burger', 'Bar Food']",$$,3.1,5
+1401,17113926,Montgomery Towne Tavern,Montgomery,['American'],$,3.4,7
+1402,17113223,Greenie's Sports Bar and Grill,Milford,"['Burger', 'Bar Food', 'Sandwich']",$,3.3,9
+1403,17113412,Jim & Jack's,Delhi,['American'],$$,3.4,7
+1404,17112107,Bearcat Lounge,Clifton/Avondale,['American'],$$,3.2,5
+1405,17116247,Village Grocery,Loveland,['Sandwich'],$,3.3,6
+1406,17112457,Chef's Cafe,Sharonville,['Sandwich'],$,3.5,9
+1407,18332495,Joella's Hot Chicken,Crescent Springs/Fort Wright,"['Sandwich', 'Southern']",$$,3.1,5
+1408,17117346,Nela Bread & Pastry,Milford,"['Desserts', 'European']",$,3.1,4
+1409,17117923,Panino,Downtown,"['Sandwich', 'Bar Food']",$$,3.0,4
+1410,17756558,Village Troubador,Forest Park,"['Breakfast', 'Coffee and Tea', 'Sandwich']",$,3.2,3
+1411,17116750,Frisch's Big Boy,Monfort Heights/White Oak,"['Breakfast', 'Diner', 'Sandwich']",$,3.3,4
+1412,17115836,Martin's Donuts,Trenton,['Donuts'],$,3.5,8
+1413,17116920,Eckerlin's Meats,Over-the-Rhine/Mount Auburn,[],$,3.4,9
+1414,17112053,B-G,Downtown,"['Burger', 'Diner']",$,3.0,7
+1415,17115781,Johnny's Campus Deli,Oxford,['Sandwich'],$,3.4,9
+1416,17116141,The Original Pizza Pan,Clifton/Avondale,"['Greek', 'Pizza', 'Sandwich']",$,3.4,7
+1417,17117028,MIA,Oxford,"['American', 'Italian']",$$$,3.4,9
+1418,17117252,A&A Hitching Post,Mount Orab,"['Breakfast', 'Burger', 'Sandwich']",$,3.5,4
+1419,17118006,Brass Tap,Clifton/Avondale,"['Pizza', 'Bar Food']",$,3.2,5
+1420,17822831,Taza Grill,Clifton/Avondale,['Middle Eastern'],$,3.1,5
+1421,17112559,Chuck E Cheese's,Colerain Township,['Pizza'],$,2.8,7
+1422,17112646,Courseview Restaurant & Lounge,Mason,['American'],$$,3.6,9
+1423,17113755,Mark's Donut Shop,Milford,['Donuts'],$,3.6,9
+1424,17113858,Talon Tavern,Milford,['American'],$,3.2,6
+1425,17115096,Village Pizza,Newtown,['Pizza'],$,3.5,7
+1426,17115659,Naing's Garden,Middletown,['Chinese'],$,3.6,5
+1427,17117577,Clubhouse Sports Grille,West Chester,"['American', 'Bar Food', 'Sandwich']",$,3.4,5
+1428,17116559,Marco's Pizza,Maineville,['Pizza'],$,3.2,7
+1429,17116175,Cinnabon,Springdale,['Desserts'],$,3.3,9
+1430,17117177,Cousin Vinny's Pizza,Symmes,['Pizza'],$$,3.4,6
+1431,17117290,Frickers,Symmes,"['Burger', 'Sandwich']",$,2.6,6
+1432,17117700,Buzzard Bay Pub,Fairfield,"['Burger', 'Bar Food']",$,3.1,6
+1433,17112066,Bagel Stop,Downtown,['Sandwich'],$,3.4,7
+1434,17112290,Buffalo Wings & Rings,West Chester,"['Bar Food', 'Sandwich']",$$,3.3,7
+1435,17113480,KFC,Northside,['Fast Food'],$,2.0,10
+1436,17113623,Little Caesars Pizza,Florence,"['Fast Food', 'Pizza']",$,3.3,8
+1437,17116376,Oxford Hookah Lounge,Oxford,['International'],$$$,3.6,8
+1438,17117779,Valley Vineyards,Maineville,[],$$,3.1,5
+1439,17114281,Pizza Hut,St Bernard/Elmwood Place,"['Fast Food', 'Pizza']",$,3.5,6
+1440,17112520,China Max,Florence,['Chinese'],$,3.5,6
+1441,17115212,Westy's Pub,Deer Park/Madeira,"['Burger', 'Bar Food', 'Sandwich']",$,3.5,8
+1442,17117184,Crosley's Bar & Grill,St Bernard/Elmwood Place,"['Burger', 'Bar Food', 'Chili']",$,2.9,4
+1443,17117013,The Liberty Inn,West Chester,"['Pizza', 'Sandwich']",$,3.0,7
+1444,18155528,Taste of Belgium - Rookwood,Norwood,['Belgian'],$$$,3.0,4
+1445,17117678,Jade Kitchen,Blue Ash,['Chinese'],$,3.3,4
+1446,17116130,The Tea Parlor,West Chester,"['British', 'Tea']",$$,3.4,7
+1447,17116274,Country Barrel,Okeana,['Diner'],$,3.4,8
+1448,17113955,Mustang Sally's Bar & Grill,Hamilton,['Bar Food'],$,3.5,7
+1449,17115458,China Dragon,Blanchester,['Chinese'],$,3.6,6
+1450,17113642,Long John Silver's,Cheviot/Westwood,['Fast Food'],$,3.3,6
+1451,17117938,Servatii Pastry Shop,Mason,['Sandwich'],$,2.9,4
+1452,17116163,O'Neals Tavern,Anderson Township,['Pizza'],$,3.4,7
+1453,17116992,Marco's Pizza,Oakley/Pleasant Ridge,['Pizza'],$,3.5,8
+1454,17117354,Buona Vita Pizzeria,Covington,"['Pizza', 'Sandwich']",$$,3.4,7
+1455,17114562,Sbarro,Deer Park/Madeira,['Fast Food'],$,3.2,9
+1456,17116114,Below Zero Lounge,Over-the-Rhine/Mount Auburn,['Bar Food'],$,3.3,8
+1457,17116149,Cielito Lindo,Florence,['Mexican'],$,3.3,3
+1458,17116066,Piazza Discepoli,Springdale,[],$$$,3.3,6
+1459,17116942,First Watch,Downtown,['Breakfast'],$,3.2,6
+1460,17113947,Mt Healthy Dairy Bar,College Hill/Mt Healthy,['Desserts'],$,3.7,8
+1461,17117404,Jus Smokin Hillbilly BBQ,Maineville,['BBQ'],$,3.2,5
+1462,17114555,Sarku Japan,Florence,"['Fast Food', 'Japanese']",$$,3.3,3
+1463,17114729,Snowie,Anderson Township,['Desserts'],$,3.3,7
+1464,17116683,Servatii Pastry Shop,Downtown,"['Coffee and Tea', 'Sandwich']",$,3.1,9
+1465,17116944,Mom's Restaurant,Lebanon,"['Beverages', 'Diner', 'Sandwich']",$,3.4,7
+1466,17117022,Taquiera la Preferida,Hamilton,['Mexican'],$$,3.1,5
+1467,17117350,The Thirsty Turtle,Fairfield,"['American', 'BBQ', 'Burger']",$,2.9,2
+1468,17117442,Izzy's,Crescent Springs/Fort Wright,"['Burger', 'German', 'Sandwich']",$,3.1,5
+1469,17117498,Mama Mimi's Take 'N Bake Pizza,Deer Park/Madeira,['Pizza'],$$,3.1,1
+1470,16960110,Denny's,Independence,"['American', 'Diner']",$,2.9,7
+1471,17113930,Morning Star Coffee Creations,Symmes,"['Coffee and Tea', 'Beverages', 'Tea']",$,3.6,7
+1472,17115792,Woody's One Up Bar,Oxford,['Bar Food'],$,3.4,6
+1473,17117675,Mughal Grill,West Chester,"['Indian', 'Pakistani']",$$,3.4,5
+1474,17114417,Red's Deli,Price Hill/Fairmount,['Sandwich'],$,3.4,6
+1475,17117135,Sandtrap Grill at the Blue Ash Golf Course,Blue Ash,"['Bar Food', 'Sandwich', 'Healthy Food']",$,3.2,3
+1476,17117829,El Nopal,Florence,['Mexican'],$,3.1,4
+1477,18317550,Fortune Noodle House,Clifton/Avondale,['Chinese'],$,3.0,4
+1478,17114507,Ross Bakery,Hamilton,[],$,3.8,6
+1479,17115527,Rax Roast Beef,Georgetown,"['Fast Food', 'Sandwich']",$,3.1,3
+1480,17117235,Snappy Tomato Pizza Co,Cheviot/Westwood,"['Italian', 'Pizza', 'Sandwich']",$,3.0,5
+1481,17114086,Panda King,West Chester,['Chinese'],$,3.3,8
+1482,17115738,Landing Restaurant & Marina,New Richmond,['Seafood'],$$,3.2,6
+1483,17116817,Currito,Norwood,"['Fast Food', 'Beverages', 'Tex-Mex']",$,3.5,6
+1484,17117769,Stadium Bar and Grill (Belterra),East End/Mount Washington,['American'],$$,3.1,6
+1485,17112920,Victory Lane Pizza,West Chester,['Pizza'],$$,3.3,5
+1486,17113468,Bourbon Street Grille,Deer Park/Madeira,"['Asian', 'Chinese']",$,2.6,6
+1487,17839686,Nittha Siam Kitchen,Cold Spring/Alexandria,['Thai'],$$,3.0,7
+1488,17112463,Cheviot Sports Tavern,Cheviot/Westwood,"['Burger', 'Bar Food', 'Sandwich']",$,3.4,6
+1489,17115291,Zappz Bar and Grill,Loveland,['Bar Food'],$,2.6,4
+1490,17112856,Dunlap Cafe,Over-the-Rhine/Mount Auburn,"['Burger', 'Diner', 'Bar Food']",$,3.3,4
+1491,17112513,China Inn,Hamilton,"['Asian', 'Chinese']",$$,3.8,6
+1492,17115485,Cleves Drive Inn,Cleves,['Southern'],$,3.6,7
+1493,17112594,Coach House Tavern & Grille,Hamilton,['Bar Food'],$,3.4,5
+1494,17112703,Dari Crest,Covington,['Desserts'],$,3.2,5
+1495,17112849,Duck Creek Country Club,Cold Spring/Alexandria,['American'],$,3.3,6
+1496,17112698,Dana Gardens,Norwood,"['Burger', 'Bar Food', 'Sandwich']",$,3.7,8
+1497,17112863,Eat-n-Treat,Monfort Heights/White Oak,['Desserts'],$,3.3,7
+1498,17113975,Green Lantern Cafe,Covington,"['American', 'Burger', 'Sandwich']",$,3.5,5
+1499,17116937,Marco's Pizza,Landen,['Pizza'],$,3.2,5
+1500,17115509,Chilo Dairy Bar,Felicity,"['Desserts', 'BBQ', 'Cafe']",$,3.3,5
+1501,17115607,Cassano's Pizza King,Middletown,['Pizza'],$,3.5,7
+1502,17116328,Shortnecks,Campbell County,"['Burger', 'Bar Food', 'Sandwich']",$,3.5,6
+1503,17116356,United Dairy Farmers,Deer Park/Madeira,['Desserts'],$,3.2,5
+1504,17116288,Sports Depot,Cheviot/Westwood,['Bar Food'],$,3.4,6
+1505,17117005,Bambooz Bar & Grill,Covington,"['Pizza', 'Bar Food']",$,2.7,4
+1506,17117502,Graeter's Ice Cream,Over-the-Rhine/Mount Auburn,"['Desserts', 'Ice Cream']",$,3.2,6
+1507,17117396,Mimi's Gourmet Eggrolls & Curry Bowls,Over-the-Rhine/Mount Auburn,"['Asian', 'Thai', 'Vegetarian']",$,3.1,5
+1508,17117584,Arby's,Milford,['Fast Food'],$,2.9,4
+1509,17117894,Ei8ht Ball,Campbell County,[],$,2.9,6
+1510,16959340,Bob Evans,Independence,"['American', 'Breakfast']",$,3.1,8
+1511,17112052,Aynies Deli,Deer Park/Madeira,['Sandwich'],$,3.4,5
+1512,17112753,Dippin' Dot,Florence,['Desserts'],$,2.9,5
+1513,17117532,Trailside Cafe,Loveland,"['Sandwich', 'Healthy Food']",$,2.8,4
+1514,17116888,The Coffee Garden Cafe at Hyde Park Floral,Hyde Park/Mount Lookout,['Coffee and Tea'],$,3.1,3
+1515,17117975,Mix Wok,West Chester,['Chinese'],$,3.0,4
+1516,17115495,Shamrock,Cleves,"['American', 'Burger', 'Pizza']",$,3.2,4
+1517,17117035,House of Tang,Burlington,['Chinese'],$,3.4,6
+1518,17117878,Off the Vine Juice Bar,Over-the-Rhine/Mount Auburn,"['Beverages', 'Vegetarian']",$,3.2,5
+1519,17116913,Plain Folk Cafe,Goshen,"['Sandwich', 'Healthy Food']",$,3.6,6
+1520,17116159,Jens Bar & Grill,West Chester,"['American', 'Burger', 'Italian']",$,3.4,6
+1521,17115732,Dee's Dairy Bar & Drive In,New Richmond,['Desserts'],$,3.4,6
+1522,17116089,Dave & Phil's Grill,West Chester,"['American', 'Sandwich']",$,3.1,3
+1523,17116547,The Gathering Place,Goshen,['American'],$,3.2,4
+1524,17114037,Morgan's Old Roadhouse,Delhi,"['American', 'Bar Food', 'Sandwich']",$,3.5,4
+1525,18204199,Tela,Springdale,['American'],$$$,3.1,4
+1526,17116039,New Europe Restaurant,Symmes,"['Greek', 'Mediterranean', 'Eastern European']",$,2.7,6
+1527,17112059,Back Door Saloon,Greenhills,['Bar Food'],$,3.1,4
+1528,17116770,Sweet William's Bakery,Fairfax,[],$,3.3,2
+1529,17117981,El Rancho Nuevo,Landen,['Mexican'],$,2.9,4
+1530,17117980,Myrtle's Punch House,Walnut Hills/Mount Adams,['Bar Food'],$$,3.3,7
+1531,17112824,Sneaky Pete's,Fairfield,['American'],$,3.0,4
+1532,17117155,Holzman Meats,Montgomery,"['Sandwich', 'Healthy Food']",$,3.5,5
+1533,17116580,Chatters Bar and Grill,Springdale,"['Burger', 'Bar Food', 'Sandwich']",$$,3.4,4
+1534,17112464,Cobblestone Tavern,Fairfield,"['Burger', 'Bar Food', 'Sandwich']",$,3.2,6
+1535,17117367,Petra Cuisine,Campbell County,"['Greek', 'Mediterranean', 'Turkish']",$,3.2,6
+1536,17116074,Ryan's Eatery & Pub,Norwood,"['American', 'Bar Food', 'Sandwich']",$,3.2,6
+1537,17117037,Comets Pizza,Mason,"['Pizza', 'Sandwich', 'Healthy Food']",$,3.1,6
+1538,17117327,Max & Erma's,Erlanger,"['Burger', 'Bar Food', 'Sandwich']",$$,2.9,4
+1539,17114362,Pub,Lebanon,"['American', 'Pizza', 'Bar Food']",$,3.3,5
+1540,17114248,Piece of Cake Pastry Shop,Cheviot/Westwood,[],$,2.9,4
+1541,17115009,Tim Hortons,West Chester,"['Coffee and Tea', 'Diner']",$,3.3,5
+1542,17114851,Subway,Maineville,['Fast Food'],$,3.2,5
+1543,17115704,Chubby's Pizza of Morrow,Morrow,['Pizza'],$,3.5,6
+1544,17116258,Twin Bistro,Covington,"['American', 'Coffee and Tea', 'Diner']",$,3.3,2
+1545,17116355,United Dairy Farmers,Hyde Park/Mount Lookout,['Desserts'],$,3.5,6
+1546,17116649,United Dairy Farmers,Campbell County,"['Coffee and Tea', 'Desserts']",$,3.1,3
+1547,17116430,Dolce Vita,Campbell County,['Desserts'],$,3.5,6
+1548,17116873,Joseph-Beth Cafe,Crestview Hills,"['Coffee and Tea', 'Sandwich']",$,2.9,5
+1549,17117029,The Creamery of West Chester,West Chester,['Desserts'],$,3.2,4
+1550,17117085,Sweet Frog Frozen Yogurt,Crescent Springs/Fort Wright,"['Frozen Yogurt', 'Ice Cream']",$,3.3,5
+1551,17117588,Blue Ash Café,Blue Ash,"['Sandwich', 'Healthy Food']",$,3.0,4
+1552,17117737,Tsunami Sushi and Hibachi Bar,Erlanger,"['Japanese', 'Sushi']",$$,2.6,5
+1553,17117826,Einstein Bros. Bagels,Clifton/Avondale,"['Breakfast', 'Sandwich']",$,3.1,4
+1554,17756545,Sushi Kingdom,Symmes,['Sushi'],$$,3.0,6
+1555,17838475,Santo Graal,Downtown,"['Italian', 'Pizza']",$$,2.8,3
+1556,17111861,1132 Bar,Over-the-Rhine/Mount Auburn,['Bar Food'],$,3.0,6
+1557,17112402,Captain D's Seafood,Norwood,"['Fast Food', 'Seafood']",$,3.2,5
+1558,17112310,Burger King,Covington,['Fast Food'],$,2.8,6
+1559,17113701,Madison's Market,Over-the-Rhine/Mount Auburn,"['Desserts', 'Italian']",$,3.3,6
+1560,17113693,M M Mulligan's,Covington,['American'],$$,2.6,5
+1561,17113943,Mrs. Teapots,Campbell County,"['American', 'Diner']",$,3.4,5
+1562,17784440,Mi Ranchito,Sharonville,['Mexican'],$$,2.9,5
+1563,17115476,Ron's Pizza,Camden,"['Pizza', 'Sandwich', 'Healthy Food']",$,3.4,6
+1564,17116853,The Oak Leaf at Aston Oaks,North Bend,"['Pizza', 'Bar Food', 'Steak']",$$,3.2,4
+1565,17116568,Noble Roman's Pizza,Covington,"['Pizza', 'Sandwich']",$,3.2,4
+1566,17117662,The Chili Hut,Downtown,"['Fast Food', 'Chili']",$,3.1,3
+1567,17843405,Pies & Pints,West Chester,['Pizza'],$$$,3.0,5
+1568,17115359,Cascades Restaurant,Blue Ash,"['American', 'Breakfast', 'Steak']",$$$,2.6,4
+1569,17115746,Regina Bakery,North Bend,['Coffee and Tea'],$,3.3,5
+1570,17116070,Madeira Choice Meats,Deer Park/Madeira,['Sandwich'],$,3.7,4
+1571,17111894,Al's Bar,Sharonville,['Bar Food'],$,3.3,4
+1572,17115602,Buck's 24 Hr Diner,Middletown,"['American', 'Pizza', 'Sandwich']",$,3.4,4
+1573,17115550,Decanter Lounge & Sports Bar,Harrison,['Bar Food'],$,2.9,3
+1574,17114767,Stanley's Pub,East End/Mount Washington,['Bar Food'],$,3.2,5
+1575,17115306,McLevy's Pub,Montgomery,['Bar Food'],$,3.1,4
+1576,17117059,Diamond Club Lounge,Downtown,"['American', 'International']",$$$$,3.3,4
+1577,17117887,Listermann Brewing Company,Norwood,[],$,3.2,4
+1578,17115245,White Oak Delicatessen,Monfort Heights/White Oak,"['Coffee and Tea', 'Desserts', 'Sandwich']",$,3.4,3
+1579,17117958,Lima Limon,Florence,['Peruvian'],$$,3.4,4
+1580,17822871,Strong's Brick Oven Pizzeria,Hebron,['Pizza'],$$,3.2,5
+1581,17112233,Brewer's Coffee Shop,Hamilton,"['Breakfast', 'Coffee and Tea', 'Diner']",$,3.4,5
+1582,17112719,Deer Park Inn,Deer Park/Madeira,"['Burger', 'Sandwich']",$,2.6,5
+1583,17115876,Flintlocks At The Crossroads,California,"['American', 'Burger']",$,3.1,5
+1584,17116192,United Dairy Farmers,Oakley/Pleasant Ridge,['Desserts'],$,3.3,5
+1585,17116671,Riverside Marina Bar and Grill,East End/Mount Washington,"['Burger', 'Bar Food', 'Seafood']",$,3.2,6
+1586,17117158,Fort Thomas Coffee,Campbell County,['Coffee and Tea'],$,3.5,5
+1587,17117868,Fresh Healthy Café,Deer Park/Madeira,"['Sandwich', 'Beverages', 'Healthy Food']",$,2.8,2
+1588,17112371,Café at the Vineyard,Springdale,"['American', 'Sandwich']",$,3.4,6
+1589,17112108,Bee's Buffet,Fairfield,[],$,3.6,5
+1590,17115617,Dragon Express,Middletown,['Chinese'],$,3.2,3
+1591,17116473,eBar @ Nordstrom,Deer Park/Madeira,"['Coffee and Tea', 'Tea']",$,3.2,4
+1592,17116560,City Brew Coffee,Cold Spring/Alexandria,['Coffee and Tea'],$,3.3,4
+1593,17116643,Riverwalk Sports Cafe,Campbell County,"['Burger', 'Bar Food', 'Sandwich']",$,3.1,5
+1594,17116828,Hot Head Burritos,Middletown,"['Fast Food', 'Southwestern', 'Tex-Mex']",$,3.1,5
+1595,17116839,Denny's,Walton,"['American', 'Diner']",$,3.2,4
+1596,17117003,Gina's Kozy Cafe,New Richmond,"['American', 'Breakfast', 'Diner']",$,3.2,3
+1597,17117188,La Cazuela Mexican Grill & Bar,Milford,"['Mexican', 'Tex-Mex']",$$,3.2,4
+1598,17117254,SOHI Grilled Sandwiches,Oxford,"['Burger', 'Sandwich', 'Healthy Food']",$,3.4,5
+1599,17117644,Gold Top Dairy Bar,Monfort Heights/White Oak,['Desserts'],$,2.9,4
+1600,17112061,Backstage Cafe,Covington,['American'],$,3.3,3
+1601,17113982,New China Gourmet,College Hill/Mt Healthy,['Chinese'],$,3.2,4
+1602,17117452,Top Ten Sports Bar,Cold Spring/Alexandria,['Bar Food'],$,2.9,3
+1603,17116461,Pebblecreek Pub,Colerain Township,"['American', 'Sandwich', 'Healthy Food']",$,3.2,3
+1604,17114742,Southerby's Bar,Mariemont,"['American', 'Bar Food']",$$,3.3,3
+1605,17117831,Pizzeria Vitale,West Chester,"['Italian', 'Pizza', 'Sandwich']",$$,3.1,3
+1606,17115100,Vine Street Kafe,Downtown,"['Breakfast', 'Burger']",$,3.5,3
+1607,17117940,Murphy's Landing,Middletown,['American'],$$$,2.7,3
+1608,17117471,Lana's Family Restaurant,Campbell County,"['American', 'Diner']",$,3.0,4
+1609,17113333,Irene's Little Bar,Crescent Springs/Fort Wright,['American'],$,3.3,5
+1610,17112676,Curnayn's Tavern,Delhi,['Bar Food'],$,3.2,3
+1611,17115037,Township Fields & Tavern,Milford,"['Burger', 'Bar Food', 'Chili']",$,3.2,3
+1612,17115318,Just One More Bar,College Hill/Mt Healthy,['Pizza'],$,2.6,5
+1613,17117115,The Wine Merchant,Oakley/Pleasant Ridge,[],$$$,3.1,5
+1614,17117789,Buffalo Wings & Rings,Crestview Hills,"['Burger', 'Sandwich']",$,3.3,5
+1615,17116938,Marco's Pizza,Crescent Springs/Fort Wright,['Pizza'],$,3.2,4
+1616,17114441,Red's Hamburgers,Hamilton,"['Burger', 'Diner']",$,3.3,5
+1617,17115472,Depot Dairy Bar & Restaurant,Camden,['Desserts'],$,3.3,5
+1618,17116575,Wolfgang Puck Express,Hebron,"['Pizza', 'Sandwich']",$$,3.1,3
+1619,17117045,The Dip,Fairfield,"['Burger', 'Desserts']",$,3.2,4
+1620,17117646,Midway Diner & Pizzeria,Middletown,"['Breakfast', 'Diner', 'Pizza']",$,3.2,4
+1621,17117721,Roebling Point Books & Coffee,Covington,"['Coffee and Tea', 'Tea']",$,3.1,3
+1622,17115300,Brandywine Inn,West Chester,"['French', 'Seafood']",$$$,3.4,4
+1623,17116230,314 Cafe,Florence,"['Burger', 'Bar Food', 'Sandwich']",$,3.3,4
+1624,17116386,Cincinnati Popcorn & More,Colerain Township,['Desserts'],$,3.5,2
+1625,17116725,General Custer's Golf & Whip,Cheviot/Westwood,['Desserts'],$,3.0,4
+1626,17116612,Buffalo Wings & Rings,Amelia,"['Burger', 'Bar Food']",$$,2.4,4
+1627,17117405,Servatii Pastry Shop,West Chester,[],$,3.1,5
+1628,17117666,Groove Coffee House,Covington,"['Coffee and Tea', 'Tea']",$,3.0,4
+1629,17117924,Quite Frankly,Downtown,[],$,3.0,2
+1630,17112978,Forest Park Restaurant,Forest Park,"['Diner', 'Sandwich', 'Chili']",$,3.1,3
+1631,17118005,Billie's Burger & Beer,Lebanon,['Burger'],$,3.1,2
+1632,17117335,The Coffee Peddlar,Harrison,['Coffee and Tea'],$,3.2,2
+1633,17113710,Main Entrance,Delhi,"['Burger', 'Bar Food', 'Sandwich']",$,3.3,3
+1634,17115469,Big Dawgz,Camden,['Bar Food'],$$,3.3,3
+1635,17117736,The Meadows,North Bend,"['American', 'Bar Food']",$$,3.1,1
+1636,17113515,Kostas,Hamilton,['American'],$,3.5,2
+1637,17112357,Cafe Americana,Downtown,"['Breakfast', 'Coffee and Tea', 'Sandwich']",$,3.2,1
+1638,17117527,Hitching Post Saloon,Oxford,['Bar Food'],$,2.8,4
+1639,17112494,China City,Florence,['Chinese'],$,3.2,3
+1640,17113889,Miller's Fill-Inn,Campbell County,['Bar Food'],$,3.2,3
+1641,17114256,Pizza Chef,Hamilton,['Pizza'],$$,3.2,4
+1642,17117349,Molca-Salsa Mexican Grill,Florence,['Mexican'],$,3.1,3
+1643,17116007,Car Rock Cafe,Deer Park/Madeira,['Bar Food'],$,3.2,3
+1644,17116882,Muggbees Sports Bar,Florence,"['Burger', 'Bar Food']",$,3.3,4
+1645,17117120,Twist Ice Cream Company,West Chester,"['Desserts', 'Ice Cream']",$,3.3,4
+1646,17112419,Casa Grande,West Chester,['Mexican'],$,3.2,3
+1647,17115023,Tokyo Experience,Colerain Township,"['Asian', 'Japanese']",$,2.9,3
+1648,17117564,HalfCut,Over-the-Rhine/Mount Auburn,[],$,3.2,3
+1649,17116324,Du Jours,Walnut Hills/Mount Adams,"['American', 'Breakfast', 'Sandwich']",$,3.1,2
+1650,17784390,Dave's Quality Meats of West Chester,West Chester,['American'],$$,2.9,4
+1651,17113674,Loyal Cafe,Campbell County,['American'],$,3.2,2
+1652,17117364,Traci's Sports Lounge and Grill,Loveland,['American'],$,2.7,4
+1653,17114590,Shafer's Tavern,Norwood,['Bar Food'],$,2.8,2
+1654,17116586,J Cafe,Wyoming/Arlington Heights/Reading,['Coffee and Tea'],$,3.3,4
+1655,17117223,@the Square,Middletown,"['American', 'Burger', 'Vegetarian']",$$,3.1,3
+1656,17117294,Betta's Cafe Cornetti,Norwood,"['Coffee and Tea', 'Desserts']",$,3.1,1
+1657,17117194,Marcos Pizza,Springdale,['Pizza'],$,3.1,4
+1658,17117643,Firebowl Grill,Florence,['Chinese'],$$,2.9,3
+1659,17117893,Christian Moerlein Brewing Co.,Over-the-Rhine/Mount Auburn,[],$,3.1,4
+1660,17117932,Wake and Bake Breakfast,Downtown,['Breakfast'],$,2.9,4
+1661,17112149,Bistro Wine Bar & Grill,Mason,['French'],$$,2.6,3
+1662,17112718,Deer Park Delicatessen,Deer Park/Madeira,['Sandwich'],$,3.3,4
+1663,17116734,Gary's Cheesecakes & Fine Desserts,Cheviot/Westwood,['Desserts'],$,3.4,2
+1664,17116949,Marco's Pizza,Amelia,['Pizza'],$,3.2,3
+1665,17117752,Marco's Pizza,Plaineville,"['Pizza', 'Sandwich']",$$,2.8,2
+1666,17114166,Patricia's Weddings & Custom,Wyoming/Arlington Heights/Reading,[],$$$$,3.1,3
+1667,17114253,Pirate's Den Bar and Grill,Cheviot/Westwood,['Bar Food'],$,2.2,3
+1668,17114381,Quiznos,Florence,"['Fast Food', 'Sandwich']",$,3.0,3
+1669,17115088,Villa Pizza,Springdale,['Pizza'],$,3.0,4
+1670,17115612,Collette's Custom Cake,Middletown,['Desserts'],$,3.2,2
+1671,17115610,China Buffet,Middletown,['Chinese'],$,3.2,3
+1672,17115865,Little Place,Burlington,['American'],$,3.5,4
+1673,17116783,Honey Baked Ham,Deer Park/Madeira,['Sandwich'],$,3.2,3
+1674,17117165,Plaza One Grille,Hamilton,['American'],$$$,3.3,2
+1675,17117181,Sweet Frog Frozen Yogurt,Union Township,['Desserts'],$,3.3,3
+1676,17117370,Coaches Corner,Campbell County,"['Burger', 'Bar Food', 'Sandwich']",$,2.9,4
+1677,17117275,Laughing Noodle,Sharonville,"['Fast Food', 'Healthy Food']",$,2.7,3
+1678,17117651,Angelena's Pizzaria,Blanchester,['Italian'],$$,3.0,4
+1679,17117787,Blue Goose Deuce,Middletown,"['Burger', 'Pizza']",$,3.3,2
+1680,17113208,Great Steak,Colerain Township,"['Fast Food', 'Sandwich']",$,3.2,4
+1681,17113268,Hill Station,West Chester,['American'],$,3.1,3
+1682,17113891,Millville,Hamilton,['American'],$,3.2,3
+1683,17117830,Taqueria Ramirez,Florence,['Mexican'],$,3.2,3
+1684,17117329,Samuel Adams Pub,Erlanger,"['Breakfast', 'Bar Food', 'Sandwich']",$$,2.9,4
+1685,17116727,Dive Bar,Clifton/Avondale,[],$,3.3,2
+1686,17116969,China Garden,Harrison,['Chinese'],$,3.2,2
+1687,17113857,McKenna's,Union Township,"['American', 'Burger', 'Steak']",$$,3.4,3
+1688,17114082,Panaderia Las Mexicana,Fairfield,['Mexican'],$,3.4,3
+1689,17117885,Junker’s Tavern,Northside,['Bar Food'],$,3.0,2
+1690,17784427,La Fiesta Mexico,Forest Park,['Mexican'],$$,3.0,3
+1691,17113357,J W Dink's Saloon,Hamilton,['Bar Food'],$,2.8,3
+1692,17115014,Tina's Carryout,Over-the-Rhine/Mount Auburn,"['BBQ', 'Sandwich']",$,3.3,2
+1693,17115609,Checker's 2,Middletown,"['Burger', 'Desserts']",$,3.3,2
+1694,17116927,La Isla Del Quetzal,West Chester,"['Mexican', 'Sandwich']",$,3.0,4
+1695,17113043,Froggys Bar & Grill,West Chester,"['American', 'Bar Food']",$,3.3,2
+1696,17112823,Tapout Bar & Grille,Hamilton,['American'],$,2.7,2
+1697,17113068,Gazebo Tea Garden,Blue Ash,['Tea'],$$,3.3,2
+1698,17115778,Hole In The Wall Bar,Oxford,['American'],$,3.1,3
+1699,17117087,Simply Grand Cafe,Downtown,"['Breakfast', 'Sandwich', 'Healthy Food']",$,3.2,3
+1700,17117176,"Dough Boy's Breakfast, Bakery & More",Morrow,"['Breakfast', 'Diner']",$,2.9,2
+1701,17117647,Wyoming Meat Market,Wyoming/Arlington Heights/Reading,['Sandwich'],$,3.1,3
+1702,17113446,KJ's Pub,Crescent Springs/Fort Wright,['Bar Food'],$$,3.4,3
+1703,17114176,Peecox Bar & Grill,Erlanger,"['American', 'Breakfast', 'Bar Food']",$,2.7,2
+1704,17115038,701,Covington,['American'],$,3.1,3
+1705,17115377,Peecox Roost II,Independence,"['American', 'Breakfast', 'Bar Food']",$,3.2,3
+1706,17116343,Zippers' Dogs,Downtown,['Fast Food'],$,2.8,4
+1707,17117083,Orange Leaf Frozen Yogurt,Cheviot/Westwood,['Desserts'],$,3.3,3
+1708,17117507,Frisch's Big Boy,Middletown,"['Breakfast', 'Burger']",$,2.8,4
+1709,17112964,Florence Bakery,Florence,[],$,3.2,3
+1710,17113194,Bistro 737,Florence,['American'],$$$,3.2,2
+1711,17113906,Mister Softee,Campbell County,['Desserts'],$,3.2,2
+1712,17115466,Ron's Place,Blanchester,['American'],$$,3.1,1
+1713,17116605,McDog's Lakeside Saloon,Colerain Township,"['Burger', 'Pizza', 'Bar Food']",$,3.3,1
+1714,17115214,Whip,Fairfield,['Desserts'],$,3.0,3
+1715,17115708,Miranda's Old Time Ice Cream,Morrow,"['Desserts', 'Ice Cream']",$,3.5,3
+1716,17116055,Sue's Deli,Covington,['Sandwich'],$,3.1,1
+1717,17116654,Eagle Cafe,Middletown,"['American', 'Breakfast']",$,3.1,2
+1718,17116796,Jeff's Quick Stop--Beer Wine Deli Grocery,Loveland,['Sandwich'],$,3.2,3
+1719,17117068,Hot Head Burritos,Fairfield,"['Fast Food', 'Tex-Mex']",$,3.1,3
+1720,17117077,Menchie's Frozen Yogurt,West Chester,"['Desserts', 'Frozen Yogurt']",$,3.3,3
+1721,17117138,Cyberdive Cafe,College Hill/Mt Healthy,['American'],$,2.9,3
+1722,17117343,Simpler Times (BFF) Beer Food Fun,Covington,"['Pizza', 'Bar Food', 'Sandwich']",$,3.2,1
+1723,17112032,Artrageous Desserts,Montgomery,['Desserts'],$,2.8,2
+1724,17112519,China Kitchen,Anderson Township,['Chinese'],$,2.9,2
+1725,17112966,Florence Freedom Sports Bar,Florence,"['Burger', 'Bar Food', 'Sandwich']",$,2.9,3
+1726,17113587,Last Frame Bar & Grill,Mason,['Bar Food'],$,3.0,2
+1727,17114029,Ohio Lunch,Hamilton,['American'],$,3.5,2
+1728,17114050,Orange Julius,Florence,"['Desserts', 'Beverages']",$,3.0,3
+1729,17115482,Ann's Tavern,Cleves,['American'],$,3.2,1
+1730,17113733,Manor House,Springdale,['American'],$$,3.3,1
+1731,17115586,Family Diner,Lynchburg,['Diner'],$,3.0,4
+1732,17116805,Haute Chocolate,Montgomery,['Desserts'],$,3.2,2
+1733,17115516,Cherry Street Cafe,Georgetown,"['Burger', 'Diner']",$,3.2,1
+1734,17113079,Glass Family Pizza,Norwood,['Pizza'],$$,2.7,1
+1735,17115269,Windows on the Green,Springdale,"['American', 'Bar Food']",$,2.9,2
+1736,17112351,Cabanillas Cheezcakes,Florence,[],$$,3.0,1
+1737,17115464,Mc D's Diner,Blanchester,['Diner'],$,2.7,1
+1738,17115718,Mt. Orab Food Court,Mount Orab,['American'],$,3.4,2
+1739,17116721,Plum Court Wine Room,Downtown,[],$$,3.0,2
+1740,17116752,Kaimelsky's,Loveland,"['Burger', 'Vegetarian']",$,3.1,2
+1741,17113426,Joey's Delicatessen,Clifton/Avondale,['Sandwich'],$,3.2,2
+1742,17113751,Marina's International Deli,Symmes,['Sandwich'],$,3.2,2
+1743,17116313,Baskin-Robbins,Clifton/Avondale,['Ice Cream'],$,3.1,2
+1744,17116610,Cafe on the Green,New Richmond,"['American', 'Burger']",$$$,3.2,2
+1745,17116701,Kajun Krawfish,Over-the-Rhine/Mount Auburn,['Cajun'],$$,3.1,1
+1746,17113269,Hill Top Coffee Shop,Price Hill/Fairmount,"['Coffee and Tea', 'Sandwich']",$,3.2,2
+1747,17113349,J & J's Bar,Covington,['Bar Food'],$,3.1,2
+1748,17117652,Wienerwurst Mike Frankfurtary,Over-the-Rhine/Mount Auburn,['German'],$,2.9,4
+1749,17112884,Elmore Street Cafe,Northside,['American'],$,3.0,1
+1750,17117522,Sky Room,Cheviot/Westwood,"['Mexican', 'Tex-Mex', 'California']",$,3.3,2
+1751,17114879,Sundy's Pub,College Hill/Mt Healthy,['Bar Food'],$,3.3,2
+1752,17115369,North Star Cafe,Downtown,"['American', 'Sandwich']",$,2.9,2
+1753,17115673,Rally's,Middletown,"['Burger', 'Fast Food']",$,2.7,2
+1754,17115457,Big Dipper Dairy Bar,Blanchester,"['Burger', 'Desserts']",$,3.1,2
+1755,17115540,A & W All-American Food,Harrison,['American'],$,3.0,1
+1756,17115690,Take a Break Lounge,Middletown,['Bar Food'],$,3.2,1
+1757,17116080,Sweet Dreams Candy Co.,Campbell County,['Desserts'],$,3.1,1
+1758,17116112,United Dairy Farmers,West Chester,['Desserts'],$,3.2,2
+1759,17116293,Grinders Coffee Company,Maineville,"['Coffee and Tea', 'Sandwich', 'Beverages']",$,3.2,2
+1760,17116636,United Dairy Farmers,Walnut Hills/Mount Adams,['Desserts'],$,3.2,2
+1761,17116811,Pretzel Twister,Florence,['Desserts'],$,3.0,4
+1762,17116912,T's Place,Covington,"['BBQ', 'Sandwich', 'Southern']",$,3.2,1
+1763,17117322,Orange Leaf Frozen Yogurt,Clifton/Avondale,['Desserts'],$,3.1,2
+1764,17117549,Sweet Petit Desserts,Over-the-Rhine/Mount Auburn,['Desserts'],$,3.1,4
+1765,17117767,House of Van,Fairfield,"['Asian', 'Chinese']",$,3.1,2
+1766,17117908,Rhino's Frozen Yogurt & Soft Serve,Blue Ash,['Desserts'],$,2.9,4
+1767,17117944,Dwayne Crutchfield's BBQ,College Hill/Mt Healthy,['BBQ'],$$,3.0,4
+1768,17117955,Stand,Middletown,['Coffee and Tea'],$,3.0,4
+1769,17112106,Bear Claw Cafe,Mason,['Sandwich'],$,2.9,2
+1770,17111906,Amegios Mexican Restraurant,Sharonville,['Mexican'],$,2.9,4
+1771,17112242,Brown Bar,Hamilton,['Bar Food'],$,3.1,1
+1772,17112489,China Buffet,Hamilton,['Chinese'],$,3.2,2
+1773,17112658,Creative Cake Designs,Wyoming/Arlington Heights/Reading,[],$$$$,3.0,2
+1774,17115060,Twin Lanterns,Cheviot/Westwood,['American'],$$,2.8,1
+1775,17115486,Dew Drop Inn,Cleves,['American'],$,3.3,1
+1776,17115525,Parker's Pizzeria,Georgetown,['Pizza'],$,3.4,1
+1777,17115057,Turner Gill's Bar & Grill,Hamilton,"['American', 'Bar Food']",$,3.2,1
+1778,17113256,Heaven Sent Bakery,Hamilton,['Desserts'],$,2.9,4
+1779,17116941,Pretzel Fest/Popcorn Pizzazz,Deer Park/Madeira,['Fast Food'],$,3.0,4
+1780,17112813,Donna's Carry-Out,Norwood,['Sandwich'],$,3.3,1
+1781,17115488,G & R Market,Cleves,['Sandwich'],$,2.7,1
+1782,17115504,Lake Lorelei Restaurant,Fayetteville,['American'],$,3.3,1
+1783,17113362,Jack's Carry Out,Walnut Hills/Mount Adams,['Fast Food'],$,2.8,4
+1784,17115750,Kiatta Saloon,Okeana,['Bar Food'],$,3.1,1
+1785,17116965,Tony's Pizzeria at Jump & Jack's,West Chester,"['Coffee and Tea', 'Pizza', 'Bar Food']",$,3.1,1
+1786,17114628,Skins Place,Cheviot/Westwood,['Bar Food'],$,3.2,1
+1787,17114502,Rookwood Ice Cream Parlor,Price Hill/Fairmount,"['Desserts', 'Ice Cream']",$,2.9,4
+1788,17115838,Mutts Brewery Lounge & Rest,Trenton,['Bar Food'],$,3.3,1
+1789,17116705,Heid-Away Cafe,Monfort Heights/White Oak,['Bar Food'],$,3.2,1
+1790,17117076,Moon Co-Op Cafe & Deli,Oxford,['Sandwich'],$$,3.1,1
+1791,17117962,Peg's Pub,Sharonville,['Bar Food'],$,3.0,4
+1792,17112158,Blossom's West Indian,Walnut Hills/Mount Adams,['Indian'],$$,2.9,1
+1793,17112469,Chicago Style Fish & Chicken,Over-the-Rhine/Mount Auburn,"['Fast Food', 'Seafood']",$,2.8,1
+1794,17113319,Ice Cream Palace,Over-the-Rhine/Mount Auburn,"['Desserts', 'Ice Cream']",$,3.0,1
+1795,17113534,Landen Sports Cafe,Landen,"['Burger', 'Bar Food', 'Sandwich']",$,3.2,1
+1796,17113729,Mangia Osteria,Walnut Hills/Mount Adams,['Bar Food'],$$,3.0,1
+1797,17112057,Station 43 Babes,Cheviot/Westwood,['Bar Food'],$,3.4,0
+1798,17115645,Marco's Pizza,Middletown,['Pizza'],$,3.2,1
+1799,17114161,Passage Cafe,Downtown,['American'],$,2.9,4
+1800,17114445,Reef,Campbell County,['American'],$,2.8,1
+1801,17114506,Angilo's Pizza,Fairfield,"['Italian', 'Pizza']",$$,3.2,1
+1802,17115450,Ice Cream Etc,Bethel,"['American', 'Desserts', 'Ice Cream']",$,3.2,1
+1803,17115473,Hard Times Cafe,Camden,"['American', 'Pizza', 'Sandwich']",$,3.0,4
+1804,17115508,Chilo Carryout & Deli,Felicity,"['Burger', 'Pizza', 'Sandwich']",$,3.0,4
+1805,17115601,Bucks,Middletown,"['American', 'Breakfast', 'Burger']",$,2.9,1
+1806,17116645,United Dairy Farmers,Amelia,"['Coffee and Tea', 'Desserts']",$,3.0,4
+1807,17116704,Vinnie's Gourmet Pretzels,Downtown,['Fast Food'],$,2.9,1
+1808,17116694,Cooper's Crepes,Downtown,"['European', 'Fast Food', 'French']",$,3.3,1
+1809,17116846,Bistro Verde,Downtown,[],$$,2.9,1
+1810,17116644,United Dairy Farmers,Cold Spring/Alexandria,"['Coffee and Tea', 'Desserts']",$,2.9,4
+1811,17116709,Great American Cookies,Colerain Township,['Desserts'],$,2.8,4
+1812,17116780,Snappy Tomato Pizza Co.,Walton,"['Pizza', 'Sandwich']",$,3.0,4
+1813,17116809,Clifton International Market,Clifton/Avondale,['International'],$,3.0,4
+1814,17116914,Ross Bakery,Hamilton,[],$,2.9,4
+1815,17117084,Orange Leaf Frozen Yogurt,Oxford,['Desserts'],$,3.3,1
+1816,17117246,Remi J's Barbeque,West Chester,['BBQ'],$,3.0,4
+1817,17117391,Sharkys Eats and Treats,Cold Spring/Alexandria,"['American', 'Desserts', 'Fast Food']",$,3.0,4
+1818,17113258,Heavenly Ham,Crestview Hills,"['American', 'Sandwich']",$,2.8,4
+1819,17113355,J D's Deli,Covington,['Sandwich'],$,3.3,1
+1820,17112373,Cajun Cajun,Anderson Township,['Southern'],$$,2.9,4
+1821,17112733,Derf's Tavern,Covington,['Bar Food'],$,2.9,4
+1822,17113384,Jeannie's Tavern,Covington,['Bar Food'],$,3.0,4
+1823,17113950,Muggbees Sports Bar,Crescent Springs/Fort Wright,['Bar Food'],$,2.8,1
+1824,17113885,Mike's Fish & Bar-B-Q,Norwood,"['BBQ', 'Seafood']",$,2.9,1
+1825,17113976,New Amber,Clifton/Avondale,"['Indian', 'Pakistani', 'Vegetarian']",$$,3.1,1
+1826,17111922,Andy's Cafe,Carthage,"['American', 'Burger', 'Bar Food']",$,3.2,0
+1827,17115598,Bill's Open Door Cafe,Middletown,"['Breakfast', 'Burger', 'Bar Food']",$,2.9,0
+1828,17114573,Scotty's Catering,West Chester,['Sandwich'],$,3.2,0
+1829,17112202,Bond Hill Cafe,Bond Hill,"['American', 'Bar Food']",$,3.1,0
+1830,17114144,Papa's Pub,Florence,['Italian'],$,3.1,0
+1831,17115132,Weber's Cafe,Northside,['American'],$,3.2,0
+1832,17115852,Main Street Pizza,Williamsburg,['Pizza'],$,3.3,0
+1833,17116503,Friend's Backyard Grill,Clarksville,['American'],$,3.1,0
+1834,17117400,Garrett's Place Sports Bar and Grill,Walton,"['American', 'Bar Food']",$,2.8,4
+1835,17113248,Happy Hollow Inn,Norwood,['Pub Food'],$,3.2,0
+1836,17117546,True West Coffee,Hamilton,"['Breakfast', 'Coffee and Tea', 'Sandwich']",$,3.1,0
+1837,17112217,Bottoms Up,Covington,['Bar Food'],$,2.7,4
+1838,17112384,Camp Springs Tavern,Cold Spring/Alexandria,['Bar Food'],$,3.0,4
+1839,17112458,Chef's Kitchen Cakery,Deer Park/Madeira,['Desserts'],$,3.5,0
+1840,17113414,Jimmie's Tap Room,Norwood,['Bar Food'],$,3.2,0
+1841,17114070,P Dub's Cafe,Hamilton,['American'],$,3.0,0
+1842,17115520,Harold's Quick Shop Carry Out,Georgetown,['Sandwich'],$,3.2,0
+1843,17115694,Verity Discount Smokes & Crryt,Middletown,['Desserts'],$,3.0,0
+1844,17115503,Lake Lorelei Fisherman's Wharf,Fayetteville,['Seafood'],$$,2.8,4
+1845,17115539,Sub City,Hamersville,['Sandwich'],$,2.9,4
+1846,17115543,B & A Sports Bar,Harrison,['Bar Food'],$,2.7,0
+1847,17116424,Take A Break,West Chester,"['Coffee and Tea', 'Desserts', 'Beverages']",$,3.3,0
+1848,17116801,Wiggy Dip Ice Cream,Downtown,"['Desserts', 'Ice Cream']",$,3.2,0
+1849,17117111,Hot Head Burritos,Hamilton,"['Fast Food', 'Tex-Mex']",$,3.0,0
+1850,17117146,Holmes Cafe,Covington,"['American', 'Breakfast']",$,3.0,4
+1851,17117861,Indian Creek Tavern,Oxford,"['American', 'Pizza', 'Bar Food']",$,3.0,4
+1852,17112143,Biker Dude Ice Cream,Hamilton,"['Desserts', 'Ice Cream']",$,2.9,4
+1853,17112758,Dixie Club Cafe,Erlanger,['Bar Food'],$,3.2,0
+1854,17112871,El Pueblito,Florence,['Mexican'],$,2.8,4
+1855,17112899,Erwin's Choice Meats & Cater,Covington,['Sandwich'],$,3.1,0
+1856,17113086,Go Play Cafe,Mason,['American'],$,3.1,0
+1857,17414009,Buzzy's NYPD,Greendale,['Pizza'],$,4.4,8
+1858,17417691,3rd & Main,Aurora,"['American', 'BBQ', 'Burger']",$$$,4.4,97
+1859,17418349,Maverick's Firewater Grill,Greendale,"['American', 'Burger', 'Italian']",$,3.0,9
+1860,17414964,Whisky's Family Restaurant,Lawrenceburg,"['American', 'Seafood']",$$$,3.9,62
+1861,18350685,LaRosa's Pizza Greendale,Greendale,['Pizza'],$,3.8,9
+1862,17417138,St. Leon Tavern,West Harrison,"['Burger', 'Bar Food']",$,3.9,8
+1863,17418188,Main Street Diner,Rising Sun,"['BBQ', 'Breakfast', 'Burger']",$,3.3,3
+1864,17416185,Jack's Place,Rising Sun,"['Breakfast', 'Diner', 'Sandwich']",$,3.4,5
+1865,17418150,Los Primos Mexican Restaurant,Lawrenceburg,"['American', 'Mexican']",$,3.9,22
+1866,17418378,Primetime Pizza,Lawrenceburg,"['Burger', 'Pizza', 'Sandwich']",$,3.7,28
+1867,17416184,Hong Kong Kitchen,Rising Sun,['Chinese'],$,3.5,7
+1868,17417835,Final Cut Steakhouse,Lawrenceburg,"['American', 'Sandwich', 'Steak']",$$$$,3.4,27
+1869,17417685,Lawrenceburger,Lawrenceburg,"['Burger', 'Bar Food']",$,3.9,32
+1870,17418691,Happy Dragon,Lawrenceburg,['Chinese'],$,3.4,18
+1871,17431360,Edwardo's Pizza & Subs,Crittenden,"['Pizza', 'Sandwich', 'Healthy Food']",$,3.9,4
+1872,17431368,Whippy-Dip,Crittenden,"['Burger', 'Desserts', 'Sandwich']",$,4.0,7
+1873,17414965,Willie's Sports Cafe,Lawrenceburg,"['American', 'Bar Food', 'Sandwich']",$$,3.6,25
+1874,17416189,River House III Bar & Grill Incorporated,Rising Sun,"['Bar Food', 'Sandwich']",$,3.3,4
+1875,17418464,Caudillo's Pizza,Rising Sun,"['Italian', 'Pizza', 'Sandwich']",$$,3.5,4
+1876,17417963,Bryceno's,Patriot,"['Burger', 'Diner', 'Italian']",$,3.2,1
+1877,17418269,Chateau Pomije Vineyard Café,Guilford,"['American', 'Mediterranean']",$$,3.4,4
+1878,17414917,Acapulco Mexican Restaurant,Lawrenceburg,"['Mexican', 'Tex-Mex']",$$,3.8,25
+1879,17416190,Rockies Bar & Grill,Rising Sun,"['Burger', 'Bar Food']",$,3.7,2
+1880,17414951,Sakura Japanese Steak House & Sushi,Lawrenceburg,"['Japanese', 'Steak', 'Sushi']",$$$,3.7,18
+1881,17418012,Snappy Tomato Pizza Co.,Rising Sun,"['Pizza', 'Sandwich']",$,2.9,4
+1882,17414123,Klumps Tavern,Guilford,['Bar Food'],$,3.4,3
+1883,17431366,Thornberry's Bakery,Crittenden,[],$,3.9,2
+1884,17412851,Big Daddy's Bar-B-Q & Lil' Mama's Fixins',Aurora,"['American', 'BBQ']",$$,3.7,24
+1885,17418177,Zorbas Greek Restaurant,Lawrenceburg,"['Burger', 'Greek', 'Vegetarian']",$,3.3,14
+1886,17416192,Subway,Rising Sun,['Fast Food'],$,3.0,2
+1887,17418471,Hickory House,Rising Sun,"['American', 'BBQ']",$$,3.4,1
+1888,17418092,DJ's Bakery,Bright,[],$,3.7,3
+1889,17414949,River Watch,Lawrenceburg,"['American', 'Bar Food', 'Seafood']",$$,3.5,12
+1890,17414943,New China Restaurant,Lawrenceburg,['Chinese'],$,3.6,10
+1891,17418083,Epic Buffet,Lawrenceburg,"['American', 'Breakfast']",$$$,3.3,6
+1892,17412857,Comb's Pizza,Aurora,"['Pizza', 'Sandwich']",$,3.6,8
+1893,17431362,McDonald's,Crittenden,['Fast Food'],$,3.1,1
+1894,17418978,Beebs and Bubs,Lawrenceburg,"['Sandwich', 'Healthy Food']",$,3.2,4
+1895,17418340,Daniel's Cafe & Coffeehouse,Aurora,"['Coffee and Tea', 'Sandwich', 'Healthy Food']",$,3.7,7
+1896,17418939,Woody's On the Hill Bar & Grille,Aurora,"['American', 'Bar Food', 'Steak']",$$,3.4,7
+1897,17417132,Blimpie,West Harrison,['Fast Food'],$,3.1,1
+1898,17417922,The Brickyard Cafe,Lawrenceburg,"['Burger', 'Bar Food']",$,3.5,6
+1899,17414954,Snappy Tomato Pizza Co,Lawrenceburg,"['Pizza', 'Sandwich']",$,3.1,6
+1900,17414011,Half Moon Saloon,Greendale,['Bar Food'],$,2.7,1
+1901,17414959,Subway,Lawrenceburg,['Fast Food'],$,3.3,6
+1902,17418363,Waffle House,Greendale,"['American', 'Breakfast']",$,3.1,1
+1903,17412855,China Wok Restaurant,Aurora,"['Thai', 'Vegetarian', 'Tea']",$,3.6,5
+1904,17414938,L.A. Sweets Coffee Creamery and Hand Made Chocolates,Lawrenceburg,"['American', 'Coffee and Tea', 'Desserts']",$,3.3,4
+1905,17412860,Flavors Ice Cream & Deli,Aurora,"['Desserts', 'Sandwich', 'Ice Cream']",$,3.6,3
+1906,17414953,Skyline Chili,Lawrenceburg,"['Fast Food', 'Tex-Mex']",$,3.3,5
+1907,17757726,River City Tap + Grille,Lawrenceburg,"['Southern', 'Cajun']",$,3.2,4
+1908,17412852,Bob Evans,Aurora,"['American', 'Breakfast']",$,3.5,4
+1909,17412849,Aurora Country Kitchen,Aurora,"['American', 'Diner']",$,3.2,3
+1910,17414941,McDonald's,Lawrenceburg,['Fast Food'],$,3.2,2
+1911,17418307,Great Crescent Brewery,Aurora,"['Bar Food', 'Sandwich']",$,3.2,2
+1912,17412853,Burger King,Aurora,['Fast Food'],$,2.9,2
+1913,17414945,Penn Station,Lawrenceburg,['Sandwich'],$,3.2,2
+1914,17414946,Pizza Hut,Lawrenceburg,"['Fast Food', 'Pizza']",$,3.2,2
+1915,17414919,Arby's,Lawrenceburg,['Fast Food'],$,3.2,1
+1916,17412869,Taco Bell,Aurora,['Fast Food'],$,3.3,2
+1917,17431365,Subway,Crittenden,['Fast Food'],$,3.0,0
+1918,17417836,Marquee Cafe,Lawrenceburg,"['American', 'Breakfast', 'Southwestern']",$$,3.2,2
+1919,17414925,Domino's,Lawrenceburg,"['Fast Food', 'Pizza']",$,3.2,2
+1920,17418178,Howie's Diner,Lawrenceburg,"['American', 'Breakfast', 'Diner']",$,3.2,1
+1921,17414944,Papa John's Pizza,Lawrenceburg,"['Fast Food', 'Pizza']",$,3.2,1
+1922,17414928,Frisch's Big Boy,Lawrenceburg,['American'],$,3.2,1
+1923,17412859,Dairy Queen,Aurora,"['Fast Food', 'Ice Cream']",$,3.0,4
+1924,17412872,White Castle,Aurora,"['Breakfast', 'Burger', 'Fast Food']",$,3.2,0
+1925,17414931,Gold Star Chili,Lawrenceburg,['Fast Food'],$,3.2,4
+1926,17414958,Steak 'n Shake,Lawrenceburg,['Fast Food'],$,3.2,0
+1927,17414937,KFC,Lawrenceburg,['Fast Food'],$,3.2,0
+1928,17418717,Bob O's at the Levee,Lawrenceburg,"['Burger', 'Sandwich', 'Healthy Food']",$,3.2,4
